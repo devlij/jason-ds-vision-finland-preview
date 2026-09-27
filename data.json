@@ -257,8 +257,42 @@
       "caption": "Vanha Rauma, Rauma",
       "description": "Down a narrow cobbled lane in Vanha Rauma, UNESCO-listed wooden old town, one-storey houses in ochre, red, blue and green with pitched roofs close in on both sides under an overcast night sky. Warm lamplight and lit windows glow on the wooden facades while wet cobbles mirror the light, and a small café sign glows ahead. A quiet late-night stroll through the old town, season-honest at 11.8°C with no snow.",
       "approval_status": "Approved"
+    },
+    {
+      "id": "FI-01-016",
+      "city": "Tampere",
+      "site": "Tammerkoski Rapids",
+      "region": "Pirkanmaa",
+      "country": "Finland",
+      "file_16x9": "assets/fi-01-016-16x9.png",
+      "file_4x5": "assets/fi-01-016-4x5.png",
+      "file_9x16": "assets/fi-01-016-9x16.png",
+      "motion": null,
+      "scenario": "28 September 2026 · 01:30 Europe/Helsinki",
+      "daynight": "night",
+      "moods": [],
+      "caption": "Tammerkoski Rapids, Tampere",
+      "description": "From the stone balustrade of the Hämeensilta bridge at 1:30 in the morning, the Tammerkoski rapids churn with white foam down the stone channel, framed left by the Finlayson red-brick mill blocks and right by the floodlit Tampella-quarter factories along the wet riverside walk. Warm windows and street lamps glow under a fully overcast night sky, their light pooling on the dark water, with the bridge's statues standing at the piers. A quiet industrial-heritage night scene, season-honest at 8.2°C with no snow.",
+      "approval_status": "Approved"
+    },
+    {
+      "id": "FI-01-017",
+      "city": "Sund",
+      "site": "Kastelholm Castle",
+      "region": "Åland",
+      "country": "Finland",
+      "file_16x9": "assets/fi-01-017-16x9.png",
+      "file_4x5": "assets/fi-01-017-4x5.png",
+      "file_9x16": "assets/fi-01-017-9x16.png",
+      "motion": null,
+      "scenario": "28 September 2026 · 01:30 Europe/Mariehamn",
+      "daynight": "night",
+      "moods": [],
+      "caption": "Kastelholm Castle, Sund",
+      "description": "From the castle-side shore path at 1:30 in the morning, Kastelholm Castle rises as a dappled limewash-and-granite silhouette on its grassy bank, the tall donjon above the intact bailey block, under a starry clear night sky. The dark inlet water fills the foreground with star reflections, reeds and mossy shore rocks along the near bank, fallen autumn leaves on the path — a few warm windows the only light on the castle. A quiet medieval shoreline night, season-honest at 10.6°C with no snow.",
+      "approval_status": "Approved"
     }
   ],
-  "count": 15,
+  "count": 17,
   "motion_clips": 0
 }
