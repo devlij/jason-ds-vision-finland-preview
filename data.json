@@ -291,8 +291,42 @@
       "caption": "Kastelholm Castle, Sund",
       "description": "From the castle-side shore path at 1:30 in the morning, Kastelholm Castle rises as a dappled limewash-and-granite silhouette on its grassy bank, the tall donjon above the intact bailey block, under a starry clear night sky. The dark inlet water fills the foreground with star reflections, reeds and mossy shore rocks along the near bank, fallen autumn leaves on the path — a few warm windows the only light on the castle. A quiet medieval shoreline night, season-honest at 10.6°C with no snow.",
       "approval_status": "Approved"
+    },
+    {
+      "id": "FI-01-018",
+      "city": "Mariehamn",
+      "site": "Pommern Museum Ship",
+      "region": "Åland",
+      "country": "Finland",
+      "file_16x9": "assets/fi-01-018-16x9.png",
+      "file_4x5": "assets/fi-01-018-4x5.png",
+      "file_9x16": "assets/fi-01-018-9x16.png",
+      "motion": null,
+      "scenario": "28 September 2026 · 02:00 Europe/Mariehamn",
+      "daynight": "night",
+      "moods": [],
+      "caption": "Pommern Museum Ship, Mariehamn",
+      "description": "The four-masted barque Pommern rests at her West Harbour quay, her name in gold on the black bow, masts and furled yardarms rising into a starry late-September sky. Viewed eye-level from Sjöpromenaden, the wooden promenade stretches across the foreground to the right with the harbour's warm lamps glowing behind, while to the left the dark water of Västerhamn reflects the ship's lights and the distant shoreline. An honest 02:00 night view of Mariehamn's famous museum ship under clear skies at 12.3°C.",
+      "approval_status": "Approved"
+    },
+    {
+      "id": "FI-01-019",
+      "city": "Kittilä",
+      "site": "Levi Fell",
+      "region": "Lapland",
+      "country": "Finland",
+      "file_16x9": "assets/fi-01-019-16x9.png",
+      "file_4x5": "assets/fi-01-019-4x5.png",
+      "file_9x16": "assets/fi-01-019-9x16.png",
+      "motion": null,
+      "scenario": "28 September 2026 · 02:00 Europe/Helsinki",
+      "daynight": "night",
+      "moods": [],
+      "caption": "Levi Fell, Kittilä",
+      "description": "The Levitunturi fell rises above the Sirkka resort village in the full blaze of late-September ruska, its slopes a patchwork of red, gold, and dark conifer under a broken-cloud night sky. Warm lights scatter through the village at the fell's foot — lit hotels and lodges with ski-lift pylons faint on the slopes — while a rocky path through fallen birch leaves leads the eye from the dark foreground up to the summit. An honest 02:00 autumn night view of Finland's largest ski resort, 4.9°C, no snow yet.",
+      "approval_status": "Approved"
     }
   ],
-  "count": 17,
+  "count": 19,
   "motion_clips": 0
 }
