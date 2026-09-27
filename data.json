@@ -189,8 +189,42 @@
       "caption": "Naantali Old Town, Naantali",
       "description": "A narrow cobbled lane winds between pastel-painted wooden houses in Naantali Old Town at midnight, their gabled facades and white-trimmed windows glowing warmly under the cloudy night sky. Above the rooftops rises the grey stone of the medieval Convent Church, its Gothic windows lit against the dark cloud. Lanterns and house windows spill amber light onto the wet cobbles of the lane. A candid 00:00 night view of one of Finland's best-preserved wooden-town districts.",
       "approval_status": "Approved"
+    },
+    {
+      "id": "FI-01-012",
+      "city": "Savonlinna",
+      "site": "Olavinlinna Castle",
+      "region": "South Savo",
+      "country": "Finland",
+      "file_16x9": "assets/fi-01-012-16x9.png",
+      "file_4x5": "assets/fi-01-012-4x5.png",
+      "file_9x16": "assets/fi-01-012-9x16.png",
+      "motion": null,
+      "scenario": "28 September 2026 · 00:30 Europe/Helsinki",
+      "daynight": "night",
+      "moods": [],
+      "caption": "Olavinlinna Castle, Savonlinna",
+      "description": "Olavinlinna Castle's three round towers rise above the medieval fortress walls on its rocky island, viewed from the shore across the calm water of Lake Saimaa — warmly lit walls and towers at left and center, forested shoreline at right, the castle's reflection shimmering on the dark water. To the left the island's forest edge frames the scene; reeds and granite shore rocks fill the foreground. A candid night view under a starry clear sky at 00:30, the 1475 castle glowing warmly against the blue-black lakeland night.",
+      "approval_status": "Approved"
+    },
+    {
+      "id": "FI-01-013",
+      "city": "Rovaniemi",
+      "site": "Santa Claus Village",
+      "region": "Lapland",
+      "country": "Finland",
+      "file_16x9": "assets/fi-01-013-16x9.png",
+      "file_4x5": "assets/fi-01-013-4x5.png",
+      "file_9x16": "assets/fi-01-013-9x16.png",
+      "motion": null,
+      "scenario": "28 September 2026 · 00:30 Europe/Helsinki",
+      "daynight": "night",
+      "moods": [],
+      "caption": "Santa Claus Village, Rovaniemi",
+      "description": "The painted ARCTIC CIRCLE line crosses the cobbled square in the foreground — 66°33'16\"N POLAR CIRCLE — with log-built wooden houses on both sides: the Santa Claus Post Office with its wreath-hung door at left, a lit souvenir shop window at right, and the landmark tall wooden tower glowing warmly at the square's center. A direction signpost points to the North Pole and Rovaniemi city centre 8 km away. A candid midnight view of the village on the Arctic Circle, festive lights and shop windows burning against a starry 4.9°C night, the square quiet and empty after hours.",
+      "approval_status": "Approved"
     }
   ],
-  "count": 11,
+  "count": 13,
   "motion_clips": 0
 }
