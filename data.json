@@ -325,8 +325,42 @@
       "caption": "Levi Fell, Kittilä",
       "description": "The Levitunturi fell rises above the Sirkka resort village in the full blaze of late-September ruska, its slopes a patchwork of red, gold, and dark conifer under a broken-cloud night sky. Warm lights scatter through the village at the fell's foot — lit hotels and lodges with ski-lift pylons faint on the slopes — while a rocky path through fallen birch leaves leads the eye from the dark foreground up to the summit. An honest 02:00 autumn night view of Finland's largest ski resort, 4.9°C, no snow yet.",
       "approval_status": "Approved"
+    },
+    {
+      "id": "FI-01-020",
+      "city": "Oulu",
+      "site": "Oulu Cathedral",
+      "region": "North Ostrobothnia",
+      "country": "Finland",
+      "file_16x9": "assets/fi-01-020-16x9.png",
+      "file_4x5": "assets/fi-01-020-4x5.png",
+      "file_9x16": "assets/fi-01-020-9x16.png",
+      "motion": null,
+      "scenario": "28 September 2026 · 02:30 Europe/Helsinki",
+      "daynight": "night",
+      "moods": [],
+      "caption": "Oulu Cathedral, Oulu",
+      "description": "From the open square on Kirkkokatu, Oulu Cathedral's ochre neoclassical front glows under floodlights on a starless overcast night. Left of center rises the tall lantern tower with its lit clock face and dark spire crowned by a golden orb; the green verdigris dome crowns the nave to the right, arched windows spilling amber light, while the blue KIRKKOKATU sign and lit shopfronts frame the square's edges. Wet cobblestones mirror the lamplight at a model 6.6°C — a season-honest late-September night with no snow, the 92% cloud deck hiding every star.",
+      "approval_status": "Approved"
+    },
+    {
+      "id": "FI-01-021",
+      "city": "Kuusamo",
+      "site": "Ruka Fell",
+      "region": "North Ostrobothnia",
+      "country": "Finland",
+      "file_16x9": "assets/fi-01-021-16x9.png",
+      "file_4x5": "assets/fi-01-021-4x5.png",
+      "file_9x16": "assets/fi-01-021-9x16.png",
+      "motion": null,
+      "scenario": "28 September 2026 · 02:30 Europe/Helsinki",
+      "daynight": "night",
+      "moods": [],
+      "caption": "Ruka Fell, Kuusamo",
+      "description": "From the quiet Ruka resort base, the dark rounded mass of Rukatunturi rises against a full star field, its slopes patched with ruska-gold birch and dark conifer while a chairlift line climbs unlit to the summit masts. Left and right, warm-lit wooden base buildings — a café-restaurant and the ski-rental hut — glow empty over bike racks and picnic tables, and the foreground is a dark fringe of treeline and autumn undergrowth. At a model 3.2°C there is no snow anywhere, season-honest for late September; the 3% cloud cover leaves every star visible and no aurora is implied.",
+      "approval_status": "Approved"
     }
   ],
-  "count": 19,
+  "count": 21,
   "motion_clips": 0
 }
