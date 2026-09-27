@@ -1,0 +1,26 @@
+{
+  "country": "Finland",
+  "code": "FI",
+  "canonical": "https://devlij.github.io/jason-ds-vision-finland-preview/",
+  "scenes": [
+    {
+      "id": "FI-01-001",
+      "city": "Helsinki",
+      "site": "Helsinki Cathedral",
+      "region": "Uusimaa",
+      "country": "Finland",
+      "file_16x9": "assets/fi-01-001-16x9.png",
+      "file_4x5": "assets/fi-01-001-4x5.png",
+      "file_9x16": "assets/fi-01-001-9x16.png",
+      "motion": null,
+      "scenario": "27 September 2026 · 21:30 Europe/Helsinki",
+      "daynight": "night",
+      "moods": [],
+      "caption": "Helsinki Cathedral, Helsinki",
+      "description": "The floodlit white cathedral rises above Senate Square on its broad stone staircase, its green dome and apostle statues glowing against a starry late-September sky. From the square's lower steps the neoclassical facade fills the frame — colonnaded portico below, corner towers flanking the central dome, warm lamplight spilling from the square's edges. A candid night view of Helsinki's most recognizable landmark, captured under clear skies at 21:30.",
+      "approval_status": "Approved"
+    }
+  ],
+  "count": 1,
+  "motion_clips": 0
+}
