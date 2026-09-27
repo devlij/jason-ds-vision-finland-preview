@@ -223,8 +223,42 @@
       "caption": "Santa Claus Village, Rovaniemi",
       "description": "The painted ARCTIC CIRCLE line crosses the cobbled square in the foreground — 66°33'16\"N POLAR CIRCLE — with log-built wooden houses on both sides: the Santa Claus Post Office with its wreath-hung door at left, a lit souvenir shop window at right, and the landmark tall wooden tower glowing warmly at the square's center. A direction signpost points to the North Pole and Rovaniemi city centre 8 km away. A candid midnight view of the village on the Arctic Circle, festive lights and shop windows burning against a starry 4.9°C night, the square quiet and empty after hours.",
       "approval_status": "Approved"
+    },
+    {
+      "id": "FI-01-014",
+      "city": "Koli",
+      "site": "Ukko-Koli Viewpoint",
+      "region": "North Karelia",
+      "country": "Finland",
+      "file_16x9": "assets/fi-01-014-16x9.png",
+      "file_4x5": "assets/fi-01-014-4x5.png",
+      "file_9x16": "assets/fi-01-014-9x16.png",
+      "motion": null,
+      "scenario": "28 September 2026 · 01:00 Europe/Helsinki",
+      "daynight": "night",
+      "moods": [],
+      "caption": "Ukko-Koli Viewpoint, Koli",
+      "description": "From the Ukko-Koli summit clifftop, Finland's national landscape unfolds under a starry clear-sky night: Lake Pielinen spreads to the horizon, dotted with forested islands, between dark coniferous ridges. The rocky quartzite summit fills the foreground, its wooden viewpoint railing and trail sign catching the night, while the lake below mirrors the sky. Season-honest late-September dark, no snow, 6.3°C.",
+      "approval_status": "Approved"
+    },
+    {
+      "id": "FI-01-015",
+      "city": "Rauma",
+      "site": "Vanha Rauma",
+      "region": "Satakunta",
+      "country": "Finland",
+      "file_16x9": "assets/fi-01-015-16x9.png",
+      "file_4x5": "assets/fi-01-015-4x5.png",
+      "file_9x16": "assets/fi-01-015-9x16.png",
+      "motion": null,
+      "scenario": "28 September 2026 · 01:00 Europe/Helsinki",
+      "daynight": "night",
+      "moods": [],
+      "caption": "Vanha Rauma, Rauma",
+      "description": "Down a narrow cobbled lane in Vanha Rauma, UNESCO-listed wooden old town, one-storey houses in ochre, red, blue and green with pitched roofs close in on both sides under an overcast night sky. Warm lamplight and lit windows glow on the wooden facades while wet cobbles mirror the light, and a small café sign glows ahead. A quiet late-night stroll through the old town, season-honest at 11.8°C with no snow.",
+      "approval_status": "Approved"
     }
   ],
-  "count": 13,
+  "count": 15,
   "motion_clips": 0
 }
