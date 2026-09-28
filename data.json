@@ -1192,8 +1192,42 @@
       "caption": "Saana Fell, Enontekiö",
       "description": "A candid eye-level view from the lakeshore of Lake Kilpisjärvi: Saana Fell rises in its unmistakable triangular silhouette, 556 metres above the lake, bare rock upper slopes fading into autumn tundra under a flat overcast sky. Flat 1.7°C afternoon light softens the rocky shoreline, moss and driftwood frame the water's edge, and low cloud drifts across the summit as the fell stands above Finnish Lapland.",
       "approval_status": "Approved"
+    },
+    {
+      "id": "FI-01-071",
+      "city": "Kolari",
+      "site": "Ylläs Fell",
+      "region": "Lapland",
+      "country": "Finland",
+      "file_16x9": "assets/fi-01-071-16x9.png",
+      "file_4x5": "assets/fi-01-071-4x5.png",
+      "file_9x16": "assets/fi-01-071-9x16.png",
+      "motion": "video/fi-01-071-motion-8s.mp4",
+      "scenario": "28 September 2026 · 16:00 Europe/Helsinki",
+      "daynight": "day",
+      "moods": [],
+      "caption": "Ylläs Fell, Kolari",
+      "description": "A candid eye-level view from a forest trail on the Äkäslompolo side: Ylläs Fell rises in its rounded 719-metre dome, cleared ski-slope corridors threading up through spruce forest touched with ruska, a trail sign pointing toward Äkäslompolo, Ylläsjärvi and the fell in the right foreground. Flat 9.2°C drizzle light under full cloud, the wet road strewn with fallen leaves, and low mist drifting across the summit as the fell stands between its two villages.",
+      "approval_status": "Approved"
+    },
+    {
+      "id": "FI-01-072",
+      "city": "Pelkosenniemi",
+      "site": "Pyhä-Luosto National Park",
+      "region": "Lapland",
+      "country": "Finland",
+      "file_16x9": "assets/fi-01-072-16x9.png",
+      "file_4x5": "assets/fi-01-072-4x5.png",
+      "file_9x16": "assets/fi-01-072-9x16.png",
+      "motion": "video/fi-01-072-motion-8s.mp4",
+      "scenario": "28 September 2026 · 16:00 Europe/Helsinki",
+      "daynight": "day",
+      "moods": [],
+      "caption": "Pyhä-Luosto National Park, Pelkosenniemi",
+      "description": "A candid eye-level view from the duckboarded nature trail: Finland's deepest gorge, Isokuru, cuts a steep quartzite ravine down the nearest fell face, with the Pyhä–Luosto fell chain stretching across the horizon under flat overcast light. Open aapa mire in ruska tones and pools spreads through the valley below, old-growth pines clothe the slopes, and the weathered duckboard with cotton-grass heads frames the foreground — late-September Lapland at 8.2°C, no snow.",
+      "approval_status": "Approved"
     }
   ],
-  "count": 70,
-  "motion_clips": 28
+  "count": 72,
+  "motion_clips": 30
 }
