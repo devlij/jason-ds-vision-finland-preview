@@ -1872,8 +1872,42 @@
       "caption": "Tiilikkajärvi National Park, Rautavaara",
       "description": "At the shore of Lake Tiilikkajärvi at 2 in the morning, the park belongs to the dark: to the left, the black water of the barren lake lies flat against a pale curve of sand; at center, a wooden lean-to shelter keeps its stacked firewood and an unlit stone campfire ring on the empty beach; to the right, old-growth pines and low esker ridges rise out of the gloom behind the campsite. Under an overcast 6.5°C sky with no moon and no stars, the scene is still and quiet — a national-park shoreline at true night, no fire, no people, nothing to break the silence.",
       "approval_status": "Approved"
+    },
+    {
+      "id": "FI-01-111",
+      "city": "Kuopio",
+      "site": "Kuopio Market Hall",
+      "region": "North Savo",
+      "country": "Finland",
+      "file_16x9": "assets/fi-01-111-16x9.png",
+      "file_4x5": "assets/fi-01-111-4x5.png",
+      "file_9x16": "assets/fi-01-111-9x16.png",
+      "motion": null,
+      "scenario": "29 September 2026 · 02:30 Europe/Helsinki",
+      "daynight": "night",
+      "moods": [],
+      "caption": "Kuopio Market Hall, Kuopio",
+      "description": "The yellow-brick 1902 market hall glows under its arched entrance on a wet overcast night, \"KAUPPA-HALLI\" lettered over the doorway and warm light spilling from within. From Kauppakatu the brick-and-glass facade runs left, the grand Art Nouveau arch anchors the center, and lit market stalls stretch right toward the dark harbour waters beyond. A candid late-night tourist view of Kuopio's historic market square, rain-slicked cobbles reflecting the lamps.",
+      "approval_status": "Approved"
+    },
+    {
+      "id": "FI-01-112",
+      "city": "Imatra",
+      "site": "Imatrankoski Rapids",
+      "region": "South Karelia",
+      "country": "Finland",
+      "file_16x9": "assets/fi-01-112-16x9.png",
+      "file_4x5": "assets/fi-01-112-4x5.png",
+      "file_9x16": "assets/fi-01-112-9x16.png",
+      "motion": null,
+      "scenario": "29 September 2026 · 02:30 Europe/Helsinki",
+      "daynight": "night",
+      "moods": [],
+      "caption": "Imatrankoski Rapids, Imatra",
+      "description": "The Imatrankoski rapids thunder down the rocky Vuoksi channel in white foam under a dark overcast night sky, lit from the underdeck lamps of the Koskisilta pedestrian bridge. White water fills the left of the frame, the lit bridge arches across the center, and the tree-lined banks of Kruununpuisto rise right to the glowing towers of the 1903 Valtionhotelli castle above the treeline. A candid late-night tourist view, rain-speckled railings in the foreground.",
+      "approval_status": "Approved"
     }
   ],
-  "count": 110,
+  "count": 112,
   "motion_clips": 34
 }
