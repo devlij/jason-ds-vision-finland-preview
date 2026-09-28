@@ -529,8 +529,42 @@
       "caption": "Torronsuo National Park, Tammela",
       "description": "Standing on the duckboard trail of Torronsuo, the wooden boardwalk runs wet and reflective through the open raised bog, drawing the eye toward the dark forest edge on the horizon. Left and right the mire spreads treeless — low mosses, sedges and white cotton-grass tufts — with sparse young pines breaking the surface and dark pools catching the low overcast glow. A candid night view of Finland's deepest bog, empty and silent under model overcast skies at 11.1°C, with no other visitor in sight.",
       "approval_status": "Approved"
+    },
+    {
+      "id": "FI-01-032",
+      "city": "Hattula",
+      "site": "Parola Armour Museum",
+      "region": "Kanta-Häme",
+      "country": "Finland",
+      "file_16x9": "assets/fi-01-032-16x9.png",
+      "file_4x5": "assets/fi-01-032-4x5.png",
+      "file_9x16": "assets/fi-01-032-9x16.png",
+      "motion": null,
+      "scenario": "28 September 2026 · 05:30 Europe/Helsinki",
+      "daynight": "night",
+      "moods": [],
+      "caption": "Parola Armour Museum, Hattula",
+      "description": "Standing on the museum's gravel path at night, dark rows of armored vehicles flank the view: tracked tanks with long barrels to the left and wheeled armored personnel carriers to the right. The modern museum hall glows ahead, its warmly lit entrance and windows reflected on the wet gravel under a fully overcast night sky, the museum's name marking the building above the door. Dark pine forest silhouettes frame both sides; nighttime, 10.6°C model data, no people in frame.",
+      "approval_status": "Approved"
+    },
+    {
+      "id": "FI-01-033",
+      "city": "Hauho",
+      "site": "Hauho Church",
+      "region": "Kanta-Häme",
+      "country": "Finland",
+      "file_16x9": "assets/fi-01-033-16x9.png",
+      "file_4x5": "assets/fi-01-033-4x5.png",
+      "file_9x16": "assets/fi-01-033-9x16.png",
+      "motion": null,
+      "scenario": "28 September 2026 · 05:30 Europe/Helsinki",
+      "daynight": "night",
+      "moods": [],
+      "caption": "Hauho Church, Hauho",
+      "description": "Standing in the churchyard at night among moss-covered gravestones, the medieval grey-stone church rises dark with its white gables faintly readable against a fully overcast night sky. The separate wooden belfry stands as a dark timber silhouette to the right of the nave, with old tombstones scattered across the yard in the foreground and dark pines behind. Nighttime, 10.0°C model data, no lights, no people in frame.",
+      "approval_status": "Approved"
     }
   ],
-  "count": 31,
+  "count": 33,
   "motion_clips": 0
 }
