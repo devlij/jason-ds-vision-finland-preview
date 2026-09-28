@@ -1838,8 +1838,42 @@
       "caption": "Vapriikki Museum Centre, Tampere",
       "description": "Across the Tammerkoski rapids at half past one in the morning, under a fully overcast night sky at 10.7°C. To the left, the red-brick facades of the former Tampella factory buildings stretch along the dark river, their tall industrial windows glowing warm. In the center, the Vapriikki museum entrance stands lit above the rapids, its brick clock tower rising against the clouded sky. To the right, the rooftops of the Finlayson factory district rise behind wet, reflective riverside ground, while the rapids run black in the foreground under the night cloud deck.",
       "approval_status": "Approved"
+    },
+    {
+      "id": "FI-01-109",
+      "city": "Kuopio",
+      "site": "Tahko Ski Resort",
+      "region": "North Savo",
+      "country": "Finland",
+      "file_16x9": "assets/fi-01-109-16x9.png",
+      "file_4x5": "assets/fi-01-109-4x5.png",
+      "file_9x16": "assets/fi-01-109-9x16.png",
+      "motion": null,
+      "scenario": "29 September 2026 · 02:00 Europe/Helsinki",
+      "daynight": "night",
+      "moods": [],
+      "caption": "Tahko Ski Resort, Kuopio",
+      "description": "From the resort base at Tahko, the eye climbs the fell at night: to the left, floodlit grass ski-run corridors descend through dark autumn forest threaded with golden birch; at center, the chairlift line rises to the summit ridge, its lit chairs hanging motionless over the black treeline; to the right, the warm glow of wooden cottages and lodges of the resort village spills onto wet ground after rain. Under an overcast 8.2°C September sky with no snow anywhere, this is Tahko outside its ski season — a working resort village at rest beneath its dark, lit fell.",
+      "approval_status": "Approved"
+    },
+    {
+      "id": "FI-01-110",
+      "city": "Rautavaara",
+      "site": "Tiilikkajärvi National Park",
+      "region": "North Savo",
+      "country": "Finland",
+      "file_16x9": "assets/fi-01-110-16x9.png",
+      "file_4x5": "assets/fi-01-110-4x5.png",
+      "file_9x16": "assets/fi-01-110-9x16.png",
+      "motion": null,
+      "scenario": "29 September 2026 · 02:00 Europe/Helsinki",
+      "daynight": "night",
+      "moods": [],
+      "caption": "Tiilikkajärvi National Park, Rautavaara",
+      "description": "At the shore of Lake Tiilikkajärvi at 2 in the morning, the park belongs to the dark: to the left, the black water of the barren lake lies flat against a pale curve of sand; at center, a wooden lean-to shelter keeps its stacked firewood and an unlit stone campfire ring on the empty beach; to the right, old-growth pines and low esker ridges rise out of the gloom behind the campsite. Under an overcast 6.5°C sky with no moon and no stars, the scene is still and quiet — a national-park shoreline at true night, no fire, no people, nothing to break the silence.",
+      "approval_status": "Approved"
     }
   ],
-  "count": 108,
+  "count": 110,
   "motion_clips": 34
 }
