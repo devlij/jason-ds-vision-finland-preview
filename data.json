@@ -869,8 +869,25 @@
       "caption": "Paltaniemi Church, Kajaani",
       "description": "From the churchyard beside the lake, the weathered ochre timber of Paltaniemi Church (1726) fills the left and center — its tall cupola-topped steeple rising against a flat grey sky — while the small red Keisarintalli stable museum with white fretwork trim stands beside it on the right. The rocky shore of Lake Oulujärvi stretches across the right edge with driftwood, autumn reeds and a 'Paltaniemi kirkko 1726' sign. On an overcast late-September morning the light is soft and shadowless, and the birches stand nearly bare.",
       "approval_status": "Approved"
+    },
+    {
+      "id": "FI-01-053",
+      "city": "Puolanka",
+      "site": "Hepoköngäs Waterfall",
+      "region": "Kainuu",
+      "country": "Finland",
+      "file_16x9": "assets/fi-01-053-16x9.png",
+      "file_4x5": "assets/fi-01-053-4x5.png",
+      "file_9x16": "assets/fi-01-053-9x16.png",
+      "motion": "video/fi-01-053-motion-8s.mp4",
+      "scenario": "28 September 2026 · 11:00 Europe/Helsinki",
+      "daynight": "day",
+      "moods": [],
+      "caption": "Hepoköngäs Waterfall, Puolanka",
+      "description": "From the wooden viewing platform at the gorge's edge, the Hepoköngäs cascade drops down the center of the frame — a white ribbon of water falling through the dark rocky walls of the Heinijoki ravine, spray drifting off the plunge below. Ancient moss-covered spruces crowd the left and right, their trunks framing the falls, while fallen autumn leaves scatter the deck boards at the bottom of the view. On an overcast late-September morning the light is flat and shadowless, and the autumn-moderate flow runs full between summer's trickle and spring's flood.",
+      "approval_status": "Approved"
     }
   ],
-  "count": 51,
-  "motion_clips": 11
+  "count": 52,
+  "motion_clips": 12
 }
