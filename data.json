@@ -954,8 +954,42 @@
       "caption": "Himos Ski Resort, Jämsä",
       "description": "Chairlifts cross the frame above the cleared slopes of Himos fell, the resort’s base buildings — HIMOS hotel and the RAVINTOLA restaurant — clustered at right beneath a mainly clear autumn sky. A wooden signpost points “rinteet 400 m” toward the slopes while boreal forest fills the valley below and the pistes climb to the summit at center. Note: this render shows snow patches inconsistent with late September (outside ski season); the scene is held as Candidate pending a snow-free autumn re-render.",
       "approval_status": "Candidate"
+    },
+    {
+      "id": "FI-01-058",
+      "city": "Jyväskylä",
+      "site": "Säynätsalo Town Hall",
+      "region": "Central Finland",
+      "country": "Finland",
+      "file_16x9": "assets/fi-01-058-16x9.png",
+      "file_4x5": "assets/fi-01-058-4x5.png",
+      "file_9x16": "assets/fi-01-058-9x16.png",
+      "motion": "video/fi-01-058-motion-8s.mp4",
+      "scenario": "28 September 2026 · 12:30 Europe/Helsinki",
+      "daynight": "day",
+      "moods": [],
+      "caption": "Säynätsalo Town Hall, Jyväskylä",
+      "description": "Eye-level view into the elevated brick courtyard of Alvar Aalto's Säynätsalo Town Hall (1949–52), its rough red-brick wings rising on all sides and the tower-like council chamber, copper-clad, dominating the skyline at center-right. Benches and a bicycle with wicker baskets rest in the wet courtyard at left and right, fallen birch leaves scattered across the brick paving, while pines and golden autumn birches press in around the island site. Soft, shadowless overcast light at midday under a grey late-September sky.",
+      "approval_status": "Approved"
+    },
+    {
+      "id": "FI-01-059",
+      "city": "Joutsa",
+      "site": "Leivonmäki National Park",
+      "region": "Central Finland",
+      "country": "Finland",
+      "file_16x9": "assets/fi-01-059-16x9.png",
+      "file_4x5": "assets/fi-01-059-4x5.png",
+      "file_9x16": "assets/fi-01-059-9x16.png",
+      "motion": "video/fi-01-059-motion-8s.mp4",
+      "scenario": "28 September 2026 · 12:30 Europe/Helsinki",
+      "daynight": "day",
+      "moods": [],
+      "caption": "Leivonmäki National Park, Joutsa",
+      "description": "Eye-level view from the water's edge on Lake Rutajärvi: moss-covered granite boulders and driftwood at left in the foreground, the flat grey lake stretching to a forested far shore at center, and tall old-growth pine and spruce rising directly behind the shoreline at both sides. A fringe of sedges and yellowed fallen leaves marks the waterline, and damp autumn forest — saturated mosses, standing dead timber — fills the frame. Soft shadowless overcast midday light under a silver-grey late-September sky.",
+      "approval_status": "Approved"
     }
   ],
-  "count": 56,
-  "motion_clips": 15
+  "count": 58,
+  "motion_clips": 17
 }
