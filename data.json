@@ -1753,8 +1753,42 @@
       "caption": "Sammallahdenmäki Bronze Age Burial Site, Rauma",
       "description": "On the bedrock ridge of the Sammallahdenmäki burial grounds after midnight under an overcast 11.9°C night sky. Left, smaller granite cairns scatter across the lichen-grey open rock. Center, the largest conical burial mounds rise along the ridge crest, piled from the ridge's own granite boulders. Right, polished bedrock slopes fall away to the pine forest that has grown up around this 3,000-year-old landscape — a still Bronze Age night at Finland's first archaeological UNESCO World Heritage site.",
       "approval_status": "Approved"
+    },
+    {
+      "id": "FI-01-104",
+      "city": "Pori",
+      "site": "Reposaari Island",
+      "region": "Satakunta",
+      "country": "Finland",
+      "file_16x9": "assets/fi-01-104-16x9.png",
+      "file_4x5": "assets/fi-01-104-4x5.png",
+      "file_9x16": "assets/fi-01-104-9x16.png",
+      "motion": null,
+      "scenario": "29 September 2026 · 00:30 Europe/Helsinki",
+      "daynight": "night",
+      "moods": [],
+      "caption": "Reposaari Island, Pori",
+      "description": "Standing on the wet wooden quay of the Reposaari fishing harbour after midnight, under a flat overcast sky at 13.6°C. To the left, moored fishing trawlers rest against the dock, their decks cluttered with coiled green ropes, nets and wooden crates. In the center, the island's little white wooden church with its green roof and spire glows warmly among the old timber houses, and to the right the long stone breakwater stretches out into the dark Bothnian Sea, ending in a small lit beacon.",
+      "approval_status": "Approved"
+    },
+    {
+      "id": "FI-01-105",
+      "city": "Tampere",
+      "site": "Näsinneula Observation Tower",
+      "region": "Pirkanmaa",
+      "country": "Finland",
+      "file_16x9": "assets/fi-01-105-16x9.png",
+      "file_4x5": "assets/fi-01-105-4x5.png",
+      "file_9x16": "assets/fi-01-105-9x16.png",
+      "motion": null,
+      "scenario": "29 September 2026 · 00:30 Europe/Helsinki",
+      "daynight": "night",
+      "moods": [],
+      "caption": "Näsinneula Observation Tower, Tampere",
+      "description": "Standing on the lakeshore below the Näsinneula tower after midnight, under a cloud-heavy sky at 10.5°C. To the left and center, the slender concrete needle rises above the dark treeline of Särkänniemi park, its pod-like restaurant head glowing warm near the top with the antenna tip above. To the right, the amusement park's rides glitter along the shore while dark water spreads below, and the overcast night sky carries the faint grey sheen of the city's reflected light.",
+      "approval_status": "Approved"
     }
   ],
-  "count": 103,
+  "count": 105,
   "motion_clips": 34
 }
