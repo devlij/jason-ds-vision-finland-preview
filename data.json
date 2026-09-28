@@ -988,8 +988,42 @@
       "caption": "Leivonmäki National Park, Joutsa",
       "description": "Eye-level view from the water's edge on Lake Rutajärvi: moss-covered granite boulders and driftwood at left in the foreground, the flat grey lake stretching to a forested far shore at center, and tall old-growth pine and spruce rising directly behind the shoreline at both sides. A fringe of sedges and yellowed fallen leaves marks the waterline, and damp autumn forest — saturated mosses, standing dead timber — fills the frame. Soft shadowless overcast midday light under a silver-grey late-September sky.",
       "approval_status": "Approved"
+    },
+    {
+      "id": "FI-01-060",
+      "city": "Seinäjoki",
+      "site": "Lakeuden Risti Church",
+      "region": "South Ostrobothnia",
+      "country": "Finland",
+      "file_16x9": "assets/fi-01-060-16x9.png",
+      "file_4x5": "assets/fi-01-060-4x5.png",
+      "file_9x16": "assets/fi-01-060-9x16.png",
+      "motion": "video/fi-01-060-motion-8s.mp4",
+      "scenario": "28 September 2026 · 13:00 Europe/Helsinki",
+      "daynight": "day",
+      "moods": [],
+      "caption": "Lakeuden Risti Church, Seinäjoki",
+      "description": "From the civic square, Alvar Aalto's white modernist Lakeuden Risti church fills the midground with its 65-metre cross-profiled campanile rising sheer beside it, clock faces and open belfry crown silhouetted against a clear blue sky. Autumn birches frame the left and right edges while the paved square — benches, bicycle racks, drifting fallen leaves — stretches across the foreground. Bright midday September light under clear skies, 15.5 °C, with the church's sculptural stepped volumes and dark entrance doors rendered in honest daylight.",
+      "approval_status": "Approved"
+    },
+    {
+      "id": "FI-01-061",
+      "city": "Seinäjoki",
+      "site": "Ylistaro Church",
+      "region": "South Ostrobothnia",
+      "country": "Finland",
+      "file_16x9": "assets/fi-01-061-16x9.png",
+      "file_4x5": "assets/fi-01-061-4x5.png",
+      "file_9x16": "assets/fi-01-061-9x16.png",
+      "motion": "video/fi-01-061-motion-8s.mp4",
+      "scenario": "28 September 2026 · 13:00 Europe/Helsinki",
+      "daynight": "day",
+      "moods": [],
+      "caption": "Ylistaro Church, Seinäjoki",
+      "description": "Across the Lapuantie road, the white Neo-Gothic Ylistaro Church — \"Komia kirkko,\" the Handsome Church — rises with its tall tower, rose windows and green spire filling the right of the frame. A blue road sign and a Finnish-language church plaque anchor the left foreground beside a wooden info board, with the asphalt road running between. Bright midday light under clear September skies, 15.0 °C, open Ostrobothnian fields stretching behind the churchyard.",
+      "approval_status": "Approved"
     }
   ],
-  "count": 58,
-  "motion_clips": 17
+  "count": 60,
+  "motion_clips": 19
 }
