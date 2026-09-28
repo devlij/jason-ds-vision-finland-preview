@@ -1481,8 +1481,42 @@
       "caption": "Kenkävero, Mikkeli",
       "description": "Standing in the Kenkävero vicarage courtyard at night, the ochre-painted main vicarage with its white-trimmed veranda glows warmly on the left, while red log outbuildings on the right carry hand-painted craft signs like KÄSITYÖPUOTI and YRTTIPUOTI — HERBS. In the foreground the herb garden spreads with labeled beds of rosemary, thyme and lavender, and cobblestones run between the buildings under a starry, mainly clear sky — an honest late-September night scene under current model conditions (mainly clear, 9.7 °C).",
       "approval_status": "Approved"
+    },
+    {
+      "id": "FI-01-088",
+      "city": "Mäntyharju",
+      "site": "Art Centre Salmela",
+      "region": "South Savo",
+      "country": "Finland",
+      "file_16x9": "assets/fi-01-088-16x9.png",
+      "file_4x5": "assets/fi-01-088-4x5.png",
+      "file_9x16": "assets/fi-01-088-9x16.png",
+      "motion": null,
+      "scenario": "28 September 2026 · 20:30 Europe/Helsinki",
+      "daynight": "night",
+      "moods": [],
+      "caption": "Art Centre Salmela, Mäntyharju",
+      "description": "From the sculpture park lawns at night, the mid-19th century parish house of Art Centre Salmela glows with lit veranda windows at centre-left, its pale timber facade set under a starry sky with a bright moon. Sculptures stand scattered across the dark grass in the foreground — abstract forms and an animal figure — while at right the lakeshore waterline with reeds catches the moon’s reflection. Across the street the orange church tower with its tall slender spire rises beyond the birches, completing an honest late-September night scene under current model conditions (clear sky, 9.4 °C).",
+      "approval_status": "Approved"
+    },
+    {
+      "id": "FI-01-089",
+      "city": "Enonkoski",
+      "site": "Kolovesi National Park",
+      "region": "South Savo",
+      "country": "Finland",
+      "file_16x9": "assets/fi-01-089-16x9.png",
+      "file_4x5": "assets/fi-01-089-4x5.png",
+      "file_9x16": "assets/fi-01-089-9x16.png",
+      "motion": null,
+      "scenario": "28 September 2026 · 20:30 Europe/Helsinki",
+      "daynight": "night",
+      "moods": [],
+      "caption": "Kolovesi National Park, Enonkoski",
+      "description": "From a canoe-level viewpoint on Lake Kolovesi at night, sheer pine-clad cliffs rise straight from the water at centre-left, their vertical rock faces caught in moonlight and mirrored perfectly in the glassy lake below. Old-growth pines crown the cliff tops and cling to the rock, while quiet coves tuck between the faces to the right under a clear starry sky — an honest late-September night scene in the heart of the Saimaa lake system under current model conditions (clear sky, 7.4 °C).",
+      "approval_status": "Approved"
     }
   ],
-  "count": 87,
+  "count": 89,
   "motion_clips": 34
 }
