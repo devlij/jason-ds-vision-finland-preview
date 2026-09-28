@@ -920,8 +920,42 @@
       "caption": "Petäjävesi Old Church, Petäjävesi",
       "description": "From the churchyard grounds beside a weathered wooden fence, the low pine-log body of Petäjävesi Old Church (1763–65) fills the left and center — steep shingle roofs, a small central spirelet, and horizontal log walls under a heavy overcast sky. Right, the free-standing wooden bell tower (1821) with its shingled base, red-and-white belfry stage and tall spire. Left foreground, a wooden sign marks the UNESCO World Heritage site; autumn leaves scatter the path. Diffuse late-September midday light, 10.1°C model conditions.",
       "approval_status": "Approved"
+    },
+    {
+      "id": "FI-01-056",
+      "city": "Keuruu",
+      "site": "Keuruu Old Church",
+      "region": "Central Finland",
+      "country": "Finland",
+      "file_16x9": "assets/fi-01-056-16x9.png",
+      "file_4x5": "assets/fi-01-056-4x5.png",
+      "file_9x16": "assets/fi-01-056-9x16.png",
+      "motion": "video/fi-01-056-motion-8s.mp4",
+      "scenario": "28 September 2026 · 12:00 Europe/Helsinki",
+      "daynight": "day",
+      "moods": [],
+      "caption": "Keuruu Old Church, Keuruu",
+      "description": "The red tarred-timber Keuruu Old Church stands on the lakeshore under a heavy grey autumn sky, its steep shingle roof and twin needle spires rising above the reeds. The multi-tier steeple anchors the center of the frame while the polygonal apse juts east toward the tree line, and the town edge shows across the dark rippled water at left. Fallen leaves drift in the shallows and a visitor stands by the church door — an honest overcast late-September view of the 1758 church, Central Finland’s oldest preserved church building.",
+      "approval_status": "Approved"
+    },
+    {
+      "id": "FI-01-057",
+      "city": "Jämsä",
+      "site": "Himos Ski Resort",
+      "region": "Central Finland",
+      "country": "Finland",
+      "file_16x9": "assets/fi-01-057-16x9.png",
+      "file_4x5": "assets/fi-01-057-4x5.png",
+      "file_9x16": "assets/fi-01-057-9x16.png",
+      "motion": null,
+      "scenario": "28 September 2026 · 12:00 Europe/Helsinki",
+      "daynight": "day",
+      "moods": [],
+      "caption": "Himos Ski Resort, Jämsä",
+      "description": "Chairlifts cross the frame above the cleared slopes of Himos fell, the resort’s base buildings — HIMOS hotel and the RAVINTOLA restaurant — clustered at right beneath a mainly clear autumn sky. A wooden signpost points “rinteet 400 m” toward the slopes while boreal forest fills the valley below and the pistes climb to the summit at center. Note: this render shows snow patches inconsistent with late September (outside ski season); the scene is held as Candidate pending a snow-free autumn re-render.",
+      "approval_status": "Candidate"
     }
   ],
-  "count": 54,
-  "motion_clips": 14
+  "count": 56,
+  "motion_clips": 15
 }
