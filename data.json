@@ -1447,8 +1447,42 @@
       "caption": "Mikkeli Cathedral, Mikkeli",
       "description": "From Cathedral Park at twilight, the red-brick Gothic Revival west front of Mikkeli Cathedral rises with its twin slender towers, clock faces and spires silhouetted against the afterglow, tall lancet windows glowing warm from inside. On the left, autumn-tinted park trees and lit lamps frame the view; benches and pathways fill the near foreground. To the right, the amber western sky fades toward the city centre's rooftops and a distant second spire, while overhead the sky deepens to clear blue.",
       "approval_status": "Approved"
+    },
+    {
+      "id": "FI-01-086",
+      "city": "Mikkeli",
+      "site": "Naisvuori Observation Tower",
+      "region": "South Savo",
+      "country": "Finland",
+      "file_16x9": "assets/fi-01-086-16x9.png",
+      "file_4x5": "assets/fi-01-086-4x5.png",
+      "file_9x16": "assets/fi-01-086-9x16.png",
+      "motion": null,
+      "scenario": "28 September 2026 · 17:07 UTC",
+      "daynight": "night",
+      "moods": [],
+      "caption": "Naisvuori Observation Tower, Mikkeli",
+      "description": "From the Naisvuori tower's viewing platform at night, Mikkeli's warmly lit rooftops spread below with a tall Gothic church spire rising at center, stone parapet and railing framing the lower foreground. In the middle distance the dark inlets of Lake Saimaa thread between the town and the far shore, boats moored near a lit harbour. To the right and beyond, forested hills ring the town under a starry, mainly clear night sky with a faint cool afterglow on the western horizon — an honest late-September night scene under current model conditions (mainly clear, 9.4 °C).",
+      "approval_status": "Approved"
+    },
+    {
+      "id": "FI-01-087",
+      "city": "Mikkeli",
+      "site": "Kenkävero",
+      "region": "South Savo",
+      "country": "Finland",
+      "file_16x9": "assets/fi-01-087-16x9.png",
+      "file_4x5": "assets/fi-01-087-4x5.png",
+      "file_9x16": "assets/fi-01-087-9x16.png",
+      "motion": null,
+      "scenario": "28 September 2026 · 20:00 Europe/Helsinki",
+      "daynight": "night",
+      "moods": [],
+      "caption": "Kenkävero, Mikkeli",
+      "description": "Standing in the Kenkävero vicarage courtyard at night, the ochre-painted main vicarage with its white-trimmed veranda glows warmly on the left, while red log outbuildings on the right carry hand-painted craft signs like KÄSITYÖPUOTI and YRTTIPUOTI — HERBS. In the foreground the herb garden spreads with labeled beds of rosemary, thyme and lavender, and cobblestones run between the buildings under a starry, mainly clear sky — an honest late-September night scene under current model conditions (mainly clear, 9.7 °C).",
+      "approval_status": "Approved"
     }
   ],
-  "count": 85,
+  "count": 87,
   "motion_clips": 34
 }
