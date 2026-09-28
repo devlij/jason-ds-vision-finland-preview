@@ -631,8 +631,42 @@
       "caption": "Maretarium, Kotka",
       "description": "From the wooden waterfront deck at pre-dawn, the modern Maretarium aquarium building rises across the frame with its angular roofline and 'Kotka Maretarium' facade lettering, the cylindrical tank volume beside the glass-fronted café level. Closed umbrellas and empty terrace tables fill the mid-ground left, the still bay water and moored boats stretch right toward a faint eastern brightening through heavy overcast. Dawn, 9.1°C model data, no people in frame, only a modest interior glow behind some windows.",
       "approval_status": "Approved"
+    },
+    {
+      "id": "FI-01-038",
+      "city": "Kotka",
+      "site": "Langinkoski Imperial Fishing Lodge",
+      "region": "Kymenlaakso",
+      "country": "Finland",
+      "file_16x9": "assets/fi-01-038-16x9.png",
+      "file_4x5": "assets/fi-01-038-4x5.png",
+      "file_9x16": "assets/fi-01-038-9x16.png",
+      "motion": null,
+      "scenario": "28 September 2026 · 07:00 Europe/Helsinki",
+      "daynight": "night",
+      "moods": [],
+      "caption": "Langinkoski Imperial Fishing Lodge, Kotka",
+      "description": "From the wooden footbridge beside the rapids at pre-dawn, the red-ochre Langinkoski Imperial Fishing Lodge spreads across the frame with its long open veranda, a small companion cabin tucked behind it to the left. The Kymijoki white-water rushes through the rocky foreground center, riverside pines crowding both banks, autumn-toned understory in blue-hour shadow. A faint warm brightening breaks through heavy overcast in the east, dawn, 7.5°C model data, no people in frame.",
+      "approval_status": "Approved"
+    },
+    {
+      "id": "FI-01-039",
+      "city": "Kotka",
+      "site": "Kotka Church",
+      "region": "Kymenlaakso",
+      "country": "Finland",
+      "file_16x9": "assets/fi-01-039-16x9.png",
+      "file_4x5": "assets/fi-01-039-4x5.png",
+      "file_9x16": "assets/fi-01-039-9x16.png",
+      "motion": null,
+      "scenario": "28 September 2026 · 07:00 Europe/Helsinki",
+      "daynight": "night",
+      "moods": [],
+      "caption": "Kotka Church, Kotka",
+      "description": "From Kirkkokatu at pre-dawn, the red-brick Neo-Gothic Kotka Church fills the frame: its tall copper-green spire with clock faces on the left, the large rose window on the street gable at right, pointed-arch windows and copper-green pitched roofs along the nave. A blue \"Kirkkokatu\" street sign stands in the left foreground, bicycles parked along the wet pavement, shop fronts dark across the street. A faint warm brightening breaks through heavy overcast in the east, dawn, 8.8 °C model data, no people in frame.",
+      "approval_status": "Approved"
     }
   ],
-  "count": 37,
+  "count": 39,
   "motion_clips": 0
 }
