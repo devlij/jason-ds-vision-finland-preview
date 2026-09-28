@@ -1821,8 +1821,25 @@
       "caption": "Helvetinjärvi National Park, Ruovesi",
       "description": "Inside the Helvetinkolu gorge after 1 a.m., under a fully overcast night sky at 11.0°C. To the left and center, the towering vertical bedrock walls of the cleft close in, their rock faces dark with moss and lichen, while a wooden boardwalk trail threads the narrow gap between them. To the right, the gorge opens onto the dark water of the lake below and pine-covered slopes climbing into mist under the clouded night sky.",
       "approval_status": "Approved"
+    },
+    {
+      "id": "FI-01-108",
+      "city": "Tampere",
+      "site": "Vapriikki Museum Centre",
+      "region": "Pirkanmaa",
+      "country": "Finland",
+      "file_16x9": "assets/fi-01-108-16x9.png",
+      "file_4x5": "assets/fi-01-108-4x5.png",
+      "file_9x16": "assets/fi-01-108-9x16.png",
+      "motion": null,
+      "scenario": "29 September 2026 · 01:30 Europe/Helsinki",
+      "daynight": "night",
+      "moods": [],
+      "caption": "Vapriikki Museum Centre, Tampere",
+      "description": "Across the Tammerkoski rapids at half past one in the morning, under a fully overcast night sky at 10.7°C. To the left, the red-brick facades of the former Tampella factory buildings stretch along the dark river, their tall industrial windows glowing warm. In the center, the Vapriikki museum entrance stands lit above the rapids, its brick clock tower rising against the clouded sky. To the right, the rooftops of the Finlayson factory district rise behind wet, reflective riverside ground, while the rapids run black in the foreground under the night cloud deck.",
+      "approval_status": "Approved"
     }
   ],
-  "count": 107,
+  "count": 108,
   "motion_clips": 34
 }
