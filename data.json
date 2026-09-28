@@ -1226,8 +1226,42 @@
       "caption": "Pyhä-Luosto National Park, Pelkosenniemi",
       "description": "A candid eye-level view from the duckboarded nature trail: Finland's deepest gorge, Isokuru, cuts a steep quartzite ravine down the nearest fell face, with the Pyhä–Luosto fell chain stretching across the horizon under flat overcast light. Open aapa mire in ruska tones and pools spreads through the valley below, old-growth pines clothe the slopes, and the weathered duckboard with cotton-grass heads frames the foreground — late-September Lapland at 8.2°C, no snow.",
       "approval_status": "Approved"
+    },
+    {
+      "id": "FI-01-073",
+      "city": "Posio",
+      "site": "Riisitunturi National Park",
+      "region": "Lapland",
+      "country": "Finland",
+      "file_16x9": "assets/fi-01-073-16x9.png",
+      "file_4x5": "assets/fi-01-073-4x5.png",
+      "file_9x16": "assets/fi-01-073-9x16.png",
+      "motion": "video/fi-01-073-motion-8s.mp4",
+      "scenario": "28 September 2026 · 16:30 Europe/Helsinki",
+      "daynight": "day",
+      "moods": [],
+      "caption": "Riisitunturi National Park, Posio",
+      "description": "From the fell-edge trail overlook, the twin-humped crest of Iso Riisitunturi rises in the middle distance, its bare rocky tops breaking the cloud line while the forest blanket falls away below. Left and center, the slope is alive with ruska color — golden birch, scarlet ground vegetation, and dark spruce — and right, the unbroken forest rolls toward the horizon, where distant fells and pale glimpses of lakes dissolve into the overcast. Soft diffused late-afternoon light under heavy cloud, 9.6°C, with no hard shadows: a honest late-September view of Posio's famous fell landscape, rendered snow-free for the season.",
+      "approval_status": "Approved"
+    },
+    {
+      "id": "FI-01-074",
+      "city": "Sodankylä",
+      "site": "Sodankylä Old Church",
+      "region": "Lapland",
+      "country": "Finland",
+      "file_16x9": "assets/fi-01-074-16x9.png",
+      "file_4x5": "assets/fi-01-074-4x5.png",
+      "file_9x16": "assets/fi-01-074-9x16.png",
+      "motion": null,
+      "scenario": "28 September 2026 · 16:30 Europe/Helsinki",
+      "daynight": "day",
+      "moods": [],
+      "caption": "Sodankylä Old Church, Sodankylä",
+      "description": "The tiny 1689 log church sits behind its weathered wooden fence, dark tarred log walls and a steep shingle roof rising without any tower, a simple cross on each gable end. Left, old spruces press close to the walls; right and beyond, the cemetery's grey gravestones scatter across autumn grass under a flat grey sky, with the Kitinen river valley a pale suggestion in the distance. Flat, directionless overcast light at 16:30 and 9.4°C mutes every color except the rust of fallen leaves: a candid, quiet view of one of Finland's oldest preserved wooden churches.",
+      "approval_status": "Approved"
     }
   ],
-  "count": 72,
-  "motion_clips": 30
+  "count": 74,
+  "motion_clips": 31
 }
