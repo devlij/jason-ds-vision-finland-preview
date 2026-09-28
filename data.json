@@ -1022,8 +1022,42 @@
       "caption": "Ylistaro Church, Seinäjoki",
       "description": "Across the Lapuantie road, the white Neo-Gothic Ylistaro Church — \"Komia kirkko,\" the Handsome Church — rises with its tall tower, rose windows and green spire filling the right of the frame. A blue road sign and a Finnish-language church plaque anchor the left foreground beside a wooden info board, with the asphalt road running between. Bright midday light under clear September skies, 15.0 °C, open Ostrobothnian fields stretching behind the churchyard.",
       "approval_status": "Approved"
+    },
+    {
+      "id": "FI-01-062",
+      "city": "Lapua",
+      "site": "Lapua Cathedral",
+      "region": "South Ostrobothnia",
+      "country": "Finland",
+      "file_16x9": "assets/fi-01-062-16x9.png",
+      "file_4x5": "assets/fi-01-062-4x5.png",
+      "file_9x16": "assets/fi-01-062-9x16.png",
+      "motion": "video/fi-01-062-motion-8s.mp4",
+      "scenario": "28 September 2026 · 13:30 Europe/Helsinki",
+      "daynight": "day",
+      "moods": [],
+      "caption": "Lapua Cathedral, Lapua",
+      "description": "From the Lapua riverbank, the white 1827 neoclassical Lapua Cathedral — C. L. Engel's diocesan seat — crowns its grassy hill at the center of the frame, its dark cupola lantern rising over the pedimented facade, with the older wooden belfry's spire to the right. The river fills the left and lower frame, lily pads and reeds along its shore, birch branches framing the top. Bright midday light under clear September skies, 16.1 °C, a gravel path climbing from an info sign toward the churchyard.",
+      "approval_status": "Approved"
+    },
+    {
+      "id": "FI-01-063",
+      "city": "Ähtäri",
+      "site": "Ähtäri Zoo",
+      "region": "South Ostrobothnia",
+      "country": "Finland",
+      "file_16x9": "assets/fi-01-063-16x9.png",
+      "file_4x5": "assets/fi-01-063-4x5.png",
+      "file_9x16": "assets/fi-01-063-9x16.png",
+      "motion": null,
+      "scenario": "28 September 2026 · 13:30 Europe/Helsinki",
+      "daynight": "day",
+      "moods": [],
+      "caption": "Ähtäri Zoo, Ähtäri",
+      "description": "On the woodland trail of Ähtäri Zoo, a brown bear ambles behind the wooden post-and-wire fence on the left, a snow leopard lounges on a mossy rock at the center, and a wolf pads along the dirt path to the right. A carved wooden sign on the right gives the facts — 3 km nature trail, founded 1973, 60 hectares of northern forest. Bright late-September midday light under clear skies, 14.3 °C, fallen birch leaves on the trail and autumn color in the undergrowth.",
+      "approval_status": "Approved"
     }
   ],
-  "count": 60,
-  "motion_clips": 19
+  "count": 62,
+  "motion_clips": 20
 }
