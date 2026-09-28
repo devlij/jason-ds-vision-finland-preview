@@ -1787,8 +1787,42 @@
       "caption": "Näsinneula Observation Tower, Tampere",
       "description": "Standing on the lakeshore below the Näsinneula tower after midnight, under a cloud-heavy sky at 10.5°C. To the left and center, the slender concrete needle rises above the dark treeline of Särkänniemi park, its pod-like restaurant head glowing warm near the top with the antenna tip above. To the right, the amusement park's rides glitter along the shore while dark water spreads below, and the overcast night sky carries the faint grey sheen of the city's reflected light.",
       "approval_status": "Approved"
+    },
+    {
+      "id": "FI-01-106",
+      "city": "Tampere",
+      "site": "Pyynikki Observation Tower",
+      "region": "Pirkanmaa",
+      "country": "Finland",
+      "file_16x9": "assets/fi-01-106-16x9.png",
+      "file_4x5": "assets/fi-01-106-4x5.png",
+      "file_9x16": "assets/fi-01-106-9x16.png",
+      "motion": null,
+      "scenario": "29 September 2026 · 01:00 Europe/Helsinki",
+      "daynight": "night",
+      "moods": [],
+      "caption": "Pyynikki Observation Tower, Tampere",
+      "description": "From the ridge path on the Pyynikki esker in the small hours of the night, under a full overcast sky at 10.3°C. To the left, the dense dark pine ridge crowds the path, its trunks rising out of the undergrowth. In the center, the 1929 red-granite observation tower stands lit from within — its open viewing platform railed against the cloudy night, the glazed cupola glowing above. To the right, the wooden café building at the tower base throws warm light across its terrace, and beyond the ridge crest the dark expanse of Lake Pyhäjärvi stretches out under the clouded sky.",
+      "approval_status": "Approved"
+    },
+    {
+      "id": "FI-01-107",
+      "city": "Ruovesi",
+      "site": "Helvetinjärvi National Park",
+      "region": "Pirkanmaa",
+      "country": "Finland",
+      "file_16x9": "assets/fi-01-107-16x9.png",
+      "file_4x5": "assets/fi-01-107-4x5.png",
+      "file_9x16": "assets/fi-01-107-9x16.png",
+      "motion": null,
+      "scenario": "29 September 2026 · 01:00 Europe/Helsinki",
+      "daynight": "night",
+      "moods": [],
+      "caption": "Helvetinjärvi National Park, Ruovesi",
+      "description": "Inside the Helvetinkolu gorge after 1 a.m., under a fully overcast night sky at 11.0°C. To the left and center, the towering vertical bedrock walls of the cleft close in, their rock faces dark with moss and lichen, while a wooden boardwalk trail threads the narrow gap between them. To the right, the gorge opens onto the dark water of the lake below and pine-covered slopes climbing into mist under the clouded night sky.",
+      "approval_status": "Approved"
     }
   ],
-  "count": 105,
+  "count": 107,
   "motion_clips": 34
 }
