@@ -393,8 +393,42 @@
       "caption": "Jyväskylä Harbour, Jyväskylä",
       "description": "From the harbour quay at 03:00, a green MATKUSTAJASATAMA – passenger-quay sign stands beside the timber pier where moored pleasure boats and a larger passenger ship rest dark on the calm water of Lake Jyväsjärvi. Center frame holds the boats' silhouettes and red mooring buoys; beyond them the lit Jyväskylä skyline and a bright modern bridge shimmer on the water under a clear 6.1°C night sky. The harbour is quiet in the small hours — life rings, ropes, and bollards in the foreground, open ice-free water, no one posing for the camera.",
       "approval_status": "Approved"
+    },
+    {
+      "id": "FI-01-024",
+      "city": "Lappeenranta",
+      "site": "Lappeenranta Fortress",
+      "region": "South Karelia",
+      "country": "Finland",
+      "file_16x9": "assets/fi-01-024-16x9.png",
+      "file_4x5": "assets/fi-01-024-4x5.png",
+      "file_9x16": "assets/fi-01-024-9x16.png",
+      "motion": null,
+      "scenario": "28 September 2026 · 03:30 Europe/Helsinki",
+      "daynight": "night",
+      "moods": [],
+      "caption": "Lappeenranta Fortress, Lappeenranta",
+      "description": "From the fortress hill at 03:30, old timber houses of the Linnoitus district glow warm along a cobbled lane in the foreground, their lit windows reflected softly on the wet stones. Center frame rises the lit stone fortress wall with its round bastions on the grassy slope, while at the right Lake Saimaa lies dark with faint shore-light shimmer on open, ice-free water. The sky is clear and starry on this 7.4°C late-September night — no aurora, no posing figures — and the small-hours quiet of the old town is broken only by street lamps and scattered warm windows.",
+      "approval_status": "Approved"
+    },
+    {
+      "id": "FI-01-025",
+      "city": "Björköby",
+      "site": "Svedjehamn",
+      "region": "Ostrobothnia",
+      "country": "Finland",
+      "file_16x9": "assets/fi-01-025-16x9.png",
+      "file_4x5": "assets/fi-01-025-4x5.png",
+      "file_9x16": "assets/fi-01-025-9x16.png",
+      "motion": null,
+      "scenario": "28 September 2026 · 03:30 Europe/Helsinki",
+      "daynight": "night",
+      "moods": [],
+      "caption": "Svedjehamn, Björköby",
+      "description": "At 03:30 the fishing hamlet of Svedjehamn lies quiet: a row of red timber boathouses with white trim stands along the shore, wooden jetties reaching over the calm dark water where small boats rest at their moorings. Center frame holds the jetties and their reflections; beyond them the famously flat De Geer moraine islands sit low on the horizon of the Kvarken strait. The night is mainly clear and 11.8°C — a partial star field with drifting cloud bands, open ice-free water, no aurora — and only one warmly lit boathouse window breaks the small-hours dark.",
+      "approval_status": "Approved"
     }
   ],
-  "count": 23,
+  "count": 25,
   "motion_clips": 0
 }
