@@ -665,8 +665,42 @@
       "caption": "Kotka Church, Kotka",
       "description": "From Kirkkokatu at pre-dawn, the red-brick Neo-Gothic Kotka Church fills the frame: its tall copper-green spire with clock faces on the left, the large rose window on the street gable at right, pointed-arch windows and copper-green pitched roofs along the nave. A blue \"Kirkkokatu\" street sign stands in the left foreground, bicycles parked along the wet pavement, shop fronts dark across the street. A faint warm brightening breaks through heavy overcast in the east, dawn, 8.8 °C model data, no people in frame.",
       "approval_status": "Approved"
+    },
+    {
+      "id": "FI-01-040",
+      "city": "Hamina",
+      "site": "Hamina Fortress and Town Hall",
+      "region": "Kymenlaakso",
+      "country": "Finland",
+      "file_16x9": "assets/fi-01-040-16x9.png",
+      "file_4x5": "assets/fi-01-040-4x5.png",
+      "file_9x16": "assets/fi-01-040-9x16.png",
+      "motion": "video/fi-01-040-motion-8s.mp4",
+      "scenario": "28 September 2026 · 07:30 Europe/Helsinki",
+      "daynight": "day",
+      "moods": [],
+      "caption": "Hamina Fortress and Town Hall, Hamina",
+      "description": "At eye level from the circular Raatihuoneentori, Hamina's ochre Town Hall anchors the frame: its neoclassical clock tower rising on the right, the formal three-storey facade curving with the square in the centre. Left foreground shows a pale-blue wooden corner building with the \"Kahvila · Café Huovila\" sign, a bench and a lamp post carrying a blue Raatihuoneentori street sign; behind it rise the grass-topped stone bastions of Hamina's fortress with a cannon and \"Linnoituspolku / Fortress Trail\" direction signs. Wet cobblestones and fallen autumn leaves under a flat overcast morning sky, 5.8 °C model data, no people posing.",
+      "approval_status": "Approved"
+    },
+    {
+      "id": "FI-01-041",
+      "city": "Kouvola",
+      "site": "Verla Groundwood and Board Mill",
+      "region": "Kymenlaakso",
+      "country": "Finland",
+      "file_16x9": "assets/fi-01-041-16x9.png",
+      "file_4x5": "assets/fi-01-041-4x5.png",
+      "file_9x16": "assets/fi-01-041-9x16.png",
+      "motion": "video/fi-01-041-motion-8s.mp4",
+      "scenario": "28 September 2026 · 07:30 Europe/Helsinki",
+      "daynight": "day",
+      "moods": [],
+      "caption": "Verla Groundwood and Board Mill, Kouvola",
+      "description": "From the mill yard at eye level, the ornamental red-brick Verla mill fills the frame along the mill race: the four-storey main building with decorative brickwork, spires and a tall brick chimney on the left, the dark wooden covered bridge connecting the buildings across the race at centre, and a smaller red-brick annex on the right. The Verlankoski rapids run dark and fast through the middle ground, edged with mossy stone, fallen autumn leaves and a weathered \"Verla Groundwood and Board Mill\" plaque in the right foreground, with spruce forest closing the scene behind. Overcast morning light, 5.8 °C model data, no people in frame.",
+      "approval_status": "Approved"
     }
   ],
-  "count": 39,
-  "motion_clips": 0
+  "count": 41,
+  "motion_clips": 2
 }
