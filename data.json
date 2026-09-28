@@ -1090,8 +1090,42 @@
       "caption": "Neristan Old Town, Kokkola",
       "description": "Down a narrow Neristan street, pastel-painted timber houses line both sides — red ochre, weathered blue-grey, yellow and green — their traditional Ostrobothnian boarding set on stone foundations of visibly different heights. Porcelain dogs sit in the left window and a round gossip mirror hangs by a door on the right, the quarter's authentic maritime details. Damp cobblestones reflect partly cloudy mid-afternoon light, 14.8 °C, with light autumn color overhead.",
       "approval_status": "Approved"
+    },
+    {
+      "id": "FI-01-066",
+      "city": "Kokkola",
+      "site": "Tankar Lighthouse Island",
+      "region": "Central Ostrobothnia",
+      "country": "Finland",
+      "file_16x9": "assets/fi-01-066-16x9.png",
+      "file_4x5": "assets/fi-01-066-4x5.png",
+      "file_9x16": "assets/fi-01-066-9x16.png",
+      "motion": "video/fi-01-066-motion-8s.mp4",
+      "scenario": "28 September 2026 · 14:30 Europe/Helsinki",
+      "daynight": "day",
+      "moods": [],
+      "caption": "Tankar Lighthouse Island, Kokkola",
+      "description": "From the island path a visitor looks up past the old fishing cabins toward the red-and-white Tankar lighthouse rising behind them, the log chapel marked 1754 standing at the frame's left center under a grey September sky. Center and right hold the weathered red keeper's dwellings, fishing nets and rowboats against the grey cabin walls, while the small harbour with its moored boats opens on the far right. Flat overcast daylight softens the scene; rocky shore, wind-shaped grass and late heather fill the foreground, and the gulf stretches calm behind the island buildings.",
+      "approval_status": "Approved"
+    },
+    {
+      "id": "FI-01-067",
+      "city": "Kokkola",
+      "site": "Kaarlela Church",
+      "region": "Central Ostrobothnia",
+      "country": "Finland",
+      "file_16x9": "assets/fi-01-067-16x9.png",
+      "file_4x5": "assets/fi-01-067-4x5.png",
+      "file_9x16": "assets/fi-01-067-9x16.png",
+      "motion": "video/fi-01-067-motion-8s.mp4",
+      "scenario": "28 September 2026 · 14:30 Europe/Helsinki",
+      "daynight": "day",
+      "moods": [],
+      "caption": "Kaarlela Church, Kokkola",
+      "description": "From the museum farmyard gate the visitor looks across the wooden fences toward the white cross-shaped Kaarlela church rising on Kirkonmäki hill, its tall tower and slate roof above the treeline. Right of the church the local-history museum's log farm buildings, an old windmill with slowly turning sails, and haystacks fill the frame, while a painted wooden sign at the gate reads 'Kaarlelan kotiseutumuseo' in Finnish. Flat overcast September daylight mutes the colours; autumn-tinted birches and pines stand behind the buildings and no other people are in sight.",
+      "approval_status": "Approved"
     }
   ],
-  "count": 64,
-  "motion_clips": 22
+  "count": 66,
+  "motion_clips": 24
 }
