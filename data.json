@@ -597,8 +597,42 @@
       "caption": "Maritime Centre Vellamo, Kotka",
       "description": "From the dark Kantasatama quay, the wave-formed Maritime Centre Vellamo sits unlit under a fully overcast night sky — its curling wave roofline and multicolored glass-panel facade only faintly readable, the historic icebreaker Tarmo moored beside it as a dark hull with readable name. Quay bollards and mooring lines fill the left foreground, water and the faint glow of distant harbour lights to the right. Nighttime, 8.7°C model data, no lights, no people in frame.",
       "approval_status": "Approved"
+    },
+    {
+      "id": "FI-01-036",
+      "city": "Kotka",
+      "site": "Sapokka Water Garden",
+      "region": "Kymenlaakso",
+      "country": "Finland",
+      "file_16x9": "assets/fi-01-036-16x9.png",
+      "file_4x5": "assets/fi-01-036-4x5.png",
+      "file_9x16": "assets/fi-01-036-9x16.png",
+      "motion": null,
+      "scenario": "28 September 2026 · 06:30 Europe/Helsinki",
+      "daynight": "night",
+      "moods": [],
+      "caption": "Sapokka Water Garden, Kotka",
+      "description": "From the pond-level walkway at pre-dawn, the garden's signature waterfall cascades down the southern slope into still ponds crossed by a wooden footbridge, with mossy stone work and dense plantings framing the water left and right. The eastern sky brightens faintly through heavy overcast while the landscape holds blue-hour shadow, and animal sculptures sit beside the path. Dawn, 9.6°C model data, no people in frame, the park's award-winning lighting unclaimed.",
+      "approval_status": "Approved"
+    },
+    {
+      "id": "FI-01-037",
+      "city": "Kotka",
+      "site": "Maretarium",
+      "region": "Kymenlaakso",
+      "country": "Finland",
+      "file_16x9": "assets/fi-01-037-16x9.png",
+      "file_4x5": "assets/fi-01-037-4x5.png",
+      "file_9x16": "assets/fi-01-037-9x16.png",
+      "motion": null,
+      "scenario": "28 September 2026 · 06:30 Europe/Helsinki",
+      "daynight": "night",
+      "moods": [],
+      "caption": "Maretarium, Kotka",
+      "description": "From the wooden waterfront deck at pre-dawn, the modern Maretarium aquarium building rises across the frame with its angular roofline and 'Kotka Maretarium' facade lettering, the cylindrical tank volume beside the glass-fronted café level. Closed umbrellas and empty terrace tables fill the mid-ground left, the still bay water and moored boats stretch right toward a faint eastern brightening through heavy overcast. Dawn, 9.1°C model data, no people in frame, only a modest interior glow behind some windows.",
+      "approval_status": "Approved"
     }
   ],
-  "count": 35,
+  "count": 37,
   "motion_clips": 0
 }
