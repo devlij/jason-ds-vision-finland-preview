@@ -1124,8 +1124,42 @@
       "caption": "Kaarlela Church, Kokkola",
       "description": "From the museum farmyard gate the visitor looks across the wooden fences toward the white cross-shaped Kaarlela church rising on Kirkonmäki hill, its tall tower and slate roof above the treeline. Right of the church the local-history museum's log farm buildings, an old windmill with slowly turning sails, and haystacks fill the frame, while a painted wooden sign at the gate reads 'Kaarlelan kotiseutumuseo' in Finnish. Flat overcast September daylight mutes the colours; autumn-tinted birches and pines stand behind the buildings and no other people are in sight.",
       "approval_status": "Approved"
+    },
+    {
+      "id": "FI-01-068",
+      "city": "Kaustinen",
+      "site": "Pelimannitalo — Kaustinen Folk Music House",
+      "region": "Central Ostrobothnia",
+      "country": "Finland",
+      "file_16x9": "assets/fi-01-068-16x9.png",
+      "file_4x5": "assets/fi-01-068-4x5.png",
+      "file_9x16": "assets/fi-01-068-9x16.png",
+      "motion": "video/fi-01-068-motion-8s.mp4",
+      "scenario": "28 September 2026 · 15:00 Europe/Helsinki",
+      "daynight": "day",
+      "moods": [],
+      "caption": "Pelimannitalo — Kaustinen Folk Music House, Kaustinen",
+      "description": "A tourist stands on the Konstantie street frontage in the middle of Kaustinen village, looking eye-level at Pelimannitalo, the red-timber Folk Music House with its white-painted sign and a Finnish flag beside the door. To the left, a village map board and a weathered wooden bench scattered with fallen rowan berries; to the right, the building's long windowed side, a rustic rail fence, a red postbox, and a bicycle waiting by the garden. Under soft overcast September daylight at 15:00, the scene carries the quiet rhythm of the fiddle tradition's living home — a venue signboard advertises the folk festival and the living fiddle tradition, with no people in frame.",
+      "approval_status": "Approved"
+    },
+    {
+      "id": "FI-01-069",
+      "city": "Inari",
+      "site": "Siida — Sámi Museum and Nature Centre",
+      "region": "Lapland",
+      "country": "Finland",
+      "file_16x9": "assets/fi-01-069-16x9.png",
+      "file_4x5": "assets/fi-01-069-4x5.png",
+      "file_9x16": "assets/fi-01-069-9x16.png",
+      "motion": "video/fi-01-069-motion-8s.mp4",
+      "scenario": "28 September 2026 · 15:00 Europe/Helsinki",
+      "daynight": "day",
+      "moods": [],
+      "caption": "Siida — Sámi Museum and Nature Centre, Inari",
+      "description": "A visitor on the museum boardwalk at Inari looks eye-level toward Siida, the modern timber-and-glass museum building with its white SÁMI MUSEUM & NATURE CENTRE sign above the entrance. To the left, the open-air heritage grounds spread out — turf-roofed huts, log dwellings, a stilt storehouse, and timber drying racks — while the rocky Juutuanjoki river winds through the foreground. Under flat overcast daylight at 15:00, autumnal birch and pine frame the scene and a wooden Ulkomuseo sign points toward the open-air museum, with no people in frame.",
+      "approval_status": "Approved"
     }
   ],
-  "count": 66,
-  "motion_clips": 24
+  "count": 68,
+  "motion_clips": 26
 }
