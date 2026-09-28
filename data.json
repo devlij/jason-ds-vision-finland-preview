@@ -495,8 +495,42 @@
       "caption": "Iittala Glass Village, Iittala",
       "description": "Standing in the empty glassworks square at night, the historic red-brick buildings of the 1881 Iittala glassworks fill the center and right of the frame, their rows of multi-pane windows glowing warm beneath a tall brick chimney, with the \"IITTALA LASIMÄKI\" entrance sign and the outlet shop frontage on the right. To the left, the brickworks continue along the square past birches and lamp posts, while the foreground is a wet cobblestone forecourt with benches, planters, a welcome totem, and parked bicycles reflecting the lamps. Under 10.6°C overcast night skies the scene is carried entirely by the factory and street lighting — no people in frame, just the working glass village at 04:30.",
       "approval_status": "Approved"
+    },
+    {
+      "id": "FI-01-030",
+      "city": "Hattula",
+      "site": "Church of the Holy Cross",
+      "region": "Kanta-Häme",
+      "country": "Finland",
+      "file_16x9": "assets/fi-01-030-16x9.png",
+      "file_4x5": "assets/fi-01-030-4x5.png",
+      "file_9x16": "assets/fi-01-030-9x16.png",
+      "motion": null,
+      "scenario": "28 September 2026 · 05:00 Europe/Helsinki",
+      "daynight": "night",
+      "moods": [],
+      "caption": "Church of the Holy Cross, Hattula",
+      "description": "The medieval brick Church of the Holy Cross stands dark against a low overcast sky at 05:00, its steep roof silhouetted and the whitewashed gable catching faint ambient light. From across the churchyard the eye-level frame centers the red-brick Gothic mass — arched lit windows, a warm porch lamp, and the stone outbuilding off to the left — with old gravestones and the mossy grey-stone wall filling the foreground and bare late-September birches at the edges. A candid night view of one of Finland's rare brick medieval churches, seen under model overcast conditions at 10.4°C.",
+      "approval_status": "Approved"
+    },
+    {
+      "id": "FI-01-031",
+      "city": "Tammela",
+      "site": "Torronsuo National Park",
+      "region": "Kanta-Häme",
+      "country": "Finland",
+      "file_16x9": "assets/fi-01-031-16x9.png",
+      "file_4x5": "assets/fi-01-031-4x5.png",
+      "file_9x16": "assets/fi-01-031-9x16.png",
+      "motion": null,
+      "scenario": "28 September 2026 · 05:00 Europe/Helsinki",
+      "daynight": "night",
+      "moods": [],
+      "caption": "Torronsuo National Park, Tammela",
+      "description": "Standing on the duckboard trail of Torronsuo, the wooden boardwalk runs wet and reflective through the open raised bog, drawing the eye toward the dark forest edge on the horizon. Left and right the mire spreads treeless — low mosses, sedges and white cotton-grass tufts — with sparse young pines breaking the surface and dark pools catching the low overcast glow. A candid night view of Finland's deepest bog, empty and silent under model overcast skies at 11.1°C, with no other visitor in sight.",
+      "approval_status": "Approved"
     }
   ],
-  "count": 29,
+  "count": 31,
   "motion_clips": 0
 }
