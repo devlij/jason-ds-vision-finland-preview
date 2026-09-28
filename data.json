@@ -1056,8 +1056,42 @@
       "caption": "Ähtäri Zoo, Ähtäri",
       "description": "On the woodland trail of Ähtäri Zoo, a brown bear ambles behind the wooden post-and-wire fence on the left, a snow leopard lounges on a mossy rock at the center, and a wolf pads along the dirt path to the right. A carved wooden sign on the right gives the facts — 3 km nature trail, founded 1973, 60 hectares of northern forest. Bright late-September midday light under clear skies, 14.3 °C, fallen birch leaves on the trail and autumn color in the undergrowth.",
       "approval_status": "Approved"
+    },
+    {
+      "id": "FI-01-064",
+      "city": "Alavus",
+      "site": "Tuuri Village Shop (Keskisen Kyläkauppa)",
+      "region": "South Ostrobothnia",
+      "country": "Finland",
+      "file_16x9": "assets/fi-01-064-16x9.png",
+      "file_4x5": "assets/fi-01-064-4x5.png",
+      "file_9x16": "assets/fi-01-064-9x16.png",
+      "motion": "video/fi-01-064-motion-8s.mp4",
+      "scenario": "28 September 2026 · 14:00 Europe/Helsinki",
+      "daynight": "day",
+      "moods": [],
+      "caption": "Tuuri Village Shop (Keskisen Kyläkauppa), Alavus",
+      "description": "From the broad visitor parking lot, the famous Tuuri village shop spreads across the middle of the frame — the long KESKISEN KYLÄKAUPPA storefront with its VELJEKSET KESKINEN entrance on the left, the Hotel Onnentähti sign beyond, and rows of parked cars on the asphalt. Dominating the right of the frame is the giant golden horseshoe, the site's unmistakable luck landmark, with a golden rearing horse visible through its arch and flower columns at the base of its stone plinth. Bright mid-afternoon light under clear late-September skies, 14.9 °C, light autumn color in the background pines.",
+      "approval_status": "Approved"
+    },
+    {
+      "id": "FI-01-065",
+      "city": "Kokkola",
+      "site": "Neristan Old Town",
+      "region": "Central Ostrobothnia",
+      "country": "Finland",
+      "file_16x9": "assets/fi-01-065-16x9.png",
+      "file_4x5": "assets/fi-01-065-4x5.png",
+      "file_9x16": "assets/fi-01-065-9x16.png",
+      "motion": "video/fi-01-065-motion-8s.mp4",
+      "scenario": "28 September 2026 · 14:00 Europe/Helsinki",
+      "daynight": "day",
+      "moods": [],
+      "caption": "Neristan Old Town, Kokkola",
+      "description": "Down a narrow Neristan street, pastel-painted timber houses line both sides — red ochre, weathered blue-grey, yellow and green — their traditional Ostrobothnian boarding set on stone foundations of visibly different heights. Porcelain dogs sit in the left window and a round gossip mirror hangs by a door on the right, the quarter's authentic maritime details. Damp cobblestones reflect partly cloudy mid-afternoon light, 14.8 °C, with light autumn color overhead.",
+      "approval_status": "Approved"
     }
   ],
-  "count": 62,
-  "motion_clips": 20
+  "count": 64,
+  "motion_clips": 22
 }
