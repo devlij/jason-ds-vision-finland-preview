@@ -1260,8 +1260,25 @@
       "caption": "Sodankylä Old Church, Sodankylä",
       "description": "The tiny 1689 log church sits behind its weathered wooden fence, dark tarred log walls and a steep shingle roof rising without any tower, a simple cross on each gable end. Left, old spruces press close to the walls; right and beyond, the cemetery's grey gravestones scatter across autumn grass under a flat grey sky, with the Kitinen river valley a pale suggestion in the distance. Flat, directionless overcast light at 16:30 and 9.4°C mutes every color except the rust of fallen leaves: a candid, quiet view of one of Finland's oldest preserved wooden churches.",
       "approval_status": "Approved"
+    },
+    {
+      "id": "FI-01-075",
+      "city": "Ylitornio",
+      "site": "Aavasaksa",
+      "region": "Lapland",
+      "country": "Finland",
+      "file_16x9": "assets/fi-01-075-16x9.png",
+      "file_4x5": "assets/fi-01-075-4x5.png",
+      "file_9x16": "assets/fi-01-075-9x16.png",
+      "motion": "video/fi-01-075-motion-8s.mp4",
+      "scenario": "28 September 2026 · 17:00 Europe/Helsinki",
+      "daynight": "day",
+      "moods": [],
+      "caption": "Aavasaksa, Ylitornio",
+      "description": "From the pine-framed summit clearing atop Aavasaksa, the sharp 242-metre hill falls away to the broad Torne river valley spreading west toward Sweden under a full overcast sky. Left, the small dark-wood Imperial Lodge cabin sits half-hidden among tall pines, with the rocky viewpoint and berry-red autumn undergrowth in the near foreground. Center and right, the river's grey ribbon winds through autumn-turning forest toward the hazy Swedish shore of Övertorneå, the soft shadowless late-afternoon light of 10.0°C model weather keeping every ridge muted and quiet.",
+      "approval_status": "Approved"
     }
   ],
-  "count": 74,
-  "motion_clips": 31
+  "count": 75,
+  "motion_clips": 32
 }
