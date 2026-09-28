@@ -871,6 +871,23 @@
       "approval_status": "Approved"
     },
     {
+      "id": "FI-01-052",
+      "city": "Hyrynsalmi",
+      "site": "Ukkohalla Ski Resort",
+      "region": "Kainuu",
+      "country": "Finland",
+      "file_16x9": "assets/fi-01-052-16x9.png",
+      "file_4x5": "assets/fi-01-052-4x5.png",
+      "file_9x16": "assets/fi-01-052-9x16.png",
+      "motion": "video/fi-01-052-motion-8s.mp4",
+      "scenario": "28 September 2026 · 15:30 Europe/Helsinki",
+      "daynight": "day",
+      "moods": [],
+      "caption": "Ukkohalla Ski Resort, Hyrynsalmi",
+      "description": "From the lakeshore, a candid eye-level view of Ukkohalla Ski Resort in late September: cleared slope lines descend in green and brown through autumn forest up the fell, with idle chairlift lines rising between them, while orange resort-branded boards and wooden base buildings gather along the far shore of Lake Syväjärvi. Flat overcast daylight at 9.4°C softens the Kainuu hills, golden autumn foliage frames the water's edge, and no snow remains on the slopes this far off the ski season.",
+      "approval_status": "Approved"
+    },
+    {
       "id": "FI-01-053",
       "city": "Puolanka",
       "site": "Hepoköngäs Waterfall",
@@ -1158,8 +1175,25 @@
       "caption": "Siida — Sámi Museum and Nature Centre, Inari",
       "description": "A visitor on the museum boardwalk at Inari looks eye-level toward Siida, the modern timber-and-glass museum building with its white SÁMI MUSEUM & NATURE CENTRE sign above the entrance. To the left, the open-air heritage grounds spread out — turf-roofed huts, log dwellings, a stilt storehouse, and timber drying racks — while the rocky Juutuanjoki river winds through the foreground. Under flat overcast daylight at 15:00, autumnal birch and pine frame the scene and a wooden Ulkomuseo sign points toward the open-air museum, with no people in frame.",
       "approval_status": "Approved"
+    },
+    {
+      "id": "FI-01-070",
+      "city": "Enontekiö",
+      "site": "Saana Fell",
+      "region": "Lapland",
+      "country": "Finland",
+      "file_16x9": "assets/fi-01-070-16x9.png",
+      "file_4x5": "assets/fi-01-070-4x5.png",
+      "file_9x16": "assets/fi-01-070-9x16.png",
+      "motion": "video/fi-01-070-motion-8s.mp4",
+      "scenario": "28 September 2026 · 15:30 Europe/Helsinki",
+      "daynight": "day",
+      "moods": [],
+      "caption": "Saana Fell, Enontekiö",
+      "description": "A candid eye-level view from the lakeshore of Lake Kilpisjärvi: Saana Fell rises in its unmistakable triangular silhouette, 556 metres above the lake, bare rock upper slopes fading into autumn tundra under a flat overcast sky. Flat 1.7°C afternoon light softens the rocky shoreline, moss and driftwood frame the water's edge, and low cloud drifts across the summit as the fell stands above Finnish Lapland.",
+      "approval_status": "Approved"
     }
   ],
-  "count": 68,
-  "motion_clips": 26
+  "count": 70,
+  "motion_clips": 28
 }
