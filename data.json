@@ -886,8 +886,42 @@
       "caption": "Hepoköngäs Waterfall, Puolanka",
       "description": "From the wooden viewing platform at the gorge's edge, the Hepoköngäs cascade drops down the center of the frame — a white ribbon of water falling through the dark rocky walls of the Heinijoki ravine, spray drifting off the plunge below. Ancient moss-covered spruces crowd the left and right, their trunks framing the falls, while fallen autumn leaves scatter the deck boards at the bottom of the view. On an overcast late-September morning the light is flat and shadowless, and the autumn-moderate flow runs full between summer's trickle and spring's flood.",
       "approval_status": "Approved"
+    },
+    {
+      "id": "FI-01-054",
+      "city": "Kajaani",
+      "site": "Kajaani Church",
+      "region": "Kainuu",
+      "country": "Finland",
+      "file_16x9": "assets/fi-01-054-16x9.png",
+      "file_4x5": "assets/fi-01-054-4x5.png",
+      "file_9x16": "assets/fi-01-054-9x16.png",
+      "motion": "video/fi-01-054-motion-8s.mp4",
+      "scenario": "28 September 2026 · 11:30 Europe/Helsinki",
+      "daynight": "day",
+      "moods": [],
+      "caption": "Kajaani Church, Kajaani",
+      "description": "From the pavement beside Kirkkokatu in the centre of Kajaani, the Neo-Gothic timber of Kajaani Church (1896) fills the center of the frame — its tall narrow bell tower with spire and cross rising above carved wooden Gothic detailing on the facade. Left, a KIRKKOKATU street sign and bicycles at a rack along a wet autumn sidewalk with scattered leaves; right, the frontage of a café with a \"KAHVILA · LEIPOMO\" sign. Overcast midday light flattens shadows and glistens on the rain-wet street under 6.7°C model conditions.",
+      "approval_status": "Approved"
+    },
+    {
+      "id": "FI-01-055",
+      "city": "Petäjävesi",
+      "site": "Petäjävesi Old Church",
+      "region": "Central Finland",
+      "country": "Finland",
+      "file_16x9": "assets/fi-01-055-16x9.png",
+      "file_4x5": "assets/fi-01-055-4x5.png",
+      "file_9x16": "assets/fi-01-055-9x16.png",
+      "motion": "video/fi-01-055-motion-8s.mp4",
+      "scenario": "28 September 2026 · 11:30 Europe/Helsinki",
+      "daynight": "day",
+      "moods": [],
+      "caption": "Petäjävesi Old Church, Petäjävesi",
+      "description": "From the churchyard grounds beside a weathered wooden fence, the low pine-log body of Petäjävesi Old Church (1763–65) fills the left and center — steep shingle roofs, a small central spirelet, and horizontal log walls under a heavy overcast sky. Right, the free-standing wooden bell tower (1821) with its shingled base, red-and-white belfry stage and tall spire. Left foreground, a wooden sign marks the UNESCO World Heritage site; autumn leaves scatter the path. Diffuse late-September midday light, 10.1°C model conditions.",
+      "approval_status": "Approved"
     }
   ],
-  "count": 52,
-  "motion_clips": 12
+  "count": 54,
+  "motion_clips": 14
 }
