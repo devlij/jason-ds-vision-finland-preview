@@ -1719,8 +1719,42 @@
       "caption": "Yyteri Beach, Pori",
       "description": "Standing on the sand at Yyteri, Finland's long beach, under an overcast 13.1°C night sky. Left, the wooden boardwalk threads down the marram-grass dune ridge, marked by a \"Yyteri · Luontopolku\" trail sign. Center, the wide sandy beach curves along the Bothnian Sea into the dark. Right, the surf-school huts glow warm with rental boards and wetsuits outside, beside a wind-sculpted dune pine — a quiet off-season night at one of the Nordic countries' most famous beaches.",
       "approval_status": "Approved"
+    },
+    {
+      "id": "FI-01-102",
+      "city": "Pori",
+      "site": "Villa Mairea",
+      "region": "Satakunta",
+      "country": "Finland",
+      "file_16x9": "assets/fi-01-102-16x9.png",
+      "file_4x5": "assets/fi-01-102-4x5.png",
+      "file_9x16": "assets/fi-01-102-9x16.png",
+      "motion": null,
+      "scenario": "29 September 2026 · 00:00 Europe/Helsinki",
+      "daynight": "night",
+      "moods": [],
+      "caption": "Villa Mairea, Pori",
+      "description": "Standing in Villa Mairea's garden courtyard after midnight under an overcast 12.1°C night sky. Left, the white modernist main house glows warm through its floor-to-ceiling windows, its curving wooden balcony and flat roof forms silhouetted against the dark. Center, the courtyard lawn stretches between stands of tall birch, their pale trunks catching the interior light. Right, the grass-roofed wooden sauna wing and a rugged stone boundary wall close the court, the sauna windows lit amber — a quiet autumn night at Alvar Aalto's 1939 experimental masterpiece.",
+      "approval_status": "Approved"
+    },
+    {
+      "id": "FI-01-103",
+      "city": "Rauma",
+      "site": "Sammallahdenmäki Bronze Age Burial Site",
+      "region": "Satakunta",
+      "country": "Finland",
+      "file_16x9": "assets/fi-01-103-16x9.png",
+      "file_4x5": "assets/fi-01-103-4x5.png",
+      "file_9x16": "assets/fi-01-103-9x16.png",
+      "motion": null,
+      "scenario": "29 September 2026 · 00:00 Europe/Helsinki",
+      "daynight": "night",
+      "moods": [],
+      "caption": "Sammallahdenmäki Bronze Age Burial Site, Rauma",
+      "description": "On the bedrock ridge of the Sammallahdenmäki burial grounds after midnight under an overcast 11.9°C night sky. Left, smaller granite cairns scatter across the lichen-grey open rock. Center, the largest conical burial mounds rise along the ridge crest, piled from the ridge's own granite boulders. Right, polished bedrock slopes fall away to the pine forest that has grown up around this 3,000-year-old landscape — a still Bronze Age night at Finland's first archaeological UNESCO World Heritage site.",
+      "approval_status": "Approved"
     }
   ],
-  "count": 101,
+  "count": 103,
   "motion_clips": 34
 }
