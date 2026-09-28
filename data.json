@@ -835,8 +835,42 @@
       "caption": "Hiidenportti National Park, Sotkamo",
       "description": "From the trail lip the narrow Hiidenportti gorge drops away between moss-clad cliff walls rising near-vertically on both sides, a cold stream threading the shadowed gorge floor below. To the left and right old-growth spruce crowd the rim, their branches draping lichen; the canopy thins only over the cleft itself. Diffuse overcast morning light at 3.4°C leaves the rock dark and damp, autumn-dead leaves caught among the roots — silent, primordial, Finland's legendary Goblin's Gate.",
       "approval_status": "Approved"
+    },
+    {
+      "id": "FI-01-050",
+      "city": "Kuhmo",
+      "site": "Juminkeko Kalevala Information Centre",
+      "region": "Kainuu",
+      "country": "Finland",
+      "file_16x9": "assets/fi-01-050-16x9.png",
+      "file_4x5": "assets/fi-01-050-4x5.png",
+      "file_9x16": "assets/fi-01-050-9x16.png",
+      "motion": null,
+      "scenario": "28 September 2026 · 10:30 Europe/Helsinki",
+      "daynight": "day",
+      "moods": [],
+      "caption": "Juminkeko Kalevala Information Centre, Kuhmo",
+      "description": "From the courtyard approach in Kuhmo, the Juminkeko Kalevala Information Centre's modern exhibition building — vertical timber cladding, a curved roof massing and on-wall 'Juminkeko' signage — fills the left and center, while the open courtyard forecourt opens to the right with a low wooden shelter, steps and stone edging. In the near center, the dark stone sculpture 'Arhipan kivi' stands on a mossy boulder plinth beside its wooden information plaque. Under a flat overcast late-September sky, autumn leaves scatter the paving and the birches glow gold, all in soft, shadowless morning light.",
+      "approval_status": "Approved"
+    },
+    {
+      "id": "FI-01-051",
+      "city": "Kajaani",
+      "site": "Paltaniemi Church",
+      "region": "Kainuu",
+      "country": "Finland",
+      "file_16x9": "assets/fi-01-051-16x9.png",
+      "file_4x5": "assets/fi-01-051-4x5.png",
+      "file_9x16": "assets/fi-01-051-9x16.png",
+      "motion": "video/fi-01-051-motion-8s.mp4",
+      "scenario": "28 September 2026 · 10:30 Europe/Helsinki",
+      "daynight": "day",
+      "moods": [],
+      "caption": "Paltaniemi Church, Kajaani",
+      "description": "From the churchyard beside the lake, the weathered ochre timber of Paltaniemi Church (1726) fills the left and center — its tall cupola-topped steeple rising against a flat grey sky — while the small red Keisarintalli stable museum with white fretwork trim stands beside it on the right. The rocky shore of Lake Oulujärvi stretches across the right edge with driftwood, autumn reeds and a 'Paltaniemi kirkko 1726' sign. On an overcast late-September morning the light is soft and shadowless, and the birches stand nearly bare.",
+      "approval_status": "Approved"
     }
   ],
-  "count": 49,
-  "motion_clips": 10
+  "count": 51,
+  "motion_clips": 11
 }
