@@ -359,8 +359,42 @@
       "caption": "Ruka Fell, Kuusamo",
       "description": "From the quiet Ruka resort base, the dark rounded mass of Rukatunturi rises against a full star field, its slopes patched with ruska-gold birch and dark conifer while a chairlift line climbs unlit to the summit masts. Left and right, warm-lit wooden base buildings — a café-restaurant and the ski-rental hut — glow empty over bike racks and picnic tables, and the foreground is a dark fringe of treeline and autumn undergrowth. At a model 3.2°C there is no snow anywhere, season-honest for late September; the 3% cloud cover leaves every star visible and no aurora is implied.",
       "approval_status": "Approved"
+    },
+    {
+      "id": "FI-01-022",
+      "city": "Kuopio",
+      "site": "Puijo Tower",
+      "region": "North Savo",
+      "country": "Finland",
+      "file_16x9": "assets/fi-01-022-16x9.png",
+      "file_4x5": "assets/fi-01-022-4x5.png",
+      "file_9x16": "assets/fi-01-022-9x16.png",
+      "motion": null,
+      "scenario": "28 September 2026 · 03:00 Europe/Helsinki",
+      "daynight": "night",
+      "moods": [],
+      "caption": "Puijo Tower, Kuopio",
+      "description": "Seen from the forest path below, the 75-metre Puijo Tower rises out of the dark spruce forest, its tapered shaft leading up to the warmly lit revolving-restaurant drum and red aviation beacon under a clear, starry late-September sky. Left and right frame hold deep-green conifers and a rocky, cone-strewn trail with a wooden Puijo Torni signpost pointing up the hill. At 03:00 on a 6.2°C night the scene is quiet and still — the hill’s forest cabins glimmer faintly in the trees, with no snow yet on the ground.",
+      "approval_status": "Approved"
+    },
+    {
+      "id": "FI-01-023",
+      "city": "Jyväskylä",
+      "site": "Jyväskylä Harbour",
+      "region": "Central Finland",
+      "country": "Finland",
+      "file_16x9": "assets/fi-01-023-16x9.png",
+      "file_4x5": "assets/fi-01-023-4x5.png",
+      "file_9x16": "assets/fi-01-023-9x16.png",
+      "motion": null,
+      "scenario": "28 September 2026 · 03:00 Europe/Helsinki",
+      "daynight": "night",
+      "moods": [],
+      "caption": "Jyväskylä Harbour, Jyväskylä",
+      "description": "From the harbour quay at 03:00, a green MATKUSTAJASATAMA – passenger-quay sign stands beside the timber pier where moored pleasure boats and a larger passenger ship rest dark on the calm water of Lake Jyväsjärvi. Center frame holds the boats' silhouettes and red mooring buoys; beyond them the lit Jyväskylä skyline and a bright modern bridge shimmer on the water under a clear 6.1°C night sky. The harbour is quiet in the small hours — life rings, ropes, and bollards in the foreground, open ice-free water, no one posing for the camera.",
+      "approval_status": "Approved"
     }
   ],
-  "count": 21,
+  "count": 23,
   "motion_clips": 0
 }
