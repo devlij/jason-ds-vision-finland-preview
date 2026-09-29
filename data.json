@@ -2110,8 +2110,42 @@
       "caption": "Bomarsund Fortress Ruins, Sund",
       "description": "On an overcast night at the Bomarsund fortress ruins in Sund, the shattered pink-granite casemate walls dominate the left of the frame, their fallen blocks scattered among ferns and moss; in the centre, the breached two-tiered fortress facade with its arched casemate openings rises dark above the pines, young trees growing from its crown; on the right, two ruined round shoreline towers stand at the waterline while Lumparn Bay stretches to a faint misty horizon under the heavy cloud deck. The ruins are unlit — only the ambient gloom of the cloudy night reveals the red granite of the 1854 demolished fort.",
       "approval_status": "Approved"
+    },
+    {
+      "id": "FI-01-125",
+      "city": "Pudasjärvi",
+      "site": "Syöte National Park",
+      "region": "North Ostrobothnia",
+      "country": "Finland",
+      "file_16x9": "assets/fi-01-125-16x9.png",
+      "file_4x5": "assets/fi-01-125-4x5.png",
+      "file_9x16": "assets/fi-01-125-9x16.png",
+      "motion": null,
+      "scenario": "29 September 2026 · 06:00 Europe/Helsinki",
+      "daynight": "night",
+      "moods": [],
+      "caption": "Syöte National Park, Pudasjärvi",
+      "description": "From the visitor-centre trail a rain-slicked path winds left into old-growth spruce forest, its mossy trunks fading into the dark; centre, the rounded fell summit of Iso-Syöte rises as a near-black mass above the treeline under low drizzle cloud; right, wooden signposts point toward the mire and a wilderness hut, with a boardwalk and a small cabin beyond. A drizzly 06:00 night scene under full cloud, wet surfaces faintly sheened, no invented light.",
+      "approval_status": "Approved"
+    },
+    {
+      "id": "FI-01-126",
+      "city": "Hailuoto",
+      "site": "Marjaniemi Lighthouse, Hailuoto Island",
+      "region": "North Ostrobothnia",
+      "country": "Finland",
+      "file_16x9": "assets/fi-01-126-16x9.png",
+      "file_4x5": "assets/fi-01-126-4x5.png",
+      "file_9x16": "assets/fi-01-126-9x16.png",
+      "motion": null,
+      "scenario": "29 September 2026 · 06:00 Europe/Helsinki",
+      "daynight": "night",
+      "moods": [],
+      "caption": "Marjaniemi Lighthouse, Hailuoto Island, Hailuoto",
+      "description": "At Marjaniemi point the white three-segment lighthouse tower rises left over sea grasses, its red lantern throwing a beam into the drizzle of a pre-dawn sky; centre, the sandy point holds the white daymark tower and the pilot-station buildings (one marked LUOTSISEMA) with a few lit windows; right, the open horizon of the Gulf of Bothnia stretches under full cloud. A wet 06:00 night scene at the working 1872 lighthouse, sand and driftwood sheened by rain.",
+      "approval_status": "Approved"
     }
   ],
-  "count": 124,
+  "count": 126,
   "motion_clips": 34
 }
