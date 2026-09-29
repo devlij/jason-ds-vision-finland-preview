@@ -2790,8 +2790,42 @@
       "caption": "Messilä Ski Resort, Hollola",
       "description": "From the base area of Messilä Ski Resort on an overcast September evening, the idle chairlift line climbs the forested hill through the center of the frame while grassy, snow-free slope corridors descend on the left among birches turning autumn gold; to the right the dark timber base lodge and rental buildings shelter racked skis, a trail-map board reading \"closed for season,\" and parked cars. The Salpausselkä ridge rises behind under flat grey light. An honest between-seasons scene — the resort rests between summer biking and the first snow.",
       "approval_status": "Approved"
+    },
+    {
+      "id": "FI-01-165",
+      "city": "Lahti",
+      "site": "Pikku-Vesijärvi Park",
+      "region": "Päijät-Häme",
+      "country": "Finland",
+      "file_16x9": "assets/fi-01-165-16x9.png",
+      "file_4x5": "assets/fi-01-165-4x5.png",
+      "file_9x16": "assets/fi-01-165-9x16.png",
+      "motion": null,
+      "scenario": "29 September 2026 · 18:30 Europe/Helsinki",
+      "daynight": "day",
+      "moods": [],
+      "caption": "Pikku-Vesijärvi Park, Lahti",
+      "description": "From the gravel walking path beneath the old park trees, Pikku-Vesijärvi's green arboretum opens out toward the pond: the wooden playground with its slide and climbing nets sits center-frame on open lawns, while to the right the small lake's reed-fringed shoreline holds ducks and resting gulls under a heavy overcast sky. Flat late-afternoon light spreads evenly across the lawns with no shadows, and fallen leaves are just beginning to scatter the grass along the path, honest for late September. A candid lakeside-park view of one of Lahti's most loved green spaces.",
+      "approval_status": "Approved"
+    },
+    {
+      "id": "FI-01-166",
+      "city": "Lahti",
+      "site": "Lahti Ski Museum (Urheilumuseo)",
+      "region": "Päijät-Häme",
+      "country": "Finland",
+      "file_16x9": "assets/fi-01-166-16x9.png",
+      "file_4x5": "assets/fi-01-166-4x5.png",
+      "file_9x16": "assets/fi-01-166-9x16.png",
+      "motion": null,
+      "scenario": "29 September 2026 · 18:30 Europe/Helsinki",
+      "daynight": "day",
+      "moods": [],
+      "caption": "Lahti Ski Museum (Urheilumuseo), Lahti",
+      "description": "From the sports-centre forecourt, the wood-clad Ski Museum fills the left of the frame with its dark sign reading HIIHTOMUSEO and directions to the restaurant and café, while the glazed entrance bay at center displays crossed historic skis, medals and a Winter Sports exhibit board. To the right the twin Salpausselkä ski-jump towers rise behind the stadium stands, their ramps pale against the heavy grey sky. Flat overcast light spreads evenly over wet paving and green late-September slopes — a candid view of Finnish winter-sports heritage without the winter.",
+      "approval_status": "Approved"
     }
   ],
-  "count": 164,
+  "count": 166,
   "motion_clips": 40
 }
