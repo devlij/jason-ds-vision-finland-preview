@@ -2620,8 +2620,42 @@
       "caption": "Pedagogy Museum Quarter, Kokkola",
       "description": "In Kokkola's Museum Quarter, the weathered dark-red timber facade of the 1696 Pedagogy schoolhouse fills the left of the frame — its log corner construction and Finnish commemorative plaque visible, the museum entrance canopy centered under a mossy shingle porch; to the right, a wayfinding post points to the Lassander House and exhibition hall while red and cream timber buildings enclose the cobbled courtyard; fallen autumn leaves and clear early-afternoon light complete the cosy old-town scene.",
       "approval_status": "Approved"
+    },
+    {
+      "id": "FI-01-155",
+      "city": "Kokkola",
+      "site": "Kokkola Market Square (Kauppatori)",
+      "region": "Central Ostrobothnia",
+      "country": "Finland",
+      "file_16x9": "assets/fi-01-155-16x9.png",
+      "file_4x5": "assets/fi-01-155-4x5.png",
+      "file_9x16": "assets/fi-01-155-9x16.png",
+      "motion": "video/fi-01-155-motion-8s.mp4",
+      "scenario": "29 September 2026 · 14:30 Europe/Helsinki",
+      "daynight": "day",
+      "moods": [],
+      "caption": "Kokkola Market Square (Kauppatori), Kokkola",
+      "description": "From the open square at eye level, striped-awning market stalls line the left, their tables stacked with apples, berries and preserves beneath Finnish chalkboards; the cobbled square opens in the center toward the tall yellow facade of the Town Hall, its pediment bright in the clear autumn afternoon; to the right, the old townhouses of the bordering streets carry flower boxes and cafe terraces strung with lights.",
+      "approval_status": "Approved"
+    },
+    {
+      "id": "FI-01-156",
+      "city": "Kokkola",
+      "site": "M/S Jenny Archipelago Harbour (Meripuisto)",
+      "region": "Central Ostrobothnia",
+      "country": "Finland",
+      "file_16x9": "assets/fi-01-156-16x9.png",
+      "file_4x5": "assets/fi-01-156-4x5.png",
+      "file_9x16": "assets/fi-01-156-9x16.png",
+      "motion": "video/fi-01-156-motion-8s.mp4",
+      "scenario": "29 September 2026 · 14:30 Europe/Helsinki",
+      "daynight": "day",
+      "moods": [],
+      "caption": "M/S Jenny Archipelago Harbour (Meripuisto), Kokkola",
+      "description": "From the grassy bank of the Meripuisto harbour park, the white-and-blue archipelago cruiser Jenny lies moored at the quay on the left, its Finnish flag lifting in the sea breeze; the marina pontoons and the wooden harbour-service building fill the center; to the right the open Gulf of Bothnia stretches out toward the Kokkola archipelago, its forested islets scattered under a clear autumn afternoon sky while gulls ride the wind overhead.",
+      "approval_status": "Approved"
     }
   ],
-  "count": 154,
-  "motion_clips": 38
+  "count": 156,
+  "motion_clips": 40
 }
