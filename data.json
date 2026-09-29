@@ -2263,8 +2263,42 @@
       "caption": "Kuopio Cathedral, Kuopio",
       "description": "From the churchyard park, Kuopio's pale Neoclassical cathedral rises centre frame, its single clock-topped belfry standing out against a flat overcast sky, the fieldstone-patterned walls and arched entrance door below. To the left, birch trees in early autumn color frame gravestones and park benches; to the right, stone steps climb past a rubble-stone wall toward the city rooftops — a red-roofed building and distant blocks — beyond. Diffuse morning light flattens every shadow; fallen leaves on the wet paths make it an honest late-September churchyard scene.",
       "approval_status": "Approved"
+    },
+    {
+      "id": "FI-01-134",
+      "city": "Kuopio",
+      "site": "Kuopio Harbour",
+      "region": "North Savo",
+      "country": "Finland",
+      "file_16x9": "assets/fi-01-134-16x9.png",
+      "file_4x5": "assets/fi-01-134-4x5.png",
+      "file_9x16": "assets/fi-01-134-9x16.png",
+      "motion": null,
+      "scenario": "29 September 2026 · 08:30 Europe/Helsinki",
+      "daynight": "day",
+      "moods": [],
+      "caption": "Kuopio Harbour, Kuopio",
+      "description": "From the harbour promenade, the passenger harbour runs left: a green-white tour boat at the pier and an orange wooden-hull vessel astern, masts and moored craft along the quay. Center, the harbour square's timber restaurant buildings and their empty terraces line the paving, with the grey expanse of Lake Kallavesi opening beyond. To the right, the shoreline curves toward the city of Kuopio rising behind the marina. Under a flat overcast sky at 08:30, diffuse light leaves no shadows; wet-looking paving and autumn-tinged trees make it an honest late-September harbour morning.",
+      "approval_status": "Approved"
+    },
+    {
+      "id": "FI-01-135",
+      "city": "Nilsiä",
+      "site": "Tahko Ski Resort",
+      "region": "North Savo",
+      "country": "Finland",
+      "file_16x9": "assets/fi-01-135-16x9.png",
+      "file_4x5": "assets/fi-01-135-4x5.png",
+      "file_9x16": "assets/fi-01-135-9x16.png",
+      "motion": null,
+      "scenario": "29 September 2026 · 08:30 Europe/Helsinki",
+      "daynight": "day",
+      "moods": [],
+      "caption": "Tahko Ski Resort, Nilsiä",
+      "description": "From the slope-side trail above the base, Tahko's cleared pistes fall center frame, bare of snow in late September — damp autumn ground, fallen leaves, and brown-gold foliage flanking the piste corridors. To the left, chairlift lines climb through mixed forest toward the summit of Tahkovuori; to the right, the resort's timber lodges sit at the base with lake-dotted hills opening beyond. Under a flat overcast sky, diffuse morning light leaves no shadows; no people, no skiers, just an honest off-season fell morning.",
+      "approval_status": "Approved"
     }
   ],
-  "count": 133,
+  "count": 135,
   "motion_clips": 34
 }
