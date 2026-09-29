@@ -2586,8 +2586,42 @@
       "caption": "Lohtaja Church, Kokkola",
       "description": "From the churchyard at Lohtaja, the dark-timbered wooden church of 1768 fills the left of the frame, its shingled double-cross roof and entrance steps centered; to the right, the tall wooden belfry rises above the parish log buildings; gravestones dot the grass around birches turning gold, and under a perfectly clear early-afternoon sky the whole church village glows in autumn light.",
       "approval_status": "Approved"
+    },
+    {
+      "id": "FI-01-153",
+      "city": "Kannus",
+      "site": "Kannus Church",
+      "region": "Central Ostrobothnia",
+      "country": "Finland",
+      "file_16x9": "assets/fi-01-153-16x9.png",
+      "file_4x5": "assets/fi-01-153-4x5.png",
+      "file_9x16": "assets/fi-01-153-9x16.png",
+      "motion": null,
+      "scenario": "29 September 2026 · 14:00 Europe/Helsinki",
+      "daynight": "day",
+      "moods": [],
+      "caption": "Kannus Church, Kannus",
+      "description": "From the street in Kannus, the wooden church fills the left of the frame — cream siding with reddish-brown trim, its gabled entrance and steps centered under a cross-topped lantern tower; to the right, the separate belfry rises above the town's timber roofs along Valtakatu; hedges and a turning birch frame the churchyard wall, and under a clear early-afternoon sky the whole street glows in crisp September light.",
+      "approval_status": "Approved"
+    },
+    {
+      "id": "FI-01-154",
+      "city": "Kokkola",
+      "site": "Pedagogy Museum Quarter",
+      "region": "Central Ostrobothnia",
+      "country": "Finland",
+      "file_16x9": "assets/fi-01-154-16x9.png",
+      "file_4x5": "assets/fi-01-154-4x5.png",
+      "file_9x16": "assets/fi-01-154-9x16.png",
+      "motion": null,
+      "scenario": "29 September 2026 · 14:00 Europe/Helsinki",
+      "daynight": "day",
+      "moods": [],
+      "caption": "Pedagogy Museum Quarter, Kokkola",
+      "description": "In Kokkola's Museum Quarter, the weathered dark-red timber facade of the 1696 Pedagogy schoolhouse fills the left of the frame — its log corner construction and Finnish commemorative plaque visible, the museum entrance canopy centered under a mossy shingle porch; to the right, a wayfinding post points to the Lassander House and exhibition hall while red and cream timber buildings enclose the cobbled courtyard; fallen autumn leaves and clear early-afternoon light complete the cosy old-town scene.",
+      "approval_status": "Approved"
     }
   ],
-  "count": 152,
+  "count": 154,
   "motion_clips": 38
 }
