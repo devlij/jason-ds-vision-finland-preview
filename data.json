@@ -2518,8 +2518,42 @@
       "caption": "Kokkola Town Hall, Kokkola",
       "description": "Kokkola's ochre Town Hall fills the left of the frame behind the cobbled market square, its white-trimmed facade and pediment facing Kauppatori; in the center stands the Vapaudenpatsas memorial, a bronze classicist warrior on a plain granite pedestal with a carved lion, while striped market awnings and produce stalls line the right beside the bordering townhouses. Under a mainly clear late-September midday sky the light is bright and even, with fallen leaves scattered across the cobbles. A candid, quiet weekday square view — no posing figures — that reads as the standard tourist stop at the town hall and liberty monument.",
       "approval_status": "Approved"
+    },
+    {
+      "id": "FI-01-149",
+      "city": "Kokkola",
+      "site": "Tankar Island Old Church",
+      "region": "Central Ostrobothnia",
+      "country": "Finland",
+      "file_16x9": "assets/fi-01-149-16x9.png",
+      "file_4x5": "assets/fi-01-149-4x5.png",
+      "file_9x16": "assets/fi-01-149-9x16.png",
+      "motion": "video/fi-01-149-motion-8s.mp4",
+      "scenario": "29 September 2026 · 13:00 Europe/Helsinki",
+      "daynight": "day",
+      "moods": [],
+      "caption": "Tankar Island Old Church, Kokkola",
+      "description": "Standing on the rocky shore of Tankar island in bright midday light, the tiny 1754 wooden church with its white cross sits left on its bedrock outcrop, while the seal-hunting museum huts and the Café Tankar buildings cluster center around a boardwalk trail, and the red-and-white iron lighthouse rises right over the nature trail. Late-September sunshine sharpens the grey bedrock and pine scrub, with the open Bothnian Bay stretching behind the village — the quiet lighthouse station kept to its working scale, honest to a real visit.",
+      "approval_status": "Approved"
+    },
+    {
+      "id": "FI-01-150",
+      "city": "Kokkola",
+      "site": "Kälviä Church",
+      "region": "Central Ostrobothnia",
+      "country": "Finland",
+      "file_16x9": "assets/fi-01-150-16x9.png",
+      "file_4x5": "assets/fi-01-150-4x5.png",
+      "file_9x16": "assets/fi-01-150-9x16.png",
+      "motion": "video/fi-01-150-motion-8s.mp4",
+      "scenario": "29 September 2026 · 13:00 Europe/Helsinki",
+      "daynight": "day",
+      "moods": [],
+      "caption": "Kälviä Church, Kokkola",
+      "description": "From the Kälviä churchyard in crisp midday light, the yellow-painted wooden church stretches left along the frame, its arched entrance portal centered under a small gabled roof, while the tall wooden bell tower with its clock and domed cap rises right above golden autumn birches. Late-September leaves carpet the path past mossy old gravestones, and the air is clear and blue — a quiet Ostrobothnian parish village scene, honest to a real visit.",
+      "approval_status": "Approved"
     }
   ],
-  "count": 148,
-  "motion_clips": 34
+  "count": 150,
+  "motion_clips": 36
 }
