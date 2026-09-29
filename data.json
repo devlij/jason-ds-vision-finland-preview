@@ -2654,8 +2654,42 @@
       "caption": "M/S Jenny Archipelago Harbour (Meripuisto), Kokkola",
       "description": "From the grassy bank of the Meripuisto harbour park, the white-and-blue archipelago cruiser Jenny lies moored at the quay on the left, its Finnish flag lifting in the sea breeze; the marina pontoons and the wooden harbour-service building fill the center; to the right the open Gulf of Bothnia stretches out toward the Kokkola archipelago, its forested islets scattered under a clear autumn afternoon sky while gulls ride the wind overhead.",
       "approval_status": "Approved"
+    },
+    {
+      "id": "FI-01-157",
+      "city": "Lahti",
+      "site": "Sibelius Hall",
+      "region": "Päijät-Häme",
+      "country": "Finland",
+      "file_16x9": "assets/fi-01-157-16x9.png",
+      "file_4x5": "assets/fi-01-157-4x5.png",
+      "file_9x16": "assets/fi-01-157-9x16.png",
+      "motion": null,
+      "scenario": "29 September 2026 · 15:00 Europe/Helsinki",
+      "daynight": "day",
+      "moods": [],
+      "caption": "Sibelius Hall, Lahti",
+      "description": "From the lakeside promenade, the timber-and-glass mass of Sibelius Hall fills the left of the frame, its dark vertical cladding and tall glass panels reflected in the damp cobbles of the forecourt square. At the center an abstract bronze sculpture group rises from its plinth, while to the right the marina and Lake Vesijärvi open out under a flat overcast sky, with an autumn-colored treeline on the far shore. A soft, diffused afternoon light flattens the shadows on this cool 14.4°C September day at Lahti's celebrated glulam concert hall.",
+      "approval_status": "Approved"
+    },
+    {
+      "id": "FI-01-158",
+      "city": "Lahti",
+      "site": "Lahti Ski Jumps (Salpausselkä)",
+      "region": "Päijät-Häme",
+      "country": "Finland",
+      "file_16x9": "assets/fi-01-158-16x9.png",
+      "file_4x5": "assets/fi-01-158-4x5.png",
+      "file_9x16": "assets/fi-01-158-9x16.png",
+      "motion": null,
+      "scenario": "29 September 2026 · 15:00 Europe/Helsinki",
+      "daynight": "day",
+      "moods": [],
+      "caption": "Lahti Ski Jumps (Salpausselkä), Lahti",
+      "description": "From the outrun level below the hills, the tall concrete inrun towers of Salpausselkä rise on the left of the frame, the plastic-covered landing slopes sweeping down past the judges' tower at the center. To the right, the stadium bowl with its blue running track sits in the natural amphitheater, ringed by pine forest turning to early-autumn color. Under a flat overcast sky with damp ground underfoot, this cool 13.9°C September view captures Lahti's famous ski-jumping venue in its quiet off-season.",
+      "approval_status": "Approved"
     }
   ],
-  "count": 156,
+  "count": 158,
   "motion_clips": 40
 }
