@@ -3164,8 +3164,42 @@
       "caption": "Kuortane Church, Kuortane",
       "description": "Near midnight in late September, Kuortane Church stands over its churchyard under a heavy overcast sky. On the left rises the lit church tower; the center of the frame holds the long red-timber nave wall with its rows of warmly glowing windows. To the right and through the foreground lies the graveyard — weathered old gravestones, spruce columns, and birch branches framing the view. A yard lamp burns at the edge of the frame; fallen autumn leaves scatter the grass. The air is a cool 5.9°C, the church closed for the night.",
       "approval_status": "Approved"
+    },
+    {
+      "id": "FI-01-187",
+      "city": "Alajärvi",
+      "site": "Alajärvi Church",
+      "region": "South Ostrobothnia",
+      "country": "Finland",
+      "file_16x9": "assets/fi-01-187-16x9.png",
+      "file_4x5": "assets/fi-01-187-4x5.png",
+      "file_9x16": "assets/fi-01-187-9x16.png",
+      "motion": null,
+      "scenario": "30 September 2026 · 00:00 Europe/Helsinki",
+      "daynight": "night",
+      "moods": [],
+      "caption": "Alajärvi Church, Alajärvi",
+      "description": "At midnight in late September, Alajärvi Church stands over its grounds under a heavy overcast sky. On the left rises the church's freestanding wooden bell tower, its bell glowing in the warm belfry light; the center of the frame holds the white timber cruciform church with its lit main entrance and rows of warmly glowing windows. To the right lies the churchyard — weathered gravestones, glowing grave lanterns, and a wet cobble path catching the light. The air is a cool 5.7°C, the church closed for the night, the only illumination coming from inside the building and the lamps along the graves.",
+      "approval_status": "Approved"
+    },
+    {
+      "id": "FI-01-188",
+      "city": "Isojoki",
+      "site": "Lauhanvuori National Park",
+      "region": "South Ostrobothnia",
+      "country": "Finland",
+      "file_16x9": "assets/fi-01-188-16x9.png",
+      "file_4x5": "assets/fi-01-188-4x5.png",
+      "file_9x16": "assets/fi-01-188-9x16.png",
+      "motion": null,
+      "scenario": "30 September 2026 · 00:00 Europe/Helsinki",
+      "daynight": "night",
+      "moods": [],
+      "caption": "Lauhanvuori National Park, Isojoki",
+      "description": "At midnight in late September, the trailhead of Lauhanvuori National Park sits under a partly cloudy night sky, stars showing through the broken cloud. On the left, the dark pine forest edge closes in; the center of the frame holds the wooden park signage — a Metsähallitus information board marking routes toward Pirunkierros and Kivijata. To the right stretches the rugged moraine boulder field of the ancient fell, the low silhouette of the 231-metre ridge rising beyond. The air is a cool 6.4°C, the only light the glow of moonlit cloud above the dark park.",
+      "approval_status": "Approved"
     }
   ],
-  "count": 186,
+  "count": 188,
   "motion_clips": 34
 }
