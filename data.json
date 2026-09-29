@@ -3130,8 +3130,42 @@
       "caption": "Yli-Laurosela House Museum, Ilmajoki",
       "description": "Near midnight in late September, the Yli-Laurosela farmstead stands quiet under a heavy overcast sky. On the left, the red two-story main house with its white-trimmed Empire-style windows rises beside a timber outbuilding, one window faintly lit. The museum courtyard fills the center of the frame with its collection of old farm implements — harrow, carts, plows, barrels — displayed around the yard fences. To the right, the flat Ostrobothnian farmland stretches to a low treeline fading into the dark, and a red information board marks the entrance: Talomuseo · Ilmajoki. A candid night view of the 19th-century farmhouse museum in the chill 6.3°C air.",
       "approval_status": "Approved"
+    },
+    {
+      "id": "FI-01-185",
+      "city": "Kauhava",
+      "site": "Finnish Knife and Textile Museum",
+      "region": "South Ostrobothnia",
+      "country": "Finland",
+      "file_16x9": "assets/fi-01-185-16x9.png",
+      "file_4x5": "assets/fi-01-185-4x5.png",
+      "file_9x16": "assets/fi-01-185-9x16.png",
+      "motion": null,
+      "scenario": "29 September 2026 · 23:30 Europe/Helsinki",
+      "daynight": "night",
+      "moods": [],
+      "caption": "Finnish Knife and Textile Museum, Kauhava",
+      "description": "Near midnight in late September, the Finnish Knife and Textile Museum glows on Kauppatie in central Kauhava. On the left, the museum building carries its Finnish and English signage over the entrance; the center of the frame is the glass-fronted doorway, warmly lit against the dark. To the right the small-town streetscape continues with lit shopfronts — a kahvila and the apteekki — parked cars, and a street lamp pooling on the rain-wet pavement. A fully overcast night sky hangs low above; the air is a cool 5.2°C, the museum closed for the night, the street quiet.",
+      "approval_status": "Approved"
+    },
+    {
+      "id": "FI-01-186",
+      "city": "Kuortane",
+      "site": "Kuortane Church",
+      "region": "South Ostrobothnia",
+      "country": "Finland",
+      "file_16x9": "assets/fi-01-186-16x9.png",
+      "file_4x5": "assets/fi-01-186-4x5.png",
+      "file_9x16": "assets/fi-01-186-9x16.png",
+      "motion": null,
+      "scenario": "29 September 2026 · 23:30 Europe/Helsinki",
+      "daynight": "night",
+      "moods": [],
+      "caption": "Kuortane Church, Kuortane",
+      "description": "Near midnight in late September, Kuortane Church stands over its churchyard under a heavy overcast sky. On the left rises the lit church tower; the center of the frame holds the long red-timber nave wall with its rows of warmly glowing windows. To the right and through the foreground lies the graveyard — weathered old gravestones, spruce columns, and birch branches framing the view. A yard lamp burns at the edge of the frame; fallen autumn leaves scatter the grass. The air is a cool 5.9°C, the church closed for the night.",
+      "approval_status": "Approved"
     }
   ],
-  "count": 184,
+  "count": 186,
   "motion_clips": 34
 }
