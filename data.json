@@ -1906,8 +1906,42 @@
       "caption": "Imatrankoski Rapids, Imatra",
       "description": "The Imatrankoski rapids thunder down the rocky Vuoksi channel in white foam under a dark overcast night sky, lit from the underdeck lamps of the Koskisilta pedestrian bridge. White water fills the left of the frame, the lit bridge arches across the center, and the tree-lined banks of Kruununpuisto rise right to the glowing towers of the 1903 Valtionhotelli castle above the treeline. A candid late-night tourist view, rain-speckled railings in the foreground.",
       "approval_status": "Approved"
+    },
+    {
+      "id": "FI-01-113",
+      "city": "Imatra",
+      "site": "Imatran Valtionhotelli",
+      "region": "South Karelia",
+      "country": "Finland",
+      "file_16x9": "assets/fi-01-113-16x9.png",
+      "file_4x5": "assets/fi-01-113-4x5.png",
+      "file_9x16": "assets/fi-01-113-9x16.png",
+      "motion": null,
+      "scenario": "29 September 2026 · 03:00 Europe/Helsinki",
+      "daynight": "night",
+      "moods": [],
+      "caption": "Imatran Valtionhotelli, Imatra",
+      "description": "Deep in the night, the castle-like Imatran Valtionhotelli glows against a dark overcast sky over Imatra. On the left, the Jugendstil facade rises with its towers, turrets and steep roofs; in the center, the grand entrance faces the Vuoksi with warmly lit windows above the arched doorway; on the right, the hotel gardens slope down to the Imatrankoski rapids flowing past rocks and birches in the low light.",
+      "approval_status": "Approved"
+    },
+    {
+      "id": "FI-01-114",
+      "city": "Lappeenranta",
+      "site": "Hiekkalinna Sandcastle",
+      "region": "South Karelia",
+      "country": "Finland",
+      "file_16x9": "assets/fi-01-114-16x9.png",
+      "file_4x5": "assets/fi-01-114-4x5.png",
+      "file_9x16": "assets/fi-01-114-9x16.png",
+      "motion": null,
+      "scenario": "29 September 2026 · 03:00 Europe/Helsinki",
+      "daynight": "night",
+      "moods": [],
+      "caption": "Hiekkalinna Sandcastle, Lappeenranta",
+      "description": "At 3 a.m. the great sand sculptures of Hiekkalinna glow amber under floodlights against a partly cloudy night sky over Lappeenranta harbour. On the left, towering carved figures rise from the sand mound; in the center, the castle centerpiece stands with its detailed turrets and reliefs; on the right, the lit harbour buildings, moored boats, and the open dark water of Lake Saimaa stretch beyond.",
+      "approval_status": "Approved"
     }
   ],
-  "count": 112,
+  "count": 114,
   "motion_clips": 34
 }
