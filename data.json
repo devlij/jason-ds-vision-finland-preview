@@ -2144,8 +2144,42 @@
       "caption": "Marjaniemi Lighthouse, Hailuoto Island, Hailuoto",
       "description": "At Marjaniemi point the white three-segment lighthouse tower rises left over sea grasses, its red lantern throwing a beam into the drizzle of a pre-dawn sky; centre, the sandy point holds the white daymark tower and the pilot-station buildings (one marked LUOTSISEMA) with a few lit windows; right, the open horizon of the Gulf of Bothnia stretches under full cloud. A wet 06:00 night scene at the working 1872 lighthouse, sand and driftwood sheened by rain.",
       "approval_status": "Approved"
+    },
+    {
+      "id": "FI-01-127",
+      "city": "Oulu",
+      "site": "Nallikari Beach",
+      "region": "North Ostrobothnia",
+      "country": "Finland",
+      "file_16x9": "assets/fi-01-127-16x9.png",
+      "file_4x5": "assets/fi-01-127-4x5.png",
+      "file_9x16": "assets/fi-01-127-9x16.png",
+      "motion": null,
+      "scenario": "29 September 2026 · 06:30 Europe/Helsinki",
+      "daynight": "night",
+      "moods": [],
+      "caption": "Nallikari Beach, Oulu",
+      "description": "On a drizzly autumn night, a tourist stands on Nallikari's long sandy beach: left, the wet shoreline curves along the bay under a dark, drizzling sky; center, the beach volleyball net, the white lifeguard tower with its red life ring, and the pale wooden Majakkakahvila lighthouse café glowing on its deck with warm string lights; right, the shallow water of the Bothnian Bay fades into darkness, with the faint city lights of Oulu shimmering far across the water.",
+      "approval_status": "Approved"
+    },
+    {
+      "id": "FI-01-128",
+      "city": "Naantali",
+      "site": "Moominworld",
+      "region": "Southwest Finland",
+      "country": "Finland",
+      "file_16x9": "assets/fi-01-128-16x9.png",
+      "file_4x5": "assets/fi-01-128-4x5.png",
+      "file_9x16": "assets/fi-01-128-9x16.png",
+      "motion": null,
+      "scenario": "29 September 2026 · 06:30 Europe/Helsinki",
+      "daynight": "night",
+      "moods": [],
+      "caption": "Moominworld, Naantali",
+      "description": "On a drizzly off-season night, a tourist walks the forest path of Moominworld on Kailo island: left, the blueberry-blue five-storey Moomin House rises dark over the trail, its conical roof and spire just catching the faint cloud-glow; center, Hemulen's mustard-yellow house and the other storybook homes stand quiet and unlit; right, the wet path curves past dripping trees to the rocky archipelago shore, where a wooden boat waits at a small jetty under the drizzle.",
+      "approval_status": "Approved"
     }
   ],
-  "count": 126,
+  "count": 128,
   "motion_clips": 34
 }
