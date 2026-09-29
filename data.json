@@ -2178,8 +2178,25 @@
       "caption": "Moominworld, Naantali",
       "description": "On a drizzly off-season night, a tourist walks the forest path of Moominworld on Kailo island: left, the blueberry-blue five-storey Moomin House rises dark over the trail, its conical roof and spire just catching the faint cloud-glow; center, Hemulen's mustard-yellow house and the other storybook homes stand quiet and unlit; right, the wet path curves past dripping trees to the rocky archipelago shore, where a wooden boat waits at a small jetty under the drizzle.",
       "approval_status": "Approved"
+    },
+    {
+      "id": "FI-01-129",
+      "city": "Turku",
+      "site": "Luostarinmäki Handicrafts Museum",
+      "region": "Southwest Finland",
+      "country": "Finland",
+      "file_16x9": "assets/fi-01-129-16x9.png",
+      "file_4x5": "assets/fi-01-129-4x5.png",
+      "file_9x16": "assets/fi-01-129-9x16.png",
+      "motion": null,
+      "scenario": "29 September 2026 · 07:00 Europe/Helsinki",
+      "daynight": "night",
+      "moods": [],
+      "caption": "Luostarinmäki Handicrafts Museum, Turku",
+      "description": "At pre-sunrise twilight, a tourist stands in one of Luostarinmäki's narrow cobbled lanes: left, rows of ochre and red 18th-century wooden workshops carry small painted trade signs over their doors; center, the cobbled lane runs between grassy verges toward the tree-lined edge of the museum quarter under a heavy overcast sky; right, the old post office and museum shop glow warmly through their windows, with stacked firewood and a barrel by the doorway. A soft warm brightness along the eastern horizon fades upward into blue-grey cloud, the landscape still held in blue-hour shadow.",
+      "approval_status": "Approved"
     }
   ],
-  "count": 128,
+  "count": 129,
   "motion_clips": 34
 }
