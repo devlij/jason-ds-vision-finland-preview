@@ -2552,8 +2552,42 @@
       "caption": "Kälviä Church, Kokkola",
       "description": "From the Kälviä churchyard in crisp midday light, the yellow-painted wooden church stretches left along the frame, its arched entrance portal centered under a small gabled roof, while the tall wooden bell tower with its clock and domed cap rises right above golden autumn birches. Late-September leaves carpet the path past mossy old gravestones, and the air is clear and blue — a quiet Ostrobothnian parish village scene, honest to a real visit.",
       "approval_status": "Approved"
+    },
+    {
+      "id": "FI-01-151",
+      "city": "Kokkola",
+      "site": "Ullava Church",
+      "region": "Central Ostrobothnia",
+      "country": "Finland",
+      "file_16x9": "assets/fi-01-151-16x9.png",
+      "file_4x5": "assets/fi-01-151-4x5.png",
+      "file_9x16": "assets/fi-01-151-9x16.png",
+      "motion": "video/fi-01-151-motion-8s.mp4",
+      "scenario": "29 September 2026 · 13:30 Europe/Helsinki",
+      "daynight": "day",
+      "moods": [],
+      "caption": "Ullava Church, Kokkola",
+      "description": "Standing on the village road in Ullava, the red wooden church fills the left of the frame, its tall spire rising above the autumn canopy; center, the dark freestanding belfry anchors the churchyard; to the right, a low fence, gravestones, and scattered village houses sit beneath birches turning gold in soft early-afternoon light, the sky mainly clear with only thin cloud.",
+      "approval_status": "Approved"
+    },
+    {
+      "id": "FI-01-152",
+      "city": "Kokkola",
+      "site": "Lohtaja Church",
+      "region": "Central Ostrobothnia",
+      "country": "Finland",
+      "file_16x9": "assets/fi-01-152-16x9.png",
+      "file_4x5": "assets/fi-01-152-4x5.png",
+      "file_9x16": "assets/fi-01-152-9x16.png",
+      "motion": "video/fi-01-152-motion-8s.mp4",
+      "scenario": "29 September 2026 · 13:30 Europe/Helsinki",
+      "daynight": "day",
+      "moods": [],
+      "caption": "Lohtaja Church, Kokkola",
+      "description": "From the churchyard at Lohtaja, the dark-timbered wooden church of 1768 fills the left of the frame, its shingled double-cross roof and entrance steps centered; to the right, the tall wooden belfry rises above the parish log buildings; gravestones dot the grass around birches turning gold, and under a perfectly clear early-afternoon sky the whole church village glows in autumn light.",
+      "approval_status": "Approved"
     }
   ],
-  "count": 150,
-  "motion_clips": 36
+  "count": 152,
+  "motion_clips": 38
 }
