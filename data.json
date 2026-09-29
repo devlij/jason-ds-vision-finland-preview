@@ -2688,8 +2688,42 @@
       "caption": "Lahti Ski Jumps (Salpausselkä), Lahti",
       "description": "From the outrun level below the hills, the tall concrete inrun towers of Salpausselkä rise on the left of the frame, the plastic-covered landing slopes sweeping down past the judges' tower at the center. To the right, the stadium bowl with its blue running track sits in the natural amphitheater, ringed by pine forest turning to early-autumn color. Under a flat overcast sky with damp ground underfoot, this cool 13.9°C September view captures Lahti's famous ski-jumping venue in its quiet off-season.",
       "approval_status": "Approved"
+    },
+    {
+      "id": "FI-01-159",
+      "city": "Lahti",
+      "site": "Lahti Cathedral (Ristinkirkko)",
+      "region": "Päijät-Häme",
+      "country": "Finland",
+      "file_16x9": "assets/fi-01-159-16x9.png",
+      "file_4x5": "assets/fi-01-159-4x5.png",
+      "file_9x16": "assets/fi-01-159-9x16.png",
+      "motion": null,
+      "scenario": "29 September 2026 · 15:30 Europe/Helsinki",
+      "daynight": "day",
+      "moods": [],
+      "caption": "Lahti Cathedral (Ristinkirkko), Lahti",
+      "description": "Standing in front of the red-brick church, the massive cast-concrete belfry of Ristinkirkko rises on the left of the frame, its clock face against a grey sky; at the center, the brick facade carries its grid of small windows with the dark entrance doors and stone steps below. To the right, birch trees of the Kirkkopuisto park edge a rain-dampened Kirkkokatu, bicycles parked along the curb. Under flat overcast light and a cool 14.4°C September afternoon, this quiet view captures Alvar Aalto's modernist Lahti church in its ordinary weekday stillness.",
+      "approval_status": "Approved"
+    },
+    {
+      "id": "FI-01-160",
+      "city": "Lahti",
+      "site": "Lahti Harbor (Vesijärvi)",
+      "region": "Päijät-Häme",
+      "country": "Finland",
+      "file_16x9": "assets/fi-01-160-16x9.png",
+      "file_4x5": "assets/fi-01-160-4x5.png",
+      "file_9x16": "assets/fi-01-160-9x16.png",
+      "motion": null,
+      "scenario": "29 September 2026 · 15:30 Europe/Helsinki",
+      "daynight": "day",
+      "moods": [],
+      "caption": "Lahti Harbor (Vesijärvi), Lahti",
+      "description": "Along the harbor promenade, the marina docks with their moored pleasure boats fill the left of the frame, while the waterfront café and market stalls take the center — Finnish chalkboard menus, crates of produce, and a flying Finnish flag. To the right, the open water of Lake Vesijärvi stretches toward tree-lined shores under a heavy overcast sky. Wet stone paving and flat 14.5°C afternoon light give this late-September view of Lahti's harbor a quiet, end-of-season calm.",
+      "approval_status": "Approved"
     }
   ],
-  "count": 158,
+  "count": 160,
   "motion_clips": 40
 }
