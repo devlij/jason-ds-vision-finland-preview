@@ -4371,8 +4371,42 @@
       "caption": "Finnish Railway Museum, Hyvinkää",
       "description": "In the yard of the Finnish Railway Museum at Hyvinkää, the curved red-brick wall of the 1870s roundhouse rises on the left while three vintage steam locomotives — black and green, brass fittings gleaming — stand side by side on the gravel tracks in the center of the frame. To the right, the turntable apron curves toward the modern glass exhibition hall, with a blue Rautatiemuseo sign pointing visitors onward. Crisp late-afternoon autumn sunshine and a cloudless blue sky light the scene on a still September afternoon.",
       "approval_status": "Approved"
+    },
+    {
+      "id": "FI-01-258",
+      "city": "Tammela",
+      "site": "Liesjärvi National Park",
+      "region": "Kanta-Häme",
+      "country": "Finland",
+      "file_16x9": "assets/fi-01-258-16x9.png",
+      "file_4x5": "assets/fi-01-258-4x5.png",
+      "file_9x16": "assets/fi-01-258-9x16.png",
+      "motion": "video/fi-01-258-motion-15s-4x5.mp4",
+      "scenario": "30 September 2026 · 18:00 Europe/Helsinki",
+      "daynight": "day",
+      "moods": [],
+      "caption": "Liesjärvi National Park, Tammela",
+      "description": "The narrow Kyynäränharju esker ridge trail winds between two calm lakes in Liesjärvi National Park, Tammela. On the left, an old-growth spruce and pine forest edge rises mossy and dense; at center, the sandy trail recedes along the ridge crest; to the right, Lake Liesjärvi lies mirror-still under a clear late-September sky. Mushrooms dot the mossy undergrowth in the warm 18:00 evening light, and the far shore's dark forest line reflects unbroken in the water.",
+      "approval_status": "Approved"
+    },
+    {
+      "id": "FI-01-259",
+      "city": "Riihimäki",
+      "site": "Finnish Glass Museum",
+      "region": "Kanta-Häme",
+      "country": "Finland",
+      "file_16x9": "assets/fi-01-259-16x9.png",
+      "file_4x5": "assets/fi-01-259-4x5.png",
+      "file_9x16": "assets/fi-01-259-9x16.png",
+      "motion": "video/fi-01-259-motion-15s-4x5.mp4",
+      "scenario": "30 September 2026 · 18:00 Europe/Helsinki",
+      "daynight": "day",
+      "moods": [],
+      "caption": "Finnish Glass Museum, Riihimäki",
+      "description": "The red-brick former Riihimäki Glassworks fills the frame as the Finnish Glass Museum: on the left, the long factory façade with its tall arched windows and a Suomen Lasimuseo sign; at center, the museum's modern glass courtyard entrance with its glazed bridge; to the right, the old industrial chimney rises over the factory halls. Birch saplings with yellowing autumn leaves and scattered fallen leaves mark the late-September evening, under a clear sky in soft 18:00 light.",
+      "approval_status": "Approved"
     }
   ],
-  "count": 257,
-  "motion_clips": 43
+  "count": 259,
+  "motion_clips": 45
 }
