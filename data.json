@@ -3810,8 +3810,42 @@
       "caption": "Korpo Church, Pargas",
       "description": "Standing in the old churchyard, the grey-stone body of Korpo Church fills the left — mossy pitched roof, small arched windows, and the massive square stone tower with its dark spire rising behind a wooden porch; center, weathered gravestones and fallen leaves among yellowing birches; right, the calm archipelago sea dotted with rocky islets and a small red boathouse. The 14th-century St. Michael's sits season-honest in flat, shadowless overcast light, the damp paths and turning foliage marking a late-September morning in the Korpo islands.",
       "approval_status": "Approved"
+    },
+    {
+      "id": "FI-01-225",
+      "city": "Pargas",
+      "site": "Seili Island",
+      "region": "Southwest Finland",
+      "country": "Finland",
+      "file_16x9": "assets/fi-01-225-16x9.png",
+      "file_4x5": "assets/fi-01-225-4x5.png",
+      "file_9x16": "assets/fi-01-225-9x16.png",
+      "motion": null,
+      "scenario": "30 September 2026 · 09:30 Europe/Helsinki",
+      "daynight": "day",
+      "moods": [],
+      "caption": "Seili Island, Pargas",
+      "description": "On Seili Island the old hospital buildings stand at the left — ochre historic walls with a bilingual \"SEILI / SJÄLÖ\" hospital-museum sign, ivy climbing the corner — while the center opens onto the island's wildflower meadows, white cow-parsley and purple heather along a dirt path. To the right, the grey Archipelago Sea stretches out past small rocky skerries under a flat, heavy overcast. The 09:30 autumn light is soft and shadowless at 10.8°C, honest for a late-September morning — a quiet, windswept island view with no one else in frame.",
+      "approval_status": "Approved"
+    },
+    {
+      "id": "FI-01-226",
+      "city": "Petäjävesi",
+      "site": "Petäjävesi Old Church",
+      "region": "Central Finland",
+      "country": "Finland",
+      "file_16x9": "assets/fi-01-226-16x9.png",
+      "file_4x5": "assets/fi-01-226-4x5.png",
+      "file_9x16": "assets/fi-01-226-9x16.png",
+      "motion": null,
+      "scenario": "30 September 2026 · 09:30 Europe/Helsinki",
+      "daynight": "day",
+      "moods": [],
+      "caption": "Petäjävesi Old Church, Petäjävesi",
+      "description": "The UNESCO-listed Petäjävesi Old Church rises from its lakeside churchyard under a cold grey sky — steep moss-darkened shingle roofs on the left, the horizontal-log nave with its round log corner joints in the center, and beside it the free-standing 1821 bell tower with its distinctive patterned white-and-red painted bands. To the right, mossy old gravestones lead down to the lake shore, autumn birches shedding yellow leaves along the fence. The 09:30 overcast light at 4.4°C is flat and shadowless, mist hanging over the water — a stark, honest late-September morning at a wooden church that has stood here since the 1760s.",
+      "approval_status": "Approved"
     }
   ],
-  "count": 224,
+  "count": 226,
   "motion_clips": 34
 }
