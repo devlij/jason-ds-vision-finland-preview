@@ -4439,8 +4439,42 @@
       "caption": "Jokioinen Museum Railway, Jokioinen",
       "description": "Eye-level in the yard at Minkiö station: left, the red wooden station building with its MINKIÖ nameplate and open doorway; center, the black narrow-gauge steam locomotive breathing wisps of steam at the platform; right, heritage carriages and railway clutter fade along the 750 mm tracks beneath birch and pine. Under a clear 13-degree sky, the preserved station environment keeps its nostalgic late-September afternoon mood at 18:30.",
       "approval_status": "Approved"
+    },
+    {
+      "id": "FI-01-262",
+      "city": "Hämeenlinna",
+      "site": "Hämeenlinna Market Square",
+      "region": "Kanta-Häme",
+      "country": "Finland",
+      "file_16x9": "assets/fi-01-262-16x9.png",
+      "file_4x5": "assets/fi-01-262-4x5.png",
+      "file_9x16": "assets/fi-01-262-9x16.png",
+      "motion": null,
+      "scenario": "30 September 2026 · 19:00 Europe/Helsinki",
+      "daynight": "night",
+      "moods": [],
+      "caption": "Hämeenlinna Market Square, Hämeenlinna",
+      "description": "Eye-level from the market square: left, the town hall's pale neo-Renaissance façade with its clock tower rising into the blue hour; center, the open cobbled square where market stalls glow warm under their lit canopies, crates of berries and produce stacked in front; right, the 19th-century commercial blocks with café and bookshop windows spilling light onto the pavement. Under a clear post-sunset sky fading from amber in the west to deep blue overhead, the streetlights just coming on give the square its honest late-September dusk mood at 19:00.",
+      "approval_status": "Approved"
+    },
+    {
+      "id": "FI-01-263",
+      "city": "Hämeenlinna",
+      "site": "Verkatehdas",
+      "region": "Kanta-Häme",
+      "country": "Finland",
+      "file_16x9": "assets/fi-01-263-16x9.png",
+      "file_4x5": "assets/fi-01-263-4x5.png",
+      "file_9x16": "assets/fi-01-263-9x16.png",
+      "motion": null,
+      "scenario": "30 September 2026 · 19:00 Europe/Helsinki",
+      "daynight": "night",
+      "moods": [],
+      "caption": "Verkatehdas, Hämeenlinna",
+      "description": "Eye-level along Lake Vanajavesi: left, the long red-brick former textile factory of Verkatehdas stretches toward the water's edge; center, rows of tall windows glow amber beneath the brick clock tower with its colorful VERKATEHDAS rooftop sign; right, the lamp-lit lakeside promenade curves past benches and reeds along the calm lake. Under a clear sky fading from amber in the west to deep blue overhead at 19:00, the honest late-September dusk settles over the cultural district as the lights come on.",
+      "approval_status": "Approved"
     }
   ],
-  "count": 261,
+  "count": 263,
   "motion_clips": 47
 }
