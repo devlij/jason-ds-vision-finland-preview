@@ -4099,8 +4099,42 @@
       "caption": "Finström Church, Finström",
       "description": "A quiet early-autumn afternoon at Finström Church on Åland: on the left, the medieval red-granite nave fills the frame, its large windows, ivy-clad stonework and moss-topped wall speaking of centuries of weather; the center is the tall Gothic church tower with its shingled spire rising above the nave. To the right, the churchyard opens onto a green village meadow with old gravestones, birches, and falu-red farmhouses beyond a stone fence under broken cloud.",
       "approval_status": "Approved"
+    },
+    {
+      "id": "FI-01-242",
+      "city": "Kumlinge",
+      "site": "Kumlinge Church",
+      "region": "Åland",
+      "country": "Finland",
+      "file_16x9": "assets/fi-01-242-16x9.png",
+      "file_4x5": "assets/fi-01-242-4x5.png",
+      "file_9x16": "assets/fi-01-242-9x16.png",
+      "motion": "video/fi-01-242-motion-8s.mp4",
+      "scenario": "30 September 2026 · 14:00 Europe/Mariehamn",
+      "daynight": "day",
+      "moods": [],
+      "caption": "Kumlinge Church, Kumlinge",
+      "description": "From the churchyard path at Kumlinge Church, the gray-granite medieval stone nave stretches across the left of frame while the ochre bell tower with its dark onion dome rises at center. On the right, the island churchyard spreads out — weathered gravestones among wildflowers behind a low stone wall, with birch and pine trees and a glimpse of the Baltic beyond. Mid-afternoon September light under a clear sky (15.8°C) softens across the island, picking out the old shingle roof and the tower's weathervane. Kumlinge Church, dedicated to Saint Anna, is known for the 15th-century chalk wall paintings inside its medieval stone walls.",
+      "approval_status": "Approved"
+    },
+    {
+      "id": "FI-01-243",
+      "city": "Mariehamn",
+      "site": "Åland Museum",
+      "region": "Åland",
+      "country": "Finland",
+      "file_16x9": "assets/fi-01-243-16x9.png",
+      "file_4x5": "assets/fi-01-243-4x5.png",
+      "file_9x16": "assets/fi-01-243-9x16.png",
+      "motion": null,
+      "scenario": "30 September 2026 · 14:00 Europe/Mariehamn",
+      "daynight": "day",
+      "moods": [],
+      "caption": "Åland Museum, Mariehamn",
+      "description": "On the cobbled forecourt of the Åland Museum, the museum's columned facade rises on the left with MUSEUM lettered above its portico. The entrance court spreads across the center — planters, benches, and bicycle racks on the patterned cobbles — while the Mariehamn town streetscape runs off to the right with its small shops and cafes, the harbor just beyond. Partly cloudy mid-afternoon light (16.0°C) softens across the square under a broken sky. The museum at Storagatan 1 holds the islands' cultural-history collections, sharing its building with the Åland Islands Art Museum.",
+      "approval_status": "Approved"
     }
   ],
-  "count": 241,
-  "motion_clips": 34
+  "count": 243,
+  "motion_clips": 35
 }
