@@ -3708,8 +3708,42 @@
       "caption": "Moominworld, Naantali",
       "description": "At dawn on Kailo island, the blueberry-blue Moominhouse tower stands just left of center with its conical roof, white-framed windows, and small blue door, the winding shore path curving away to the right between mossy rocks and pines toward the grey archipelago sea. A thin warm break glows low over the water under 98% overcast; the summer-only park sits empty and silent in the flat pre-sunrise light. No visitors, no characters — just the house, the path, and the island.",
       "approval_status": "Approved"
+    },
+    {
+      "id": "FI-01-219",
+      "city": "Naantali",
+      "site": "Naantali Church",
+      "region": "Southwest Finland",
+      "country": "Finland",
+      "file_16x9": "assets/fi-01-219-16x9.png",
+      "file_4x5": "assets/fi-01-219-4x5.png",
+      "file_9x16": "assets/fi-01-219-9x16.png",
+      "motion": null,
+      "scenario": "30 September 2026 · 08:00 Europe/Helsinki",
+      "daynight": "day",
+      "moods": [],
+      "caption": "Naantali Church, Naantali",
+      "description": "From the hilltop churchyard, Naantali Church rises on the left and center — the whitewashed medieval stone nave and its tall baroque tower with clock and dark lantern cupola, worn whitewash and steeply pitched roof under a flat overcast morning sky. On the right, the old wooden convent town's red and ochre rooftops cascade downhill toward the calm inner sea, where small islands sit on the grey horizon. Cool 8°C light, damp stone and moss in the churchyard, the sea breeze off the water — a quiet late-September morning at Finland's second-largest medieval stone church.",
+      "approval_status": "Approved"
+    },
+    {
+      "id": "FI-01-220",
+      "city": "Turku",
+      "site": "Luostarinmäki Handicrafts Museum",
+      "region": "Southwest Finland",
+      "country": "Finland",
+      "file_16x9": "assets/fi-01-220-16x9.png",
+      "file_4x5": "assets/fi-01-220-4x5.png",
+      "file_9x16": "assets/fi-01-220-9x16.png",
+      "motion": null,
+      "scenario": "30 September 2026 · 08:00 Europe/Helsinki",
+      "daynight": "day",
+      "moods": [],
+      "caption": "Luostarinmäki Handicrafts Museum, Turku",
+      "description": "Standing in one of Luostarinmäki's cobbled lanes, the red wooden workshops of Turku's fire-surviving 18th-century quarter line the left — the shoemaker's shop open at its doorway, painted trade signs hanging above weathered timber. The center runs up the hill along wet cobbles between brick chimneys, while on the right the museum's terraced gardens climb through late-summer plantings and picket fences toward birches. Under a soft overcast morning at just under 8°C, the lane is empty and quiet — two centuries of craft history within a few steps.",
+      "approval_status": "Approved"
     }
   ],
-  "count": 218,
+  "count": 220,
   "motion_clips": 34
 }
