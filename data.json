@@ -4167,8 +4167,42 @@
       "caption": "SkyWheel Helsinki, Helsinki",
       "description": "From the Katajanokka quayside, the white SkyWheel rises over the South Harbour — its blue-windowed gondolas to the left, the wheel's rim and hub at center, and the harbour water with the quayside promenade stretching to the right. Clear afternoon light sharpens the wheel's steelwork against a blue sky, with the historic waterfront buildings of central Helsinki across the water. The 40-meter wheel, open year-round, is one of the harbour's most photographed landmarks.",
       "approval_status": "Approved"
+    },
+    {
+      "id": "FI-01-246",
+      "city": "Helsinki",
+      "site": "Ateneum Art Museum",
+      "region": "Uusimaa",
+      "country": "Finland",
+      "file_16x9": "assets/fi-01-246-16x9.png",
+      "file_4x5": "assets/fi-01-246-4x5.png",
+      "file_9x16": "assets/fi-01-246-9x16.png",
+      "motion": "video/fi-01-246-motion-8s.mp4",
+      "scenario": "30 September 2026 · 15:00 Europe/Helsinki",
+      "daynight": "day",
+      "moods": [],
+      "caption": "Ateneum Art Museum, Helsinki",
+      "description": "From the cobbled expanse of Rautatientori, the tourist faces the Ateneum Art Museum's tall neo-Renaissance façade: to the left, the arched central portal with its sculpted statues and lettered name; across the center, symmetrical rows of tall windows above a rusticated ground floor; to the right, the building's corner toward Helsinki Central Station, whose clock tower shows at the frame's edge. Clear mid-afternoon September light, 14.7°C, with tram tracks and a bus stop grounding the street-level view. The 1887 façade's carved pediment, busts and balustrade are all legible from the square.",
+      "approval_status": "Approved"
+    },
+    {
+      "id": "FI-01-247",
+      "city": "Helsinki",
+      "site": "Helsinki Central Library Oodi",
+      "region": "Uusimaa",
+      "country": "Finland",
+      "file_16x9": "assets/fi-01-247-16x9.png",
+      "file_4x5": "assets/fi-01-247-4x5.png",
+      "file_9x16": "assets/fi-01-247-9x16.png",
+      "motion": "video/fi-01-247-motion-8s.mp4",
+      "scenario": "30 September 2026 · 15:00 Europe/Helsinki",
+      "daynight": "day",
+      "moods": [],
+      "caption": "Helsinki Central Library Oodi, Helsinki",
+      "description": "From Kansalaistori square, the tourist looks at Oodi's sweeping timber form: to the left, the great spruce-clad wooden wave of the upper volume; at center, the tall glass walls of the main entrance with 'Oodi' on the door and warm light inside; to the right, the deep cantilevered canopy reaching over the plaza, with the Parliament House colonnade just visible at the frame's edge. Clear mid-afternoon September light, 14.7°C. A bench, planter and plaza paving in the foreground ground the honest tourist viewpoint.",
+      "approval_status": "Approved"
     }
   ],
-  "count": 245,
-  "motion_clips": 35
+  "count": 247,
+  "motion_clips": 37
 }
