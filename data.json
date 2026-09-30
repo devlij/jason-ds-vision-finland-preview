@@ -4031,8 +4031,42 @@
       "caption": "Nokkakivi Amusement Park, Laukaa",
       "description": "A quiet late-September visit to Nokkakivi in Lievestuore: on the left, the vintage Ferris wheel and Round Up stand idle behind the queue rails; the center of the frame runs down the empty midway past the candy kiosk and ring-toss stalls with their plush prizes, while the coaster profile rises in the distance. To the right the coniferous forest hems the park edge, and puddles on the gravel reflect the flat grey overcast sky.",
       "approval_status": "Approved"
+    },
+    {
+      "id": "FI-01-238",
+      "city": "Saltvik",
+      "site": "Saltvik Church",
+      "region": "Åland",
+      "country": "Finland",
+      "file_16x9": "assets/fi-01-238-16x9.png",
+      "file_4x5": "assets/fi-01-238-4x5.png",
+      "file_9x16": "assets/fi-01-238-9x16.png",
+      "motion": null,
+      "scenario": "30 September 2026 · 13:00 Europe/Mariehamn",
+      "daynight": "day",
+      "moods": [],
+      "caption": "Saltvik Church, Saltvik",
+      "description": "From the churchyard at Kvarnbo on a partly cloudy early-autumn afternoon: on the left, the square medieval stone tower of Saltvik Church rises with its added upper section; the center of the frame carries the red-granite nave with its small arched windows and arched south portal. To the right, weathered gravestones and wooden fences give way to the open village fields beyond, with a turning birch catching the low southern light.",
+      "approval_status": "Approved"
+    },
+    {
+      "id": "FI-01-239",
+      "city": "Mariehamn",
+      "site": "Sjökvarteret Maritime Quarter",
+      "region": "Åland",
+      "country": "Finland",
+      "file_16x9": "assets/fi-01-239-16x9.png",
+      "file_4x5": "assets/fi-01-239-4x5.png",
+      "file_9x16": "assets/fi-01-239-9x16.png",
+      "motion": null,
+      "scenario": "30 September 2026 · 13:00 Europe/Mariehamn",
+      "daynight": "day",
+      "moods": [],
+      "caption": "Sjökvarteret Maritime Quarter, Mariehamn",
+      "description": "A quiet early-autumn afternoon at Mariehamn’s living maritime quarter: on the left, the weathered wooden boat-building sheds stand with a wooden hull under construction and tools scattered on the jetty; the center of the frame is the harbour front, where classic wooden boats and a gaff-rigged sailboat lie moored with their reflections in the calm water. To the right the eastern harbour shoreline curves past falu-red timber houses, rocky outcrops and turning forest, the Åland flag flying overhead.",
+      "approval_status": "Approved"
     }
   ],
-  "count": 237,
+  "count": 239,
   "motion_clips": 34
 }
