@@ -4235,8 +4235,42 @@
       "caption": "Seurasaari Open-Air Museum, Helsinki",
       "description": "Crossing onto Seurasaari island, the white wooden footbridge stretches across the water at left while historic log farm buildings with weathered pitched roofs stand among tall pines at center, and the shoreline path winds along the bay to the right. Clear September afternoon light filters through the pines onto reeds and dark water, fallen leaves drifting at the shore's edge. A faithful portrait of Helsinki's 1909 open-air museum — relocated Finnish farmsteads of centuries past — in daytime, clear sky, 14.7°C model conditions.",
       "approval_status": "Approved"
+    },
+    {
+      "id": "FI-01-250",
+      "city": "Helsinki",
+      "site": "Kaivopuisto Park",
+      "region": "Uusimaa",
+      "country": "Finland",
+      "file_16x9": "assets/fi-01-250-16x9.png",
+      "file_4x5": "assets/fi-01-250-4x5.png",
+      "file_9x16": "assets/fi-01-250-9x16.png",
+      "motion": "video/fi-01-250-motion-8s.mp4",
+      "scenario": "30 September 2026 · 16:00 Europe/Helsinki",
+      "daynight": "day",
+      "moods": [],
+      "caption": "Kaivopuisto Park, Helsinki",
+      "description": "From the shaded paths of Kaivopuisto, Helsinki's oldest park, mature old-growth trees and rowan branches heavy with red autumn berries frame the left while the open grassy slope runs down at center toward the Gulf of Finland. To the right, weathered granite shoreline rocks meet calm blue water under a clear late-September afternoon sky, with the distant far shore visible across the water. A faithful portrait of the beloved southern-coast promenade walk on a crisp early-autumn day.",
+      "approval_status": "Approved"
+    },
+    {
+      "id": "FI-01-251",
+      "city": "Espoo",
+      "site": "Nuuksio National Park",
+      "region": "Uusimaa",
+      "country": "Finland",
+      "file_16x9": "assets/fi-01-251-16x9.png",
+      "file_4x5": "assets/fi-01-251-4x5.png",
+      "file_9x16": "assets/fi-01-251-9x16.png",
+      "motion": "video/fi-01-251-motion-8s.mp4",
+      "scenario": "30 September 2026 · 16:00 Europe/Helsinki",
+      "daynight": "day",
+      "moods": [],
+      "caption": "Nuuksio National Park, Espoo",
+      "description": "Deep in Nuuksio National Park, a waymarked trail crosses a bare granite outcrop at center, guided by a wooden waymark post and blue paint blazes on the bedrock, while the dense pine and spruce forest edge stands to the left. To the right, a small forest lake glints through the trees under a clear late-September afternoon sky, low sun angling through the canopy. A faithful portrait of the classic Finnish hiking trail — forest, rock, and water — in early autumn, lingonberries red in the undergrowth.",
+      "approval_status": "Approved"
     }
   ],
-  "count": 249,
-  "motion_clips": 39
+  "count": 251,
+  "motion_clips": 41
 }
