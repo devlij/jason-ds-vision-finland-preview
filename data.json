@@ -4201,8 +4201,42 @@
       "caption": "Helsinki Central Library Oodi, Helsinki",
       "description": "From Kansalaistori square, the tourist looks at Oodi's sweeping timber form: to the left, the great spruce-clad wooden wave of the upper volume; at center, the tall glass walls of the main entrance with 'Oodi' on the door and warm light inside; to the right, the deep cantilevered canopy reaching over the plaza, with the Parliament House colonnade just visible at the frame's edge. Clear mid-afternoon September light, 14.7°C. A bench, planter and plaza paving in the foreground ground the honest tourist viewpoint.",
       "approval_status": "Approved"
+    },
+    {
+      "id": "FI-01-248",
+      "city": "Helsinki",
+      "site": "Kamppi Chapel of Silence",
+      "region": "Uusimaa",
+      "country": "Finland",
+      "file_16x9": "assets/fi-01-248-16x9.png",
+      "file_4x5": "assets/fi-01-248-4x5.png",
+      "file_9x16": "assets/fi-01-248-9x16.png",
+      "motion": "video/fi-01-248-motion-8s.mp4",
+      "scenario": "30 September 2026 · 15:30 Europe/Helsinki",
+      "daynight": "day",
+      "moods": [],
+      "caption": "Kamppi Chapel of Silence, Helsinki",
+      "description": "From Narinkkatori square, the curved spruce-clad wall of the Kamppi Chapel of Silence fills the left frame while the chapel's egg-shaped wooden vessel rises at center above the plaza, the surrounding Kamppi city blocks closing the right side of the view. Mid-afternoon light under a clear September sky rakes across the horizontal timber slats, with the entrance sign reading 'Kamppi kappeli · Kamppi Chapel of Silence' visible low on the wooden hull. Birches, planters and paving give the busy square a calm foreground against the chapel's warm timber glow — an honest portrait of Helsinki's celebrated wooden landmark in daytime, clear sky, 14.5°C model conditions.",
+      "approval_status": "Approved"
+    },
+    {
+      "id": "FI-01-249",
+      "city": "Helsinki",
+      "site": "Seurasaari Open-Air Museum",
+      "region": "Uusimaa",
+      "country": "Finland",
+      "file_16x9": "assets/fi-01-249-16x9.png",
+      "file_4x5": "assets/fi-01-249-4x5.png",
+      "file_9x16": "assets/fi-01-249-9x16.png",
+      "motion": "video/fi-01-249-motion-8s.mp4",
+      "scenario": "30 September 2026 · 15:30 Europe/Helsinki",
+      "daynight": "day",
+      "moods": [],
+      "caption": "Seurasaari Open-Air Museum, Helsinki",
+      "description": "Crossing onto Seurasaari island, the white wooden footbridge stretches across the water at left while historic log farm buildings with weathered pitched roofs stand among tall pines at center, and the shoreline path winds along the bay to the right. Clear September afternoon light filters through the pines onto reeds and dark water, fallen leaves drifting at the shore's edge. A faithful portrait of Helsinki's 1909 open-air museum — relocated Finnish farmsteads of centuries past — in daytime, clear sky, 14.7°C model conditions.",
+      "approval_status": "Approved"
     }
   ],
-  "count": 247,
-  "motion_clips": 37
+  "count": 249,
+  "motion_clips": 39
 }
