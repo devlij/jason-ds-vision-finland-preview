@@ -3997,8 +3997,42 @@
       "caption": "Haapamäki Steam Locomotive Park, Keuruu",
       "description": "Among the rails of the Haapamäki Steam Locomotive Park, the eye moves left across vintage black steam locomotives standing idle on their tracks, settles center on the wooden 'VETURITALLI' locomotive shed — its park sign marking the 1988 founding — and follows right into the station yard's signal gantries and converging tracks. Bright diffuse midday light under partly cloudy skies; birch and spruce frame the autumn yard, quiet at season's end.",
       "approval_status": "Approved"
+    },
+    {
+      "id": "FI-01-236",
+      "city": "Laukaa",
+      "site": "Hitonhauta Gorge",
+      "region": "Central Finland",
+      "country": "Finland",
+      "file_16x9": "assets/fi-01-236-16x9.png",
+      "file_4x5": "assets/fi-01-236-4x5.png",
+      "file_9x16": "assets/fi-01-236-9x16.png",
+      "motion": null,
+      "scenario": "30 September 2026 · 12:30 Europe/Helsinki",
+      "daynight": "day",
+      "moods": [],
+      "caption": "Hitonhauta Gorge, Laukaa",
+      "description": "Standing on the upper trail at Hitonhauta — the 'Devil's Tomb' — you look down the narrow gorge axis: sheer moss-darkened rock walls crowd the left of the frame, the gorge floor threads through the center with a small stream over boulders and fallen trunks, and the coniferous forest above the rim rises on the right. Under a flat grey overcast midday sky, the light is soft and shadowless, and the late-September birches carry the first yellow of autumn.",
+      "approval_status": "Approved"
+    },
+    {
+      "id": "FI-01-237",
+      "city": "Laukaa",
+      "site": "Nokkakivi Amusement Park",
+      "region": "Central Finland",
+      "country": "Finland",
+      "file_16x9": "assets/fi-01-237-16x9.png",
+      "file_4x5": "assets/fi-01-237-4x5.png",
+      "file_9x16": "assets/fi-01-237-9x16.png",
+      "motion": null,
+      "scenario": "30 September 2026 · 12:30 Europe/Helsinki",
+      "daynight": "day",
+      "moods": [],
+      "caption": "Nokkakivi Amusement Park, Laukaa",
+      "description": "A quiet late-September visit to Nokkakivi in Lievestuore: on the left, the vintage Ferris wheel and Round Up stand idle behind the queue rails; the center of the frame runs down the empty midway past the candy kiosk and ring-toss stalls with their plush prizes, while the coaster profile rises in the distance. To the right the coniferous forest hems the park edge, and puddles on the gravel reflect the flat grey overcast sky.",
+      "approval_status": "Approved"
     }
   ],
-  "count": 235,
+  "count": 237,
   "motion_clips": 34
 }
