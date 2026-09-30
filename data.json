@@ -3844,8 +3844,42 @@
       "caption": "Petäjävesi Old Church, Petäjävesi",
       "description": "The UNESCO-listed Petäjävesi Old Church rises from its lakeside churchyard under a cold grey sky — steep moss-darkened shingle roofs on the left, the horizontal-log nave with its round log corner joints in the center, and beside it the free-standing 1821 bell tower with its distinctive patterned white-and-red painted bands. To the right, mossy old gravestones lead down to the lake shore, autumn birches shedding yellow leaves along the fence. The 09:30 overcast light at 4.4°C is flat and shadowless, mist hanging over the water — a stark, honest late-September morning at a wooden church that has stood here since the 1760s.",
       "approval_status": "Approved"
+    },
+    {
+      "id": "FI-01-227",
+      "city": "Jyväskylä",
+      "site": "Alvar Aalto Museum",
+      "region": "Central Finland",
+      "country": "Finland",
+      "file_16x9": "assets/fi-01-227-16x9.png",
+      "file_4x5": "assets/fi-01-227-4x5.png",
+      "file_9x16": "assets/fi-01-227-9x16.png",
+      "motion": null,
+      "scenario": "30 September 2026 · 10:00 Europe/Helsinki",
+      "daynight": "day",
+      "moods": [],
+      "caption": "Alvar Aalto Museum, Jyväskylä",
+      "description": "From the courtyard between the museum wings, the gallery wing's pale baton-tiled façade rises on the left with its copper-trimmed windows, while the white plastered wing anchors the right beneath a long strip of clerestory glass. Between them the transparent connecting gallery reflects the courtyard's reflecting pools, and a dark stone sculpture sits in the planted beds to the right. Soft late-morning light under broken cloud washes the relief-textured walls, and early-autumn trees show above the rooflines.",
+      "approval_status": "Approved"
+    },
+    {
+      "id": "FI-01-228",
+      "city": "Jyväskylä",
+      "site": "Säynätsalo Town Hall",
+      "region": "Central Finland",
+      "country": "Finland",
+      "file_16x9": "assets/fi-01-228-16x9.png",
+      "file_4x5": "assets/fi-01-228-4x5.png",
+      "file_9x16": "assets/fi-01-228-9x16.png",
+      "motion": null,
+      "scenario": "30 September 2026 · 10:00 Europe/Helsinki",
+      "daynight": "day",
+      "moods": [],
+      "caption": "Säynätsalo Town Hall, Jyväskylä",
+      "description": "The bare red-brick council-chamber mass towers on the left with its narrow ribbon window, rising above the raised square courtyard framed in the center by the glass-enclosed circulation gallery. To the right, the wing's patinated-copper roofline slopes over brick walls, with tall pines crowding in behind. Fallen autumn leaves scatter the courtyard paving, and flat overcast light softens the brickwork and the timber-and-copper accents.",
+      "approval_status": "Approved"
     }
   ],
-  "count": 226,
+  "count": 228,
   "motion_clips": 34
 }
