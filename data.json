@@ -4405,8 +4405,42 @@
       "caption": "Finnish Glass Museum, Riihimäki",
       "description": "The red-brick former Riihimäki Glassworks fills the frame as the Finnish Glass Museum: on the left, the long factory façade with its tall arched windows and a Suomen Lasimuseo sign; at center, the museum's modern glass courtyard entrance with its glazed bridge; to the right, the old industrial chimney rises over the factory halls. Birch saplings with yellowing autumn leaves and scattered fallen leaves mark the late-September evening, under a clear sky in soft 18:00 light.",
       "approval_status": "Approved"
+    },
+    {
+      "id": "FI-01-260",
+      "city": "Forssa",
+      "site": "Forssa Museum",
+      "region": "Kanta-Häme",
+      "country": "Finland",
+      "file_16x9": "assets/fi-01-260-16x9.png",
+      "file_4x5": "assets/fi-01-260-4x5.png",
+      "file_9x16": "assets/fi-01-260-9x16.png",
+      "motion": "video/fi-01-260-motion-15s-4x5.mp4",
+      "scenario": "30 September 2026 · 18:30 Europe/Helsinki",
+      "daynight": "day",
+      "moods": [],
+      "caption": "Forssa Museum, Forssa",
+      "description": "From the courtyard level on Wahreninkatu, the red-brick spinning mill buildings of the historic Kehraamo area fill the left of the frame, their tall arched windows catching soft late-September afternoon light; center, the wooden Forssan Museo entrance hut stands at the courtyard's edge; right, the Loimijoki river flows beneath the footbridge toward the riverside park and the old factory chimneys. Under a clear 14-degree sky, early-autumn color edges the riverbank trees. An honest daytime view of Forssa's industrial-heritage museum district at 18:30.",
+      "approval_status": "Approved"
+    },
+    {
+      "id": "FI-01-261",
+      "city": "Jokioinen",
+      "site": "Jokioinen Museum Railway",
+      "region": "Kanta-Häme",
+      "country": "Finland",
+      "file_16x9": "assets/fi-01-261-16x9.png",
+      "file_4x5": "assets/fi-01-261-4x5.png",
+      "file_9x16": "assets/fi-01-261-9x16.png",
+      "motion": "video/fi-01-261-motion-15s-4x5.mp4",
+      "scenario": "30 September 2026 · 18:30 Europe/Helsinki",
+      "daynight": "day",
+      "moods": [],
+      "caption": "Jokioinen Museum Railway, Jokioinen",
+      "description": "Eye-level in the yard at Minkiö station: left, the red wooden station building with its MINKIÖ nameplate and open doorway; center, the black narrow-gauge steam locomotive breathing wisps of steam at the platform; right, heritage carriages and railway clutter fade along the 750 mm tracks beneath birch and pine. Under a clear 13-degree sky, the preserved station environment keeps its nostalgic late-September afternoon mood at 18:30.",
+      "approval_status": "Approved"
     }
   ],
-  "count": 259,
-  "motion_clips": 45
+  "count": 261,
+  "motion_clips": 47
 }
