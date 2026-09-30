@@ -4065,8 +4065,42 @@
       "caption": "Sjökvarteret Maritime Quarter, Mariehamn",
       "description": "A quiet early-autumn afternoon at Mariehamn’s living maritime quarter: on the left, the weathered wooden boat-building sheds stand with a wooden hull under construction and tools scattered on the jetty; the center of the frame is the harbour front, where classic wooden boats and a gaff-rigged sailboat lie moored with their reflections in the calm water. To the right the eastern harbour shoreline curves past falu-red timber houses, rocky outcrops and turning forest, the Åland flag flying overhead.",
       "approval_status": "Approved"
+    },
+    {
+      "id": "FI-01-240",
+      "city": "Lemland",
+      "site": "Lemland Church",
+      "region": "Åland",
+      "country": "Finland",
+      "file_16x9": "assets/fi-01-240-16x9.png",
+      "file_4x5": "assets/fi-01-240-4x5.png",
+      "file_9x16": "assets/fi-01-240-9x16.png",
+      "motion": null,
+      "scenario": "30 September 2026 · 13:30 Europe/Mariehamn",
+      "daynight": "day",
+      "moods": [],
+      "caption": "Lemland Church, Lemland",
+      "description": "A quiet early-autumn afternoon at Lemland Church on Åland: on the left, the medieval stone tower rises with its narrow openings and weathered grey masonry; the center of the frame is the grey-stone nave under a steep pitched roof, with tall windows catching soft southern light. To the right, tall churchyard pines stand among old gravestones, their green foliage a quiet contrast to the ancient stone. Partly cloudy skies soften the 13:30 daylight over the churchyard grass.",
+      "approval_status": "Approved"
+    },
+    {
+      "id": "FI-01-241",
+      "city": "Finström",
+      "site": "Finström Church",
+      "region": "Åland",
+      "country": "Finland",
+      "file_16x9": "assets/fi-01-241-16x9.png",
+      "file_4x5": "assets/fi-01-241-4x5.png",
+      "file_9x16": "assets/fi-01-241-9x16.png",
+      "motion": null,
+      "scenario": "30 September 2026 · 13:30 Europe/Mariehamn",
+      "daynight": "day",
+      "moods": [],
+      "caption": "Finström Church, Finström",
+      "description": "A quiet early-autumn afternoon at Finström Church on Åland: on the left, the medieval red-granite nave fills the frame, its large windows, ivy-clad stonework and moss-topped wall speaking of centuries of weather; the center is the tall Gothic church tower with its shingled spire rising above the nave. To the right, the churchyard opens onto a green village meadow with old gravestones, birches, and falu-red farmhouses beyond a stone fence under broken cloud.",
+      "approval_status": "Approved"
     }
   ],
-  "count": 239,
+  "count": 241,
   "motion_clips": 34
 }
