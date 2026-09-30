@@ -3776,8 +3776,42 @@
       "caption": "Ruissalo Island, Turku",
       "description": "On a woodland trail at Ruissalo's edge, the island's 19th-century red-wood villas stand on the left among moss-covered oaks, their white-framed windows and verandas peeking through yellowing autumn foliage. The center runs along the gravel nature trail with its wooden waymarkers, curving toward the open water, while on the right the reed beds give way to the flat grey Archipelago Sea. Under flat overcast morning light the scene is honestly late-September — damp path, fallen leaves, and a still, quiet shoreline.",
       "approval_status": "Approved"
+    },
+    {
+      "id": "FI-01-223",
+      "city": "Masku",
+      "site": "Louhisaari Manor",
+      "region": "Southwest Finland",
+      "country": "Finland",
+      "file_16x9": "assets/fi-01-223-16x9.png",
+      "file_4x5": "assets/fi-01-223-4x5.png",
+      "file_9x16": "assets/fi-01-223-9x16.png",
+      "motion": null,
+      "scenario": "30 September 2026 · 09:00 Europe/Helsinki",
+      "daynight": "day",
+      "moods": [],
+      "caption": "Louhisaari Manor, Masku",
+      "description": "Seen through the manor's front approach, the white three-story facade of Louhisaari Manor fills the left, its dark pitched roof, dormers, and rows of multi-pane windows rising above a stone entrance portal; center, a gravel courtyard drive lined with a clipped hedge and scattered autumn leaves; right, park trees and rolling farmland under a flat overcast September sky. The 1655 Fleming manor — Mannerheim's birthplace — sits season-honest in cool, shadowless morning light, the damp ground and turning foliage marking the end of September.",
+      "approval_status": "Approved"
+    },
+    {
+      "id": "FI-01-224",
+      "city": "Pargas",
+      "site": "Korpo Church",
+      "region": "Southwest Finland",
+      "country": "Finland",
+      "file_16x9": "assets/fi-01-224-16x9.png",
+      "file_4x5": "assets/fi-01-224-4x5.png",
+      "file_9x16": "assets/fi-01-224-9x16.png",
+      "motion": null,
+      "scenario": "30 September 2026 · 09:00 Europe/Helsinki",
+      "daynight": "day",
+      "moods": [],
+      "caption": "Korpo Church, Pargas",
+      "description": "Standing in the old churchyard, the grey-stone body of Korpo Church fills the left — mossy pitched roof, small arched windows, and the massive square stone tower with its dark spire rising behind a wooden porch; center, weathered gravestones and fallen leaves among yellowing birches; right, the calm archipelago sea dotted with rocky islets and a small red boathouse. The 14th-century St. Michael's sits season-honest in flat, shadowless overcast light, the damp paths and turning foliage marking a late-September morning in the Korpo islands.",
+      "approval_status": "Approved"
     }
   ],
-  "count": 222,
+  "count": 224,
   "motion_clips": 34
 }
