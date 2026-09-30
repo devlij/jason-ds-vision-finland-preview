@@ -4337,8 +4337,42 @@
       "caption": "Loviisa Church, Loviisa",
       "description": "From the churchyard in central Loviisa, the red-brick Neo-Gothic Loviisa Church rises at left of the frame, its gabled bell tower with a white clock face and small corner turrets climbing into the clear sky. At center, the cruciform brick façade carries pointed-arched windows and a rose window above the wooden doors. Church park birches fringe the right, with old-town rooftops behind. Low afternoon sun warms the brickwork — the 1865 Chiewitz-and-Basilier church in bright late-September light.",
       "approval_status": "Approved"
+    },
+    {
+      "id": "FI-01-256",
+      "city": "Helsinki",
+      "site": "Löyly",
+      "region": "Uusimaa",
+      "country": "Finland",
+      "file_16x9": "assets/fi-01-256-16x9.png",
+      "file_4x5": "assets/fi-01-256-4x5.png",
+      "file_9x16": "assets/fi-01-256-9x16.png",
+      "motion": "video/fi-01-256-motion-8s.mp4",
+      "scenario": "30 September 2026 · 17:30 Europe/Helsinki",
+      "daynight": "day",
+      "moods": [],
+      "caption": "Löyly, Helsinki",
+      "description": "From the Hernesaari shoreline, the black sculptural timber form of Löyly sauna rises at the left and center of the frame, its faceted cloak of dark wooden slats unmistakable against the blue September sky. Wooden terraces step down through the middle of the frame toward the water, and on the right the rocky shore gives way to the open sea, where driftwood and low islets mark the edge of the frame. Clear late-afternoon light warms the wood and stretches soft shadows across the deck, on a still, honest autumn afternoon by the Baltic.",
+      "approval_status": "Approved"
+    },
+    {
+      "id": "FI-01-257",
+      "city": "Hyvinkää",
+      "site": "Finnish Railway Museum",
+      "region": "Uusimaa",
+      "country": "Finland",
+      "file_16x9": "assets/fi-01-257-16x9.png",
+      "file_4x5": "assets/fi-01-257-4x5.png",
+      "file_9x16": "assets/fi-01-257-9x16.png",
+      "motion": "video/fi-01-257-motion-8s.mp4",
+      "scenario": "30 September 2026 · 17:30 Europe/Helsinki",
+      "daynight": "day",
+      "moods": [],
+      "caption": "Finnish Railway Museum, Hyvinkää",
+      "description": "In the yard of the Finnish Railway Museum at Hyvinkää, the curved red-brick wall of the 1870s roundhouse rises on the left while three vintage steam locomotives — black and green, brass fittings gleaming — stand side by side on the gravel tracks in the center of the frame. To the right, the turntable apron curves toward the modern glass exhibition hall, with a blue Rautatiemuseo sign pointing visitors onward. Crisp late-afternoon autumn sunshine and a cloudless blue sky light the scene on a still September afternoon.",
+      "approval_status": "Approved"
     }
   ],
-  "count": 255,
-  "motion_clips": 41
+  "count": 257,
+  "motion_clips": 43
 }
