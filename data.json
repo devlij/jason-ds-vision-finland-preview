@@ -3674,8 +3674,42 @@
       "caption": "Turku Castle, Turku",
       "description": "Across the river bend at dawn, Turku Castle rises over its harbor — mossy medieval curtain walls and round towers filling the left of the frame, the square keep with its domed tower standing center above moored sailboats, the Aura River sliding past the castle park on the right. A muted orange glow lingers along the eastern horizon while thick grey cloud blankets the rest of the pre-sunrise sky. Willows and birches line the empty riverside promenade, their benches still wet from the night's rain.",
       "approval_status": "Approved"
+    },
+    {
+      "id": "FI-01-217",
+      "city": "Turku",
+      "site": "Turku Cathedral",
+      "region": "Southwest Finland",
+      "country": "Finland",
+      "file_16x9": "assets/fi-01-217-16x9.png",
+      "file_4x5": "assets/fi-01-217-4x5.png",
+      "file_9x16": "assets/fi-01-217-9x16.png",
+      "motion": null,
+      "scenario": "30 September 2026 · 07:30 Europe/Helsinki",
+      "daynight": "night",
+      "moods": [],
+      "caption": "Turku Cathedral, Turku",
+      "description": "At dawn across the cathedral park in Turku, the long red-brick Gothic nave stretches along the left of the frame, the tall clock-tower spire with its copper cap standing center against a heavy grey sky, while mature park trees and a lamplit path fill the right. A faint warm smudge glows at the eastern horizon under 98% overcast, wet cobbles reflecting the flat pre-sunrise light. The baroque-topped tower and buttressed brick walls show honest autumn weathering, the church still silent before the day begins.",
+      "approval_status": "Approved"
+    },
+    {
+      "id": "FI-01-218",
+      "city": "Naantali",
+      "site": "Moominworld",
+      "region": "Southwest Finland",
+      "country": "Finland",
+      "file_16x9": "assets/fi-01-218-16x9.png",
+      "file_4x5": "assets/fi-01-218-4x5.png",
+      "file_9x16": "assets/fi-01-218-9x16.png",
+      "motion": null,
+      "scenario": "30 September 2026 · 07:30 Europe/Helsinki",
+      "daynight": "night",
+      "moods": [],
+      "caption": "Moominworld, Naantali",
+      "description": "At dawn on Kailo island, the blueberry-blue Moominhouse tower stands just left of center with its conical roof, white-framed windows, and small blue door, the winding shore path curving away to the right between mossy rocks and pines toward the grey archipelago sea. A thin warm break glows low over the water under 98% overcast; the summer-only park sits empty and silent in the flat pre-sunrise light. No visitors, no characters — just the house, the path, and the island.",
+      "approval_status": "Approved"
     }
   ],
-  "count": 216,
+  "count": 218,
   "motion_clips": 34
 }
