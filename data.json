@@ -3742,8 +3742,42 @@
       "caption": "Luostarinmäki Handicrafts Museum, Turku",
       "description": "Standing in one of Luostarinmäki's cobbled lanes, the red wooden workshops of Turku's fire-surviving 18th-century quarter line the left — the shoemaker's shop open at its doorway, painted trade signs hanging above weathered timber. The center runs up the hill along wet cobbles between brick chimneys, while on the right the museum's terraced gardens climb through late-summer plantings and picket fences toward birches. Under a soft overcast morning at just under 8°C, the lane is empty and quiet — two centuries of craft history within a few steps.",
       "approval_status": "Approved"
+    },
+    {
+      "id": "FI-01-221",
+      "city": "Turku",
+      "site": "Aboa Vetus & Ars Nova",
+      "region": "Southwest Finland",
+      "country": "Finland",
+      "file_16x9": "assets/fi-01-221-16x9.png",
+      "file_4x5": "assets/fi-01-221-4x5.png",
+      "file_9x16": "assets/fi-01-221-9x16.png",
+      "motion": null,
+      "scenario": "30 September 2026 · 08:30 Europe/Helsinki",
+      "daynight": "day",
+      "moods": [],
+      "caption": "Aboa Vetus & Ars Nova, Turku",
+      "description": "Standing on the Aura's east-bank promenade, the glass-and-timber entrance wing of Aboa Vetus & Ars Nova fills the left — its signage and hours boards announcing Turku's museum of medieval archaeology and contemporary art. The center holds the curved contemporary museum facade sweeping toward the water, while on the right the river slides past the stone quay toward a distant bridge, red-brick rooftops lining the far bank. Under a flat overcast morning sky, wet paving and scattered autumn leaves keep the mood honestly late-September.",
+      "approval_status": "Approved"
+    },
+    {
+      "id": "FI-01-222",
+      "city": "Turku",
+      "site": "Ruissalo Island",
+      "region": "Southwest Finland",
+      "country": "Finland",
+      "file_16x9": "assets/fi-01-222-16x9.png",
+      "file_4x5": "assets/fi-01-222-4x5.png",
+      "file_9x16": "assets/fi-01-222-9x16.png",
+      "motion": null,
+      "scenario": "30 September 2026 · 08:30 Europe/Helsinki",
+      "daynight": "day",
+      "moods": [],
+      "caption": "Ruissalo Island, Turku",
+      "description": "On a woodland trail at Ruissalo's edge, the island's 19th-century red-wood villas stand on the left among moss-covered oaks, their white-framed windows and verandas peeking through yellowing autumn foliage. The center runs along the gravel nature trail with its wooden waymarkers, curving toward the open water, while on the right the reed beds give way to the flat grey Archipelago Sea. Under flat overcast morning light the scene is honestly late-September — damp path, fallen leaves, and a still, quiet shoreline.",
+      "approval_status": "Approved"
     }
   ],
-  "count": 220,
+  "count": 222,
   "motion_clips": 34
 }
