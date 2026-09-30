@@ -4133,8 +4133,42 @@
       "caption": "Åland Museum, Mariehamn",
       "description": "On the cobbled forecourt of the Åland Museum, the museum's columned facade rises on the left with MUSEUM lettered above its portico. The entrance court spreads across the center — planters, benches, and bicycle racks on the patterned cobbles — while the Mariehamn town streetscape runs off to the right with its small shops and cafes, the harbor just beyond. Partly cloudy mid-afternoon light (16.0°C) softens across the square under a broken sky. The museum at Storagatan 1 holds the islands' cultural-history collections, sharing its building with the Åland Islands Art Museum.",
       "approval_status": "Approved"
+    },
+    {
+      "id": "FI-01-244",
+      "city": "Lemland",
+      "site": "Lemböte Chapel Ruin",
+      "region": "Åland",
+      "country": "Finland",
+      "file_16x9": "assets/fi-01-244-16x9.png",
+      "file_4x5": "assets/fi-01-244-4x5.png",
+      "file_9x16": "assets/fi-01-244-9x16.png",
+      "motion": null,
+      "scenario": "30 September 2026 · 14:30 Europe/Mariehamn",
+      "daynight": "day",
+      "moods": [],
+      "caption": "Lemböte Chapel Ruin, Lemland",
+      "description": "Standing at the Lemböte chapel ruin on its low hill above the Lemland shoreline, the moss-covered grey-stone wall remains frame the view from the left while the open roofless interior opens at center, and the grassy shoreline meadows with open water stretch to the right. Afternoon light filters through broken cloud, softening shadows across the ruin stones and late-September meadow flowers. A quiet, windswept spot on the old St. Olaf's pilgrimage route — once a small chapel serving sailors crossing the Baltic.",
+      "approval_status": "Approved"
+    },
+    {
+      "id": "FI-01-245",
+      "city": "Helsinki",
+      "site": "SkyWheel Helsinki",
+      "region": "Uusimaa",
+      "country": "Finland",
+      "file_16x9": "assets/fi-01-245-16x9.png",
+      "file_4x5": "assets/fi-01-245-4x5.png",
+      "file_9x16": "assets/fi-01-245-9x16.png",
+      "motion": null,
+      "scenario": "30 September 2026 · 14:30 Europe/Helsinki",
+      "daynight": "day",
+      "moods": [],
+      "caption": "SkyWheel Helsinki, Helsinki",
+      "description": "From the Katajanokka quayside, the white SkyWheel rises over the South Harbour — its blue-windowed gondolas to the left, the wheel's rim and hub at center, and the harbour water with the quayside promenade stretching to the right. Clear afternoon light sharpens the wheel's steelwork against a blue sky, with the historic waterfront buildings of central Helsinki across the water. The 40-meter wheel, open year-round, is one of the harbour's most photographed landmarks.",
+      "approval_status": "Approved"
     }
   ],
-  "count": 243,
+  "count": 245,
   "motion_clips": 35
 }
