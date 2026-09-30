@@ -3436,8 +3436,42 @@
       "caption": "Turkansaari Open-Air Museum, Oulu",
       "description": "A small-hours view of Turkansaari Open-Air Museum on its islands in the Oulujoki: a row of dark historic log farm buildings with stone foundations and wooden fences gathers along the left edge of the frame, while the open grassy museum yard stretches through the center toward the treeline. At the right, the calm dark water of the river slips past the shoreline rocks under a clear starry sky, all of it unlit at this closed hour. A candid night view of Finland's second-oldest open-air museum under late-September model conditions at 03:30, clear sky, 4.6 °C.",
       "approval_status": "Approved"
+    },
+    {
+      "id": "FI-01-203",
+      "city": "Pudasjärvi",
+      "site": "Syöte National Park",
+      "region": "North Ostrobothnia",
+      "country": "Finland",
+      "file_16x9": "assets/fi-01-203-16x9.png",
+      "file_4x5": "assets/fi-01-203-4x5.png",
+      "file_9x16": "assets/fi-01-203-9x16.png",
+      "motion": null,
+      "scenario": "30 September 2026 · 04:00 Europe/Helsinki",
+      "daynight": "night",
+      "moods": [],
+      "caption": "Syöte National Park, Pudasjärvi",
+      "description": "On a forest trail inside Syöte National Park, the mossy trunks of old-growth spruce fill the left of the frame while the bare fell rises ahead and a clear stream winds through cottongrass mire to the right. At four in the morning the scene is steeped in honest night — a star-pricked sky over dark fell slopes, with only the cold clarity of a clear-sky late-September night at 3°C to shape the light. The fallen logs, bearded branches and white tufts of cottongrass read as the park's genuine wilderness character, Finland's southernmost fell country seen from a candid hiker's eye-level viewpoint.",
+      "approval_status": "Approved"
+    },
+    {
+      "id": "FI-01-204",
+      "city": "Utajärvi",
+      "site": "Rokua National Park",
+      "region": "North Ostrobothnia",
+      "country": "Finland",
+      "file_16x9": "assets/fi-01-204-16x9.png",
+      "file_4x5": "assets/fi-01-204-4x5.png",
+      "file_9x16": "assets/fi-01-204-9x16.png",
+      "motion": null,
+      "scenario": "30 September 2026 · 04:00 Europe/Helsinki",
+      "daynight": "night",
+      "moods": [],
+      "caption": "Rokua National Park, Utajärvi",
+      "description": "On a heath trail in Rokua National Park, the tall pines of the esker ridges stand to the left, a glassy kettle-hole pond mirrors the starry sky at center, and pale lichen-covered heath opens out to the right. In the small hours of a clear late-September night at 5.7°C, the Ice-Age landscape is lit only by starlight — the pond's mirror doubling the dark sky, the lichen fields glowing faintly pale against the dark heath. A candid eye-level view of the heart of Finland's first UNESCO Geopark, honest wilderness with no invented features.",
+      "approval_status": "Approved"
     }
   ],
-  "count": 202,
+  "count": 204,
   "motion_clips": 34
 }
