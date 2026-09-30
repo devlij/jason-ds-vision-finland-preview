@@ -3402,8 +3402,42 @@
       "caption": "Liminka Bay, Liminka",
       "description": "At Liminka Bay in the small hours, tall reed beds crowd the left edge of the frame while the shallow wetland water of the bay stretches through the center, starlight catching on its ripples. Just right of center, the dark wooden birdwatching tower rises two stories over the low shoreline meadow, unlit and still under a clear starry sky. A candid night view of Finland's most famous bird wetland under late-September model conditions at 03:00, clear sky, 5.3 °C.",
       "approval_status": "Approved"
+    },
+    {
+      "id": "FI-01-201",
+      "city": "Oulu",
+      "site": "Kierikki Stone Age Centre",
+      "region": "North Ostrobothnia",
+      "country": "Finland",
+      "file_16x9": "assets/fi-01-201-16x9.png",
+      "file_4x5": "assets/fi-01-201-4x5.png",
+      "file_9x16": "assets/fi-01-201-9x16.png",
+      "motion": null,
+      "scenario": "30 September 2026 · 03:30 Europe/Helsinki",
+      "daynight": "night",
+      "moods": [],
+      "caption": "Kierikki Stone Age Centre, Oulu",
+      "description": "A small-hours view of Kierikki Stone Age Centre on the north bank of the River Ii: reconstructed Stone Age huts gather at the left edge of the frame, and just left of center the dark mass of the Centre for Ancient Times log exhibition building rises under a clear starry sky, standing unlit at this closed hour. To the right, the dark water of the Ii slips past over rocky rapids shallows. A candid night view of Finland's largest Stone Age centre under late-September model conditions at 03:30, clear sky, 3.7 °C.",
+      "approval_status": "Approved"
+    },
+    {
+      "id": "FI-01-202",
+      "city": "Oulu",
+      "site": "Turkansaari Open-Air Museum",
+      "region": "North Ostrobothnia",
+      "country": "Finland",
+      "file_16x9": "assets/fi-01-202-16x9.png",
+      "file_4x5": "assets/fi-01-202-4x5.png",
+      "file_9x16": "assets/fi-01-202-9x16.png",
+      "motion": null,
+      "scenario": "30 September 2026 · 03:30 Europe/Helsinki",
+      "daynight": "night",
+      "moods": [],
+      "caption": "Turkansaari Open-Air Museum, Oulu",
+      "description": "A small-hours view of Turkansaari Open-Air Museum on its islands in the Oulujoki: a row of dark historic log farm buildings with stone foundations and wooden fences gathers along the left edge of the frame, while the open grassy museum yard stretches through the center toward the treeline. At the right, the calm dark water of the river slips past the shoreline rocks under a clear starry sky, all of it unlit at this closed hour. A candid night view of Finland's second-oldest open-air museum under late-September model conditions at 03:30, clear sky, 4.6 °C.",
+      "approval_status": "Approved"
     }
   ],
-  "count": 200,
+  "count": 202,
   "motion_clips": 34
 }
