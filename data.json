@@ -2460,7 +2460,7 @@
       "file_16x9": "assets/fi-01-145-16x9.png",
       "file_4x5": "assets/fi-01-145-4x5.png",
       "file_9x16": "assets/fi-01-145-9x16.png",
-      "motion": null,
+      "motion": "video/fi-01-145-motion-10s-4x5.mp4",
       "scenario": "29 September 2026 · 11:30 Europe/Helsinki",
       "daynight": "day",
       "moods": [],
@@ -2477,7 +2477,7 @@
       "file_16x9": "assets/fi-01-146-16x9.png",
       "file_4x5": "assets/fi-01-146-4x5.png",
       "file_9x16": "assets/fi-01-146-9x16.png",
-      "motion": null,
+      "motion": "video/fi-01-146-motion-10s-4x5.mp4",
       "scenario": "29 September 2026 · 11:30 Europe/Helsinki",
       "daynight": "day",
       "moods": [],
@@ -5408,8 +5408,42 @@
       "caption": "Kökar Church (St. Anne's) and Franciscan Monastery Ruins, Kökar",
       "description": "From the monastery site on Hamnö, the moss-grown exposed foundations of the medieval Franciscan convent fill the left of frame while the grey-stone St. Anne's church — completed 1784 on the old convent church's foundations, low stone walls under a high shingled roof — stands at center, and the rocky archipelago shore opens to the right with open water and low skerries fading into the distance. Overcast October midday light lies soft and shadowless over the ruins and the sea, with wildflowers and ferns softening the old stones.",
       "approval_status": "Approved"
+    },
+    {
+      "id": "FI-01-320",
+      "city": "Eckerö",
+      "site": "Eckerö Post and Customs House",
+      "region": "Åland",
+      "country": "Finland",
+      "file_16x9": "assets/fi-01-320-16x9.png",
+      "file_4x5": "assets/fi-01-320-4x5.png",
+      "file_9x16": "assets/fi-01-320-9x16.png",
+      "motion": "video/fi-01-320-motion-10s-4x5.mp4",
+      "scenario": "01 October 2026 · 13:00 Europe/Mariehamn",
+      "daynight": "day",
+      "moods": [],
+      "caption": "Eckerö Post and Customs House, Eckerö",
+      "description": "From the parkland avenue approaching through Storby, the stately yellow empire-style facade of the 1828 Post and Customs House fills the center of frame, its white-framed windows and pedimented central section crisp in soft overcast October light. To the left, a gravel path lined with birch trees leads the eye toward the house, fallen leaves scattered along it, while the Finnish flag flies from the roof pole above. To the right, the rocky Storby shore and a wooden jetty reach into the calm grey water of the Sea of Åland, completing the scene of what is now a postal museum and art gallery.",
+      "approval_status": "Approved"
+    },
+    {
+      "id": "FI-01-321",
+      "city": "Jomala",
+      "site": "Jomala Church (St. Olav)",
+      "region": "Åland",
+      "country": "Finland",
+      "file_16x9": "assets/fi-01-321-16x9.png",
+      "file_4x5": "assets/fi-01-321-4x5.png",
+      "file_9x16": "assets/fi-01-321-9x16.png",
+      "motion": "video/fi-01-321-motion-10s-4x5.mp4",
+      "scenario": "01 October 2026 · 13:00 Europe/Mariehamn",
+      "daynight": "day",
+      "moods": [],
+      "caption": "Jomala Church (St. Olav), Jomala",
+      "description": "From the churchyard path beside St. Olav's, the massive red-granite gable of Finland's possibly oldest stone church — raised c. 1260–1280 — rises at center frame under a flat grey October sky, its iron-bound wooden door framed by pale limestone. To the left, the mossy burial ground spreads with tilted gravestones and ancient standing stones, while to the right the church's tall slender tower climbs over the open green fields of the Jomala plain. Diffuse overcast light softens the rough medieval stonework, and a gravel path threads between the old stones toward the church door.",
+      "approval_status": "Approved"
     }
   ],
-  "count": 318,
-  "motion_clips": 93
+  "count": 320,
+  "motion_clips": 97
 }
