@@ -2307,7 +2307,7 @@
       "file_16x9": "assets/fi-01-136-16x9.png",
       "file_4x5": "assets/fi-01-136-4x5.png",
       "file_9x16": "assets/fi-01-136-9x16.png",
-      "motion": null,
+      "motion": "video/fi-01-136-motion-10s-4x5.mp4",
       "scenario": "29 September 2026 · 09:00 Europe/Helsinki",
       "daynight": "day",
       "moods": [],
@@ -5204,8 +5204,42 @@
       "caption": "Three-Country Cairn (Treriksröset), Enontekiö",
       "description": "From the shore of Lake Koltajärvi in the Malla nature reserve, the yellow concrete cone of Treriksröset — the tripoint of Finland, Sweden and Norway — rises from the shallow water at centre frame, reached by a wooden boardwalk that crosses the shallows from the right. Treeless Arctic fells ring the lake to the left and beyond, their upper slopes dusted with early snow. Under flat overcast morning light at 0.8°C, the reeds and autumn tundra colours mute to browns and golds, and the cold stillness of one of the world's northernmost tripoints settles over the scene.",
       "approval_status": "Approved"
+    },
+    {
+      "id": "FI-01-308",
+      "city": "Muonio",
+      "site": "Taivaskero Summit, Pallastunturi",
+      "region": "Lapland",
+      "country": "Finland",
+      "file_16x9": "assets/fi-01-308-16x9.png",
+      "file_4x5": "assets/fi-01-308-4x5.png",
+      "file_9x16": "assets/fi-01-308-9x16.png",
+      "motion": "video/fi-01-308-motion-10s-4x5.mp4",
+      "scenario": "01 October 2026 · 09:30 Europe/Helsinki",
+      "daynight": "day",
+      "moods": [],
+      "caption": "Taivaskero Summit, Pallastunturi, Muonio",
+      "description": "From just below the treeless summit of Taivaskero in the Pallastunturi fells, the black granite Olympic-flame marker stands at centre frame on a cairn of lichen-flecked rock, the rounded fell ridges of Pallastunturi rolling away to the left while the vast brown-and-gold autumn tundra of Pallas-Yllästunturi National Park stretches right to a cloud-hung horizon. Flat overcast morning light at 3°C keeps the scene soft and muted, with mist threading between the ridges; the 1952 Olympic torch marker — Taivaskero 809 m — anchors the highest point in the national park.",
+      "approval_status": "Approved"
+    },
+    {
+      "id": "FI-01-309",
+      "city": "Puumala",
+      "site": "Puumala Bridge",
+      "region": "South Savo",
+      "country": "Finland",
+      "file_16x9": "assets/fi-01-309-16x9.png",
+      "file_4x5": "assets/fi-01-309-4x5.png",
+      "file_9x16": "assets/fi-01-309-9x16.png",
+      "motion": null,
+      "scenario": "01 October 2026 · 09:30 Europe/Helsinki",
+      "daynight": "day",
+      "moods": [],
+      "caption": "Puumala Bridge, Puumala",
+      "description": "From the harborside shore in Puumala, the cable-stayed Puumalansalmi Bridge runs left toward the village, its twin white towers and fanning stays holding the centre of frame while the glass viewing-lift tower — Näköalatorni, 25 metres above the lake — rises at right above a blue \"Puumala • Keskusta 0,8 km\" wayfinding sign. Beyond the strait, the grey-blue waters of Lake Saimaa open out past forested islands under a broken-cloud morning sky; red and white houses line the autumn shore to the left. Shifting patches of sunlight cross the water in the 6.4°C morning light.",
+      "approval_status": "Approved"
     }
   ],
-  "count": 306,
-  "motion_clips": 73
+  "count": 308,
+  "motion_clips": 75
 }
