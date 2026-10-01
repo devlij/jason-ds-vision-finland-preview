@@ -2222,7 +2222,7 @@
       "file_16x9": "assets/fi-01-131-16x9.png",
       "file_4x5": "assets/fi-01-131-4x5.png",
       "file_9x16": "assets/fi-01-131-9x16.png",
-      "motion": null,
+      "motion": "video/fi-01-131-motion-10s-4x5.mp4",
       "scenario": "29 September 2026 · 07:30 Europe/Helsinki",
       "daynight": "day",
       "moods": [],
@@ -2239,7 +2239,7 @@
       "file_16x9": "assets/fi-01-132-16x9.png",
       "file_4x5": "assets/fi-01-132-4x5.png",
       "file_9x16": "assets/fi-01-132-9x16.png",
-      "motion": null,
+      "motion": "video/fi-01-132-motion-10s-4x5.mp4",
       "scenario": "29 September 2026 · 08:00 Europe/Helsinki",
       "daynight": "day",
       "moods": [],
@@ -5136,8 +5136,42 @@
       "caption": "Kalela — Gallen-Kallela's Wilderness Studio, Ruovesi",
       "description": "Akseli Gallen-Kallela's wilderness studio Kalela stands center-frame, a dark timber log cabin with tall-paned windows set among pines on a rocky promontory. To the left, the promontory's tall pine forest rises with mossy boulders and lichen-covered trunks; to the right, Lake Ruovesi stretches beyond the rocky shoreline to a forested far bank. Partly cloudy 1.4°C morning light catches the water and the cabin's log walls. A candid eye-level tourist viewpoint from the shore path; no people, no logos.",
       "approval_status": "Approved"
+    },
+    {
+      "id": "FI-01-304",
+      "city": "Pälkäne",
+      "site": "Pälkäne Church Ruin",
+      "region": "Pirkanmaa",
+      "country": "Finland",
+      "file_16x9": "assets/fi-01-304-16x9.png",
+      "file_4x5": "assets/fi-01-304-4x5.png",
+      "file_9x16": "assets/fi-01-304-9x16.png",
+      "motion": "video/fi-01-304-motion-10s-4x5.mp4",
+      "scenario": "01 October 2026 · 08:30 Europe/Helsinki",
+      "daynight": "day",
+      "moods": [],
+      "caption": "Pälkäne Church Ruin, Pälkäne",
+      "description": "Standing in the churchyard at Pälkäne, the roofless fieldstone shell of the 15th-century St. Michael's church rises at centre frame, its empty gable walls and tall window openings open to an early-October sky of broken cloud. To the left, a moss-covered stone wall leads the eye past ferns and fallen autumn leaves; to the right, old weathered gravestones scatter across a damp green meadow under soft 08:30 daylight. A quiet, honest ruin in genuine morning light — no people posing, just the place itself at 3.7°C.",
+      "approval_status": "Approved"
+    },
+    {
+      "id": "FI-01-305",
+      "city": "Keminmaa",
+      "site": "Keminmaa Old Church",
+      "region": "Lapland",
+      "country": "Finland",
+      "file_16x9": "assets/fi-01-305-16x9.png",
+      "file_4x5": "assets/fi-01-305-4x5.png",
+      "file_9x16": "assets/fi-01-305-9x16.png",
+      "motion": "video/fi-01-305-motion-10s-4x5.mp4",
+      "scenario": "01 October 2026 · 08:30 Europe/Helsinki",
+      "daynight": "day",
+      "moods": [],
+      "caption": "Keminmaa Old Church, Keminmaa",
+      "description": "From the edge of the ancient graveyard at Keminmaa, moss-covered crosses and slab graves fill the left of frame beneath dark pines, while the grey fieldstone walls of the 16th-century old church hold the centre with its steep dark pitched roof. To the right the frame opens onto the broad river valley, the river winding through autumn fields under a flat grey October sky at 08:30. Overcast Lapland morning light, no people posing — just one of Finland's northernmost medieval churches in its quiet setting.",
+      "approval_status": "Approved"
     }
   ],
-  "count": 302,
-  "motion_clips": 65
+  "count": 304,
+  "motion_clips": 69
 }
