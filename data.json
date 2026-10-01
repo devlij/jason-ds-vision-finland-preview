@@ -1355,7 +1355,7 @@
       "file_16x9": "assets/fi-01-080-16x9.png",
       "file_4x5": "assets/fi-01-080-4x5.png",
       "file_9x16": "assets/fi-01-080-9x16.png",
-      "motion": null,
+      "motion": "video/fi-01-080-motion-10s-4x5.mp4",
       "scenario": "28 September 2026 · 18:30 Europe/Helsinki",
       "daynight": "day",
       "moods": [],
@@ -1372,7 +1372,7 @@
       "file_16x9": "assets/fi-01-081-16x9.png",
       "file_4x5": "assets/fi-01-081-4x5.png",
       "file_9x16": "assets/fi-01-081-9x16.png",
-      "motion": null,
+      "motion": "video/fi-01-081-motion-10s-4x5.mp4",
       "scenario": "28 September 2026 · 18:30 Europe/Helsinki",
       "daynight": "day",
       "moods": [],
@@ -5102,8 +5102,42 @@
       "caption": "Nuutajärvi Glass Village, Urjala",
       "description": "At dawn on the village street, the red timber facades of the historic Nuutajärvi glassworks line the left of the frame, their 1793 signboards and glowing windows reflected in the frost-rimed grass. In the center, the tall glass blowing hall rises beside a weathered ladder and stacked firewood, while to the right craft shops with lit displays of ceramics and glassware face the street. Partly cloudy twilight softens the sky behind the chimneys, and the 4.4°C morning stillness suits Finland's oldest glassworks — founded 1793, now a living craft village.",
       "approval_status": "Approved"
+    },
+    {
+      "id": "FI-01-302",
+      "city": "Kangasala",
+      "site": "Kirkkoharju Observation Tower",
+      "region": "Pirkanmaa",
+      "country": "Finland",
+      "file_16x9": "assets/fi-01-302-16x9.png",
+      "file_4x5": "assets/fi-01-302-4x5.png",
+      "file_9x16": "assets/fi-01-302-9x16.png",
+      "motion": "video/fi-01-302-motion-10s-4x5.mp4",
+      "scenario": "01 October 2026 · 08:00 Europe/Helsinki",
+      "daynight": "day",
+      "moods": [],
+      "caption": "Kirkkoharju Observation Tower, Kangasala",
+      "description": "The red Kirkkoharju observation tower rises above the autumn treetops at the center of the frame, its dark viewing platform silhouetted against a clearing morning sky. To the left, the forest slope of the Kirkkoharju ridge falls away in conifers dusted with frost and early autumn color, with a weathered wooden viewing-platform railing in the near foreground. To the right, the layered lake-dotted panorama opens beyond the tower platform under partly cloudy 2.4°C morning light. A candid eye-level tourist viewpoint on an October morning; no people, no logos.",
+      "approval_status": "Approved"
+    },
+    {
+      "id": "FI-01-303",
+      "city": "Ruovesi",
+      "site": "Kalela — Gallen-Kallela's Wilderness Studio",
+      "region": "Pirkanmaa",
+      "country": "Finland",
+      "file_16x9": "assets/fi-01-303-16x9.png",
+      "file_4x5": "assets/fi-01-303-4x5.png",
+      "file_9x16": "assets/fi-01-303-9x16.png",
+      "motion": "video/fi-01-303-motion-10s-4x5.mp4",
+      "scenario": "01 October 2026 · 08:00 Europe/Helsinki",
+      "daynight": "day",
+      "moods": [],
+      "caption": "Kalela — Gallen-Kallela's Wilderness Studio, Ruovesi",
+      "description": "Akseli Gallen-Kallela's wilderness studio Kalela stands center-frame, a dark timber log cabin with tall-paned windows set among pines on a rocky promontory. To the left, the promontory's tall pine forest rises with mossy boulders and lichen-covered trunks; to the right, Lake Ruovesi stretches beyond the rocky shoreline to a forested far bank. Partly cloudy 1.4°C morning light catches the water and the cabin's log walls. A candid eye-level tourist viewpoint from the shore path; no people, no logos.",
+      "approval_status": "Approved"
     }
   ],
-  "count": 300,
-  "motion_clips": 61
+  "count": 302,
+  "motion_clips": 65
 }
