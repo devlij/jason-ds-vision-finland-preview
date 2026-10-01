@@ -3837,7 +3837,7 @@
       "file_16x9": "assets/fi-01-226-16x9.png",
       "file_4x5": "assets/fi-01-226-4x5.png",
       "file_9x16": "assets/fi-01-226-9x16.png",
-      "motion": null,
+      "motion": "video/fi-01-226-motion-10s-4x5.mp4",
       "scenario": "30 September 2026 · 09:30 Europe/Helsinki",
       "daynight": "day",
       "moods": [],
@@ -5835,6 +5835,23 @@
       "approval_status": "Approved"
     },
     {
+      "id": "FI-01-346",
+      "city": "Lapinlahti",
+      "site": "Varpaisjärvi Church",
+      "region": "North Savo",
+      "country": "Finland",
+      "file_16x9": "assets/fi-01-346-16x9.png",
+      "file_4x5": "assets/fi-01-346-4x5.png",
+      "file_9x16": "assets/fi-01-346-9x16.png",
+      "motion": null,
+      "scenario": "01 October 2026 · 21:00 Europe/Helsinki",
+      "daynight": "night",
+      "moods": [],
+      "caption": "Varpaisjärvi Church, Lapinlahti",
+      "description": "From the churchyard path at eye level, Varpaisjärvi Church glows from within on an October night — Josef Stenbäck's 1904 grey-granite National Romantic church fills the center frame, its offset domed tower rising left while the great round parabolic-arched windows shine warm against the dark stone under a cloud-heavy sky. Lamplight glints off the wet stone path in the foreground, pines stand dark at both edges, and the air carries the quiet stillness of an 8.5°C overcast night.",
+      "approval_status": "Approved"
+    },
+    {
       "id": "FI-01-347",
       "city": "Kuopio",
       "site": "Karttula Church",
@@ -5869,6 +5886,6 @@
       "approval_status": "Approved"
     }
   ],
-  "count": 345,
-  "motion_clips": 132
+  "count": 346,
+  "motion_clips": 133
 }
