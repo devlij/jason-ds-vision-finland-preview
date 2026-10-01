@@ -828,7 +828,7 @@
       "file_16x9": "assets/fi-01-049-16x9.png",
       "file_4x5": "assets/fi-01-049-4x5.png",
       "file_9x16": "assets/fi-01-049-9x16.png",
-      "motion": null,
+      "motion": "video/fi-01-049-motion-10s-4x5.mp4",
       "scenario": "28 September 2026 · 09:30 Europe/Helsinki",
       "daynight": "day",
       "moods": [],
@@ -964,7 +964,7 @@
       "file_16x9": "assets/fi-01-057-16x9.png",
       "file_4x5": "assets/fi-01-057-4x5.png",
       "file_9x16": "assets/fi-01-057-9x16.png",
-      "motion": null,
+      "motion": "video/fi-01-057-motion-10s-4x5.mp4",
       "scenario": "28 September 2026 · 12:00 Europe/Helsinki",
       "daynight": "day",
       "moods": [],
@@ -4966,8 +4966,42 @@
       "caption": "Kolvananuuro Nature Reserve, Kontiolahti",
       "description": "Deep inside the Kolvananuuro fault gorge, the steep moss-draped cliff walls rise on the left while the dark valley stream threads between forested cliffs down the center of the frame, boulders and fallen logs scattered along its banks. Old-growth conifers close the canopy overhead on the right, their branches heavy in the damp pre-dawn air. An honest pitch-dark October night at 05:30 under full overcast — mist rising from the water, no moon, only the gorge’s own faint ambient glow.",
       "approval_status": "Approved"
+    },
+    {
+      "id": "FI-01-294",
+      "city": "Tohmajärvi",
+      "site": "Tohmajärvi Church",
+      "region": "North Karelia",
+      "country": "Finland",
+      "file_16x9": "assets/fi-01-294-16x9.png",
+      "file_4x5": "assets/fi-01-294-4x5.png",
+      "file_9x16": "assets/fi-01-294-9x16.png",
+      "motion": null,
+      "scenario": "01 October 2026 · 06:00 Europe/Helsinki",
+      "daynight": "night",
+      "moods": [],
+      "caption": "Tohmajärvi Church, Tohmajärvi",
+      "description": "From the churchyard at Kirkkotie, the old log belfry glows warm at the left of the frame while the 1756 wooden church facade rises at center, its arched windows lit from within, and the old graveyard with its tall pines spreads to the right under a heavy October night sky. An honest 06:00 night scene under full overcast at 0.6 °C — frost dusts the gravel and gravestones, and no sun is visible; the only light comes from the church's own grounds lamps against the dark, cloud-covered sky.",
+      "approval_status": "Approved"
+    },
+    {
+      "id": "FI-01-295",
+      "city": "Nurmes",
+      "site": "Nurmes Church",
+      "region": "North Karelia",
+      "country": "Finland",
+      "file_16x9": "assets/fi-01-295-16x9.png",
+      "file_4x5": "assets/fi-01-295-4x5.png",
+      "file_9x16": "assets/fi-01-295-9x16.png",
+      "motion": null,
+      "scenario": "01 October 2026 · 06:00 Europe/Helsinki",
+      "daynight": "night",
+      "moods": [],
+      "caption": "Nurmes Church, Nurmes",
+      "description": "From the churchyard at Kirkkokatu, tall frost-dusted pines stand at the left of the frame while the wooden Nurmes Church rises at center, its tall tower and windows warmly lit, and the rooftops of the lakeshore town stretch to the right along the dark shore. An honest 06:00 night scene under near-total October overcast at 0.7 °C — frost on the pines and churchyard ground, the windows glowing against the cloud-covered night sky, town lights reflected along the water.",
+      "approval_status": "Approved"
     }
   ],
-  "count": 292,
-  "motion_clips": 53
+  "count": 294,
+  "motion_clips": 55
 }
