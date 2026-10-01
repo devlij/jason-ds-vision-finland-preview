@@ -5850,8 +5850,25 @@
       "caption": "Karttula Church, Kuopio",
       "description": "The timber church of Karttula stands in its rural churchyard on Kirkkotie, its tall steeple rising left of frame against a dark overcast night sky. Warm lamplight glows from the tall windows and the tower belfry, while churchyard lamps edge the stone steps and paths. Fallen autumn leaves dot the green lawn around the nave — a candid eye-level view of the 1885 Ehnroth wooden church, captured under overcast skies at 20:00.",
       "approval_status": "Approved"
+    },
+    {
+      "id": "FI-01-348",
+      "city": "Kuopio",
+      "site": "Maaninka Church",
+      "region": "North Savo",
+      "country": "Finland",
+      "file_16x9": "assets/fi-01-348-16x9.png",
+      "file_4x5": "assets/fi-01-348-4x5.png",
+      "file_9x16": "assets/fi-01-348-9x16.png",
+      "motion": null,
+      "scenario": "01 October 2026 · 20:30 Europe/Helsinki",
+      "daynight": "night",
+      "moods": [],
+      "caption": "Maaninka Church, Kuopio",
+      "description": "From the churchyard path at eye level, Maaninka Church glows against an October night — the spired west tower rises right of frame while the long red-ochre board nave fills the center, its rows of tall lit windows shining against the dark overcast sky. White trim edges the cruciform gables; churchyard lamps and wet gravel reflect the warmth, and a legible interpretive sign confirms Carl Lo Bassi's 1845 wooden design for 1,200. Birches and pines frame both edges in a candid 9.5°C stillness.",
+      "approval_status": "Approved"
     }
   ],
-  "count": 344,
+  "count": 345,
   "motion_clips": 132
 }
