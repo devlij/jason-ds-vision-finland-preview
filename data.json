@@ -2443,7 +2443,7 @@
       "file_16x9": "assets/fi-01-144-16x9.png",
       "file_4x5": "assets/fi-01-144-4x5.png",
       "file_9x16": "assets/fi-01-144-9x16.png",
-      "motion": null,
+      "motion": "video/fi-01-144-motion-10s-4x5.mp4",
       "scenario": "29 September 2026 · 11:00 Europe/Helsinki",
       "daynight": "day",
       "moods": [],
@@ -5374,8 +5374,42 @@
       "caption": "Kangasniemi Church, Kangasniemi",
       "description": "From the churchyard edge in Kirkkoniemi, tall pines hold the left of frame while the large yellow wooden Kangasniemi Church — Matti Salonen's 1811–1814 church with its red-tiled roof, seating about 1,500 — stands at center with its separate belfry tower beside it, and the village landscape with harbour sheds, moored boats and the lake spreads to the right. Mainly-clear October daylight throws long soft shadows across the stone churchyard walls and mossy grounds, with yellowing birches marking the season.",
       "approval_status": "Approved"
+    },
+    {
+      "id": "FI-01-318",
+      "city": "Sulkava",
+      "site": "Sulkava Church",
+      "region": "South Savo",
+      "country": "Finland",
+      "file_16x9": "assets/fi-01-318-16x9.png",
+      "file_4x5": "assets/fi-01-318-4x5.png",
+      "file_9x16": "assets/fi-01-318-9x16.png",
+      "motion": "video/fi-01-318-motion-10s-4x5.mp4",
+      "scenario": "01 October 2026 · 12:30 Europe/Helsinki",
+      "daynight": "day",
+      "moods": [],
+      "caption": "Sulkava Church, Sulkava",
+      "description": "From the churchyard edge in Sulkava town centre, a moss-grown stone wall holds the left of frame while the white wooden Sulkava Church — Charles Bassi's 1822 church with ochre trim and a domed tower, seating over 1,000 — stands at center, and the red wooden rooftops of the village spread to the right beneath a low mist over the treeline. Overcast October midday light lies soft and diffuse over the scene, with fallen autumn leaves scattered across the churchyard path.",
+      "approval_status": "Approved"
+    },
+    {
+      "id": "FI-01-319",
+      "city": "Kökar",
+      "site": "Kökar Church (St. Anne's) and Franciscan Monastery Ruins",
+      "region": "Åland",
+      "country": "Finland",
+      "file_16x9": "assets/fi-01-319-16x9.png",
+      "file_4x5": "assets/fi-01-319-4x5.png",
+      "file_9x16": "assets/fi-01-319-9x16.png",
+      "motion": "video/fi-01-319-motion-10s-4x5.mp4",
+      "scenario": "01 October 2026 · 12:30 Europe/Mariehamn",
+      "daynight": "day",
+      "moods": [],
+      "caption": "Kökar Church (St. Anne's) and Franciscan Monastery Ruins, Kökar",
+      "description": "From the monastery site on Hamnö, the moss-grown exposed foundations of the medieval Franciscan convent fill the left of frame while the grey-stone St. Anne's church — completed 1784 on the old convent church's foundations, low stone walls under a high shingled roof — stands at center, and the rocky archipelago shore opens to the right with open water and low skerries fading into the distance. Overcast October midday light lies soft and shadowless over the ruins and the sea, with wildflowers and ferns softening the old stones.",
+      "approval_status": "Approved"
     }
   ],
-  "count": 316,
-  "motion_clips": 90
+  "count": 318,
+  "motion_clips": 93
 }
