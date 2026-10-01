@@ -2494,7 +2494,7 @@
       "file_16x9": "assets/fi-01-147-16x9.png",
       "file_4x5": "assets/fi-01-147-4x5.png",
       "file_9x16": "assets/fi-01-147-9x16.png",
-      "motion": null,
+      "motion": "video/fi-01-147-motion-10s-4x5.mp4",
       "scenario": "29 September 2026 · 12:30 Europe/Helsinki",
       "daynight": "day",
       "moods": [],
@@ -2664,7 +2664,7 @@
       "file_16x9": "assets/fi-01-157-16x9.png",
       "file_4x5": "assets/fi-01-157-4x5.png",
       "file_9x16": "assets/fi-01-157-9x16.png",
-      "motion": null,
+      "motion": "video/fi-01-157-motion-10s-4x5.mp4",
       "scenario": "29 September 2026 · 15:00 Europe/Helsinki",
       "daynight": "day",
       "moods": [],
@@ -5544,8 +5544,42 @@
       "caption": "St. George's Church, Mariehamn",
       "description": "From the esplanade fronting the church, the eye moves from leafy street trees and park benches at the left across to the red-brick gable of St. George's Church at center frame, Lars Sonck's 1927 copper-roofed spire rising into broken cloud, while Mariehamn's central streets open to the right. Soft partly cloudy afternoon light — honest early-October conditions — gives the small-capital parish scene a calm, season-true glow.",
       "approval_status": "Approved"
+    },
+    {
+      "id": "FI-01-328",
+      "city": "Lemland",
+      "site": "Lågskär Lighthouse",
+      "region": "Åland",
+      "country": "Finland",
+      "file_16x9": "assets/fi-01-328-16x9.png",
+      "file_4x5": "assets/fi-01-328-4x5.png",
+      "file_9x16": "assets/fi-01-328-9x16.png",
+      "motion": "video/fi-01-328-motion-10s-4x5.mp4",
+      "scenario": "01 October 2026 · 15:00 Europe/Mariehamn",
+      "daynight": "day",
+      "moods": [],
+      "caption": "Lågskär Lighthouse, Lemland",
+      "description": "From a boat standing off the lee shore, the eye travels left across wave-washed skerries lapped by gentle surf to the red square tower of Lågskär Lighthouse rising at center, its white lantern and gallery catching the clear October sun, while the open Baltic runs to a clean horizon at the right. Early-afternoon autumn light models the dark rock and white tower crisply under a pale blue sky — honest season-true conditions. A remote windswept outpost: no mainland, no crowds, only the white flash of the automated light.",
+      "approval_status": "Approved"
+    },
+    {
+      "id": "FI-01-329",
+      "city": "Kuopio",
+      "site": "Snellman Park",
+      "region": "North Savo",
+      "country": "Finland",
+      "file_16x9": "assets/fi-01-329-16x9.png",
+      "file_4x5": "assets/fi-01-329-4x5.png",
+      "file_9x16": "assets/fi-01-329-9x16.png",
+      "motion": "video/fi-01-329-motion-10s-4x5.mp4",
+      "scenario": "01 October 2026 · 15:00 Europe/Helsinki",
+      "daynight": "day",
+      "moods": [],
+      "caption": "Snellman Park, Kuopio",
+      "description": "From the gravel paths of Snellman Park, the eye moves left along empty benches and autumn flower beds to Kuopio Cathedral's white clock tower rising at center over turning birch trees, while the bronze bust of J. V. Snellman on its tall stone pedestal anchors the right foreground. Diffused partly cloudy October-afternoon light softens the stone and bronze — honest season-true conditions with damp paths and fallen leaves. A quiet city-park scene in the Vahtivuori district, Kuopio's oldest park framed by its cathedral.",
+      "approval_status": "Approved"
     }
   ],
-  "count": 326,
-  "motion_clips": 106
+  "count": 328,
+  "motion_clips": 110
 }
