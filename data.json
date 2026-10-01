@@ -3905,7 +3905,7 @@
       "file_16x9": "assets/fi-01-230-16x9.png",
       "file_4x5": "assets/fi-01-230-4x5.png",
       "file_9x16": "assets/fi-01-230-9x16.png",
-      "motion": null,
+      "motion": "video/fi-01-230-motion-10s-4x5.mp4",
       "scenario": "30 September 2026 · 10:30 Europe/Helsinki",
       "daynight": "day",
       "moods": [],
@@ -3922,7 +3922,7 @@
       "file_16x9": "assets/fi-01-231-16x9.png",
       "file_4x5": "assets/fi-01-231-4x5.png",
       "file_9x16": "assets/fi-01-231-9x16.png",
-      "motion": null,
+      "motion": "video/fi-01-231-motion-10s-4x5.mp4",
       "scenario": "30 September 2026 · 11:00 Europe/Helsinki",
       "daynight": "day",
       "moods": [],
@@ -6020,8 +6020,42 @@
       "caption": "Lohtaja Erratic Boulders (Pesäkivet), Kokkola",
       "description": "From the walking path at the boulders, house-sized erratics dominate the center of the frame, piled and tilted like ruins, their lichen-flecked granite flanks and mossy crevices caught in the dark glow of the cloudy 23:00 night. Tall pines on the sandy ridge frame the scene left and right, and a Finnish trail sign names the boulders on the left. The biggest block looms overhead, true to the site's reputation for stones topping ten metres.",
       "approval_status": "Approved"
+    },
+    {
+      "id": "FI-01-356",
+      "city": "Toholampi",
+      "site": "Toholampi Church",
+      "region": "Central Ostrobothnia",
+      "country": "Finland",
+      "file_16x9": "assets/fi-01-356-16x9.png",
+      "file_4x5": "assets/fi-01-356-4x5.png",
+      "file_9x16": "assets/fi-01-356-9x16.png",
+      "motion": null,
+      "scenario": "01 October 2026 · 23:30 Europe/Helsinki",
+      "daynight": "night",
+      "moods": [],
+      "caption": "Toholampi Church, Toholampi",
+      "description": "The white wooden parish church of Toholampi stands quietly under a heavy overcast night sky, its windows glowing warm against the blue-grey dark. From the churchyard approach the low timber nave fills the left frame with its shingled roof and spired belfry, while the graveyard stretches right toward a street sign reading Kirkkotie 143 at the frame edge. A candid night view of a small Central Ostrobothnian church town, lit by churchyard lamps and late autumn foliage.",
+      "approval_status": "Approved"
+    },
+    {
+      "id": "FI-01-357",
+      "city": "Rovaniemi",
+      "site": "Arktikum Museum and Science Centre",
+      "region": "Lapland",
+      "country": "Finland",
+      "file_16x9": "assets/fi-01-357-16x9.png",
+      "file_4x5": "assets/fi-01-357-4x5.png",
+      "file_9x16": "assets/fi-01-357-9x16.png",
+      "motion": null,
+      "scenario": "01 October 2026 · 23:30 Europe/Helsinki",
+      "daynight": "night",
+      "moods": [],
+      "caption": "Arktikum Museum and Science Centre, Rovaniemi",
+      "description": "The glass corridor of Arktikum glows like a lantern at night, its lit tunnel stretching center-frame toward the dark Ounasjoki River beyond. On the left the crescent museum annex carries its ARKTIKUM signage above exhibition windows on Arctic nature, Sámi culture and the history of Lapland; on the right the riverside facade reflects in the wet autumn paving. A candid late-autumn night view of Rovaniemi’s landmark museum, honest overcast conditions, no people posing.",
+      "approval_status": "Approved"
     }
   ],
-  "count": 354,
-  "motion_clips": 134
+  "count": 356,
+  "motion_clips": 136
 }
