@@ -1066,7 +1066,7 @@
       "file_16x9": "assets/fi-01-063-16x9.png",
       "file_4x5": "assets/fi-01-063-4x5.png",
       "file_9x16": "assets/fi-01-063-9x16.png",
-      "motion": null,
+      "motion": "video/fi-01-063-motion-10s-4x5.mp4",
       "scenario": "28 September 2026 · 13:30 Europe/Helsinki",
       "daynight": "day",
       "moods": [],
@@ -1253,7 +1253,7 @@
       "file_16x9": "assets/fi-01-074-16x9.png",
       "file_4x5": "assets/fi-01-074-4x5.png",
       "file_9x16": "assets/fi-01-074-9x16.png",
-      "motion": null,
+      "motion": "video/fi-01-074-motion-10s-4x5.mp4",
       "scenario": "28 September 2026 · 16:30 Europe/Helsinki",
       "daynight": "day",
       "moods": [],
@@ -5000,8 +5000,42 @@
       "caption": "Nurmes Church, Nurmes",
       "description": "From the churchyard at Kirkkokatu, tall frost-dusted pines stand at the left of the frame while the wooden Nurmes Church rises at center, its tall tower and windows warmly lit, and the rooftops of the lakeshore town stretch to the right along the dark shore. An honest 06:00 night scene under near-total October overcast at 0.7 °C — frost on the pines and churchyard ground, the windows glowing against the cloud-covered night sky, town lights reflected along the water.",
       "approval_status": "Approved"
+    },
+    {
+      "id": "FI-01-296",
+      "city": "Rääkkylä",
+      "site": "Rääkkylä Church",
+      "region": "North Karelia",
+      "country": "Finland",
+      "file_16x9": "assets/fi-01-296-16x9.png",
+      "file_4x5": "assets/fi-01-296-4x5.png",
+      "file_9x16": "assets/fi-01-296-9x16.png",
+      "motion": null,
+      "scenario": "01 October 2026 · 06:30 Europe/Helsinki",
+      "daynight": "night",
+      "moods": [],
+      "caption": "Rääkkylä Church, Rääkkylä",
+      "description": "Rääkkylä Church rises on the village's highest point in North Karelia, seen from the churchyard at dawn under a full October overcast. Left, graveyard pines and old stone grave markers frame the churchyard; center, the ochre wooden church facade with its tall dark steeple; right, open fields and a low stone wall lead to a misty lake horizon where the eastern sky warms with soft pre-sunrise light. Notable features: the 1851 wooden church with its slender tower and domed roof section, frost-dusted grass, and a still blue-hour atmosphere.",
+      "approval_status": "Approved"
+    },
+    {
+      "id": "FI-01-297",
+      "city": "Tampere",
+      "site": "Kaleva Church",
+      "region": "Pirkanmaa",
+      "country": "Finland",
+      "file_16x9": "assets/fi-01-297-16x9.png",
+      "file_4x5": "assets/fi-01-297-4x5.png",
+      "file_9x16": "assets/fi-01-297-9x16.png",
+      "motion": null,
+      "scenario": "01 October 2026 · 06:30 Europe/Helsinki",
+      "daynight": "night",
+      "moods": [],
+      "caption": "Kaleva Church, Tampere",
+      "description": "Kaleva Church stands on Liisankallio hill in Tampere, seen from the park at night under a mainly clear October sky. Left, the church's tall vertical concrete ribs catch warm light; center, the sculptural concrete shell glows with its curved massing and narrow window slots; right, autumn birches, a park bench, and glowing lampposts frame the Liisankallio parkland, with a crescent moon and stars overhead. Notable features: the landmark 1964–66 modernist church of Raili and Reima Pietilä, its ribbed concrete form lit against the dark sky.",
+      "approval_status": "Approved"
     }
   ],
-  "count": 294,
-  "motion_clips": 55
+  "count": 296,
+  "motion_clips": 57
 }
