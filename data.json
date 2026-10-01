@@ -2256,7 +2256,7 @@
       "file_16x9": "assets/fi-01-133-16x9.png",
       "file_4x5": "assets/fi-01-133-4x5.png",
       "file_9x16": "assets/fi-01-133-9x16.png",
-      "motion": null,
+      "motion": "video/fi-01-133-motion-10s-4x5.mp4",
       "scenario": "29 September 2026 · 08:00 Europe/Helsinki",
       "daynight": "day",
       "moods": [],
@@ -2273,7 +2273,7 @@
       "file_16x9": "assets/fi-01-134-16x9.png",
       "file_4x5": "assets/fi-01-134-4x5.png",
       "file_9x16": "assets/fi-01-134-9x16.png",
-      "motion": null,
+      "motion": "video/fi-01-134-motion-10s-4x5.mp4",
       "scenario": "29 September 2026 · 08:30 Europe/Helsinki",
       "daynight": "day",
       "moods": [],
@@ -5170,8 +5170,42 @@
       "caption": "Keminmaa Old Church, Keminmaa",
       "description": "From the edge of the ancient graveyard at Keminmaa, moss-covered crosses and slab graves fill the left of frame beneath dark pines, while the grey fieldstone walls of the 16th-century old church hold the centre with its steep dark pitched roof. To the right the frame opens onto the broad river valley, the river winding through autumn fields under a flat grey October sky at 08:30. Overcast Lapland morning light, no people posing — just one of Finland's northernmost medieval churches in its quiet setting.",
       "approval_status": "Approved"
+    },
+    {
+      "id": "FI-01-306",
+      "city": "Sodankylä",
+      "site": "Tankavaara Gold Village",
+      "region": "Lapland",
+      "country": "Finland",
+      "file_16x9": "assets/fi-01-306-16x9.png",
+      "file_4x5": "assets/fi-01-306-4x5.png",
+      "file_9x16": "assets/fi-01-306-9x16.png",
+      "motion": "video/fi-01-306-motion-10s-4x5.mp4",
+      "scenario": "01 October 2026 · 09:00 Europe/Helsinki",
+      "daynight": "day",
+      "moods": [],
+      "caption": "Tankavaara Gold Village, Sodankylä",
+      "description": "From the gravel lane of Tankavaara's gold village, the Gold Prospector Museum's dark timber buildings stand to the left, their signs in Finnish and English marking the gold museum, while the historic wooden facades of the reproduced prospecting town hold the centre of frame. To the right, the gold-panning stream runs over mossy stones, panning pans resting at its edge. Under a flat overcast October morning at 2.6°C, with the first snow dusting the rooftops and the boreal forest closing in behind, the village feels quiet and work-worn — tar-dark logs, barrels, and prospecting tools all speaking to the 1930s gold rush that put Tankavaara on the map.",
+      "approval_status": "Approved"
+    },
+    {
+      "id": "FI-01-307",
+      "city": "Enontekiö",
+      "site": "Three-Country Cairn (Treriksröset)",
+      "region": "Lapland",
+      "country": "Finland",
+      "file_16x9": "assets/fi-01-307-16x9.png",
+      "file_4x5": "assets/fi-01-307-4x5.png",
+      "file_9x16": "assets/fi-01-307-9x16.png",
+      "motion": "video/fi-01-307-motion-10s-4x5.mp4",
+      "scenario": "01 October 2026 · 08:00 Europe/Stockholm",
+      "daynight": "day",
+      "moods": [],
+      "caption": "Three-Country Cairn (Treriksröset), Enontekiö",
+      "description": "From the shore of Lake Koltajärvi in the Malla nature reserve, the yellow concrete cone of Treriksröset — the tripoint of Finland, Sweden and Norway — rises from the shallow water at centre frame, reached by a wooden boardwalk that crosses the shallows from the right. Treeless Arctic fells ring the lake to the left and beyond, their upper slopes dusted with early snow. Under flat overcast morning light at 0.8°C, the reeds and autumn tundra colours mute to browns and golds, and the cold stillness of one of the world's northernmost tripoints settles over the scene.",
+      "approval_status": "Approved"
     }
   ],
-  "count": 304,
-  "motion_clips": 69
+  "count": 306,
+  "motion_clips": 73
 }
