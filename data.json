@@ -2613,7 +2613,7 @@
       "file_16x9": "assets/fi-01-154-16x9.png",
       "file_4x5": "assets/fi-01-154-4x5.png",
       "file_9x16": "assets/fi-01-154-9x16.png",
-      "motion": null,
+      "motion": "video/fi-01-154-motion-10s-4x5.mp4",
       "scenario": "29 September 2026 · 14:00 Europe/Helsinki",
       "daynight": "day",
       "moods": [],
@@ -5510,8 +5510,42 @@
       "caption": "Föglö Church, Föglö",
       "description": "The grey-granite Föglö Church fills the center of the frame, its neo-gothic gables and brick porch speaking to the 1860 rebuilding while the older medieval west tower rises behind. Tall churchyard pines crowd the left side above old gravestones; to the right, red boathouses and village houses stretch toward the archipelago water with boats at a wooden pier. Soft diffused light under a thick broken-cloud sky on a still October afternoon — a candid view of the church that once stood at the centre of the Åland archipelago.",
       "approval_status": "Approved"
+    },
+    {
+      "id": "FI-01-326",
+      "city": "Lumparland",
+      "site": "Lumparland Church",
+      "region": "Åland",
+      "country": "Finland",
+      "file_16x9": "assets/fi-01-326-16x9.png",
+      "file_4x5": "assets/fi-01-326-4x5.png",
+      "file_9x16": "assets/fi-01-326-9x16.png",
+      "motion": "video/fi-01-326-motion-10s-4x5.mp4",
+      "scenario": "01 October 2026 · 14:30 Europe/Mariehamn",
+      "daynight": "day",
+      "moods": [],
+      "caption": "Lumparland Church, Lumparland",
+      "description": "From the churchyard on Kyrkvägen, the eye moves from old trees and weathered gravestones at the left across to the whitewashed wooden facade of Lumparland Church at center frame, its shingled steeple rising into a grey autumn sky, while open fields stretch away to the right. Flat overcast afternoon light — honest early-October conditions — keeps the Åland parish scene soft and season-true, the small 1720s church sitting quietly among its trees.",
+      "approval_status": "Approved"
+    },
+    {
+      "id": "FI-01-327",
+      "city": "Mariehamn",
+      "site": "St. George's Church",
+      "region": "Åland",
+      "country": "Finland",
+      "file_16x9": "assets/fi-01-327-16x9.png",
+      "file_4x5": "assets/fi-01-327-4x5.png",
+      "file_9x16": "assets/fi-01-327-9x16.png",
+      "motion": "video/fi-01-327-motion-10s-4x5.mp4",
+      "scenario": "01 October 2026 · 14:30 Europe/Mariehamn",
+      "daynight": "day",
+      "moods": [],
+      "caption": "St. George's Church, Mariehamn",
+      "description": "From the esplanade fronting the church, the eye moves from leafy street trees and park benches at the left across to the red-brick gable of St. George's Church at center frame, Lars Sonck's 1927 copper-roofed spire rising into broken cloud, while Mariehamn's central streets open to the right. Soft partly cloudy afternoon light — honest early-October conditions — gives the small-capital parish scene a calm, season-true glow.",
+      "approval_status": "Approved"
     }
   ],
-  "count": 324,
-  "motion_clips": 103
+  "count": 326,
+  "motion_clips": 106
 }
