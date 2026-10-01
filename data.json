@@ -675,7 +675,7 @@
       "file_16x9": "assets/fi-01-040-16x9.png",
       "file_4x5": "assets/fi-01-040-4x5.png",
       "file_9x16": "assets/fi-01-040-9x16.png",
-      "motion": null,
+      "motion": "video/fi-01-040-motion-10s-4x5.mp4",
       "scenario": "28 September 2026 · 07:30 Europe/Helsinki",
       "daynight": "day",
       "moods": [],
@@ -692,7 +692,7 @@
       "file_16x9": "assets/fi-01-041-16x9.png",
       "file_4x5": "assets/fi-01-041-4x5.png",
       "file_9x16": "assets/fi-01-041-9x16.png",
-      "motion": null,
+      "motion": "video/fi-01-041-motion-10s-4x5.mp4",
       "scenario": "28 September 2026 · 07:30 Europe/Helsinki",
       "daynight": "day",
       "moods": [],
@@ -4847,8 +4847,42 @@
       "caption": "Lappeenranta Harbour, Lappeenranta",
       "description": "From the Satamatori waterfront after midnight on an overcast October night, the frame opens left on the lamplit market stalls of the harbour square, settles center on the moored white tour boats with glowing cabin windows at the pier, and widens right across the dark expanse of Lake Saimaa toward far shoreline lights. Warm harbour lamps pool on wet cobbles and the floating red buoy marks the channel, while low cloud swallows the sky — an honest autumn-night portrait of Lappeenranta's beloved waterfront.",
       "approval_status": "Approved"
+    },
+    {
+      "id": "FI-01-286",
+      "city": "Imatra",
+      "site": "Imatrankoski Rapids",
+      "region": "South Karelia",
+      "country": "Finland",
+      "file_16x9": "assets/fi-01-286-16x9.png",
+      "file_4x5": "assets/fi-01-286-4x5.png",
+      "file_9x16": "assets/fi-01-286-9x16.png",
+      "motion": null,
+      "scenario": "01 October 2026 · 04:00 Europe/Helsinki",
+      "daynight": "night",
+      "moods": [],
+      "caption": "Imatrankoski Rapids, Imatra",
+      "description": "A tourist's night view into the Imatrankoski gorge: steep moss-darkened rock walls on the left, the white-water ribbon of the Vuoksi surging through the canyon at center, and the old stone bridge arched over the rapids to the right, with the Kruununpuisto park path's warm lamps glowing against the overcast dark. The water's foam catches the faint night light as it funnels beneath the bridge, the wet park path gleaming below. A candid 04:00 look at Finland's first tourist attraction, quiet and raw under 91% cloud.",
+      "approval_status": "Approved"
+    },
+    {
+      "id": "FI-01-288",
+      "city": "Lappeenranta",
+      "site": "Myllysaari",
+      "region": "South Karelia",
+      "country": "Finland",
+      "file_16x9": "assets/fi-01-288-16x9.png",
+      "file_4x5": "assets/fi-01-288-4x5.png",
+      "file_9x16": "assets/fi-01-288-9x16.png",
+      "motion": null,
+      "scenario": "01 October 2026 · 04:00 Europe/Helsinki",
+      "daynight": "night",
+      "moods": [],
+      "caption": "Myllysaari, Lappeenranta",
+      "description": "A tourist's night view of Myllysaari from the sandy beach: two wooden piers reaching into the dark water of Lake Saimaa on the left, the lake stretching to a distant tree-lined shore at center, and the log sauna's warm windows glowing on the right beside the park path with its string of lamps. Autumn leaves lie scattered on the path under the overcast 04:00 sky. A candid night look at Lappeenranta's beloved lakeside beach and sauna spot.",
+      "approval_status": "Approved"
     }
   ],
-  "count": 285,
-  "motion_clips": 47
+  "count": 287,
+  "motion_clips": 49
 }
