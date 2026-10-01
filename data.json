@@ -1321,7 +1321,7 @@
       "file_16x9": "assets/fi-01-078-16x9.png",
       "file_4x5": "assets/fi-01-078-4x5.png",
       "file_9x16": "assets/fi-01-078-9x16.png",
-      "motion": null,
+      "motion": "video/fi-01-078-motion-10s-4x5.mp4",
       "scenario": "28 September 2026 · 18:00 Europe/Helsinki",
       "daynight": "day",
       "moods": [],
@@ -1338,7 +1338,7 @@
       "file_16x9": "assets/fi-01-079-16x9.png",
       "file_4x5": "assets/fi-01-079-4x5.png",
       "file_9x16": "assets/fi-01-079-9x16.png",
-      "motion": null,
+      "motion": "video/fi-01-079-motion-10s-4x5.mp4",
       "scenario": "28 September 2026 · 18:00 Europe/Helsinki",
       "daynight": "day",
       "moods": [],
@@ -5034,8 +5034,42 @@
       "caption": "Kaleva Church, Tampere",
       "description": "Kaleva Church stands on Liisankallio hill in Tampere, seen from the park at night under a mainly clear October sky. Left, the church's tall vertical concrete ribs catch warm light; center, the sculptural concrete shell glows with its curved massing and narrow window slots; right, autumn birches, a park bench, and glowing lampposts frame the Liisankallio parkland, with a crescent moon and stars overhead. Notable features: the landmark 1964–66 modernist church of Raili and Reima Pietilä, its ribbed concrete form lit against the dark sky.",
       "approval_status": "Approved"
+    },
+    {
+      "id": "FI-01-298",
+      "city": "Tampere",
+      "site": "Tampere Old Church",
+      "region": "Pirkanmaa",
+      "country": "Finland",
+      "file_16x9": "assets/fi-01-298-16x9.png",
+      "file_4x5": "assets/fi-01-298-4x5.png",
+      "file_9x16": "assets/fi-01-298-9x16.png",
+      "motion": null,
+      "scenario": "01 October 2026 · 07:00 Europe/Helsinki",
+      "daynight": "night",
+      "moods": [],
+      "caption": "Tampere Old Church, Tampere",
+      "description": "From the edge of Tampere's Central Square at blue hour, the wooden Old Church stands framed by the city's historic commercial buildings on the left and the open cobbled square on the right, its tall clock tower rising into a pale dawn sky. The church's dark timber facade, stone footing, and copper-green spire sit in pre-sunrise shadow while warm light begins to glow in the eastern sky. A quiet tourist-eye view of Tampere's oldest building, captured at 07:00 under a mainly clear dawn.",
+      "approval_status": "Candidate"
+    },
+    {
+      "id": "FI-01-299",
+      "city": "Valkeakoski",
+      "site": "Visavuori — Emil Wikström's Atelier-Home",
+      "region": "Pirkanmaa",
+      "country": "Finland",
+      "file_16x9": "assets/fi-01-299-16x9.png",
+      "file_4x5": "assets/fi-01-299-4x5.png",
+      "file_9x16": "assets/fi-01-299-9x16.png",
+      "motion": null,
+      "scenario": "01 October 2026 · 07:00 Europe/Helsinki",
+      "daynight": "night",
+      "moods": [],
+      "caption": "Visavuori — Emil Wikström's Atelier-Home, Valkeakoski",
+      "description": "At blue hour the sculptor's atelier-home stands on its rock by Lake Vanaja, the National-Romantic timber buildings on the left giving way to the pale atelier house with its observatory dome at center, while on the right a path lined with sculptures winds along the misted lakeshore. Morning mist hangs over the open water past the peninsula and the eastern sky begins to warm. A quiet tourist-eye view of Visavuori, Emil Wikström's home and studio, captured at 07:00 under a mainly clear dawn.",
+      "approval_status": "Approved"
     }
   ],
-  "count": 296,
-  "motion_clips": 57
+  "count": 298,
+  "motion_clips": 59
 }
