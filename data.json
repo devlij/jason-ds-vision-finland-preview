@@ -2732,7 +2732,7 @@
       "file_16x9": "assets/fi-01-161-16x9.png",
       "file_4x5": "assets/fi-01-161-4x5.png",
       "file_9x16": "assets/fi-01-161-9x16.png",
-      "motion": null,
+      "motion": "video/fi-01-161-motion-10s-4x5.mp4",
       "scenario": "29 September 2026 · 16:00 Europe/Helsinki",
       "daynight": "day",
       "moods": [],
@@ -2749,7 +2749,7 @@
       "file_16x9": "assets/fi-01-162-16x9.png",
       "file_4x5": "assets/fi-01-162-4x5.png",
       "file_9x16": "assets/fi-01-162-9x16.png",
-      "motion": null,
+      "motion": "video/fi-01-162-motion-10s-4x5.mp4",
       "scenario": "29 September 2026 · 17:00 Europe/Helsinki",
       "daynight": "day",
       "moods": [],
@@ -5068,8 +5068,42 @@
       "caption": "Visavuori — Emil Wikström's Atelier-Home, Valkeakoski",
       "description": "At blue hour the sculptor's atelier-home stands on its rock by Lake Vanaja, the National-Romantic timber buildings on the left giving way to the pale atelier house with its observatory dome at center, while on the right a path lined with sculptures winds along the misted lakeshore. Morning mist hangs over the open water past the peninsula and the eastern sky begins to warm. A quiet tourist-eye view of Visavuori, Emil Wikström's home and studio, captured at 07:00 under a mainly clear dawn.",
       "approval_status": "Approved"
+    },
+    {
+      "id": "FI-01-300",
+      "city": "Sastamala",
+      "site": "St. Olaf's Church, Tyrvää",
+      "region": "Pirkanmaa",
+      "country": "Finland",
+      "file_16x9": "assets/fi-01-300-16x9.png",
+      "file_4x5": "assets/fi-01-300-4x5.png",
+      "file_9x16": "assets/fi-01-300-9x16.png",
+      "motion": null,
+      "scenario": "01 October 2026 · 07:30 Europe/Helsinki",
+      "daynight": "night",
+      "moods": [],
+      "caption": "St. Olaf's Church, Tyrvää, Sastamala",
+      "description": "From the churchyard at dawn, the grey fieldstone gable of St. Olaf's Church, Tyrvää fills the center of the frame, its steep roof crowned by a small cross and its Satakunta-style white-and-brick gable pattern catching the first faint eastern light. To the left, the medieval stone churchyard wall rises close to the lens; to the right, timber outbuildings and a small belfry sit among trees under a brightening sky fading from amber to blue. The 3.6°C morning leaves the grass rimed with frost, the building itself still held in blue-hour shadow — a quiet October dawn at this late-medieval tourist landmark.",
+      "approval_status": "Approved"
+    },
+    {
+      "id": "FI-01-301",
+      "city": "Urjala",
+      "site": "Nuutajärvi Glass Village",
+      "region": "Pirkanmaa",
+      "country": "Finland",
+      "file_16x9": "assets/fi-01-301-16x9.png",
+      "file_4x5": "assets/fi-01-301-4x5.png",
+      "file_9x16": "assets/fi-01-301-9x16.png",
+      "motion": null,
+      "scenario": "01 October 2026 · 07:30 Europe/Helsinki",
+      "daynight": "night",
+      "moods": [],
+      "caption": "Nuutajärvi Glass Village, Urjala",
+      "description": "At dawn on the village street, the red timber facades of the historic Nuutajärvi glassworks line the left of the frame, their 1793 signboards and glowing windows reflected in the frost-rimed grass. In the center, the tall glass blowing hall rises beside a weathered ladder and stacked firewood, while to the right craft shops with lit displays of ceramics and glassware face the street. Partly cloudy twilight softens the sky behind the chimneys, and the 4.4°C morning stillness suits Finland's oldest glassworks — founded 1793, now a living craft village.",
+      "approval_status": "Approved"
     }
   ],
-  "count": 298,
-  "motion_clips": 59
+  "count": 300,
+  "motion_clips": 61
 }
