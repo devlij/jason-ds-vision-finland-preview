@@ -3871,7 +3871,7 @@
       "file_16x9": "assets/fi-01-228-16x9.png",
       "file_4x5": "assets/fi-01-228-4x5.png",
       "file_9x16": "assets/fi-01-228-9x16.png",
-      "motion": null,
+      "motion": "video/fi-01-228-motion-10s-4x5.mp4",
       "scenario": "30 September 2026 · 10:00 Europe/Helsinki",
       "daynight": "day",
       "moods": [],
@@ -6156,8 +6156,42 @@
       "caption": "Hetta Village, Enontekiö",
       "description": "Enontekiö's modern brick-and-concrete church rises on the left, its slender 30-metre tower crowned by a cross, warm light spilling from the entrance onto wet October pavement. In the center the rooftops of Hetta glow with lit windows along the north bank of Lake Ounasjärvi, where a small harbor with moored boats reflects the town lights. To the right the broad fell peak of Pyhäkero looms under a low overcast sky, its shoulders fading into cloud. The night view — eye-level from the town slope — is lit entirely by the village itself under 98% cloud cover, with no aurora and no snow, honestly an early-October night.",
       "approval_status": "Approved"
+    },
+    {
+      "id": "FI-01-364",
+      "city": "Inari",
+      "site": "Ukonsaari (Ukko Island), Lake Inari",
+      "region": "Lapland",
+      "country": "Finland",
+      "file_16x9": "assets/fi-01-364-16x9.png",
+      "file_4x5": "assets/fi-01-364-4x5.png",
+      "file_9x16": "assets/fi-01-364-9x16.png",
+      "motion": null,
+      "scenario": "02 October 2026 · 01:30 Europe/Helsinki",
+      "daynight": "night",
+      "moods": [],
+      "caption": "Ukonsaari (Ukko Island), Lake Inari, Inari",
+      "description": "The sacred rock of Ukonsaari rises steeply from the middle of the frame, its dark cliff-and-boulder silhouette crowned with pine and birch, the famous Sámi sieidi standing out against a heavy overcast night sky. To the left lie the open waters of Ukonselkä, calm and steel-dark under the October night, while to the right the island-studded lake stretches toward a mist-faded horizon of low skerries and distant islets. Seen from the water as on a Lake Inari boat cruise, the scene is a moody, honest early-October night depiction under 100% cloud — no aurora, no artificial light, just the quiet profile of one of Lapland's most significant archaeological sites.",
+      "approval_status": "Approved"
+    },
+    {
+      "id": "FI-01-365",
+      "city": "Utsjoki",
+      "site": "Kevo Canyon",
+      "region": "Lapland",
+      "country": "Finland",
+      "file_16x9": "assets/fi-01-365-16x9.png",
+      "file_4x5": "assets/fi-01-365-4x5.png",
+      "file_9x16": "assets/fi-01-365-9x16.png",
+      "motion": null,
+      "scenario": "02 October 2026 · 01:30 Europe/Helsinki",
+      "daynight": "night",
+      "moods": [],
+      "caption": "Kevo Canyon, Utsjoki",
+      "description": "The Kevo Canyon cuts a steep gorge through the center of the frame, its rock walls falling away to the Kevojoki River glinting some 80 metres below — one of Finland's most rugged hiking landmarks in the strict nature reserve. To the left lies the open fell highland, lichen-crusted rock under broken October cloud; to the right, tundra-like mires with still dark pools stretch north across the treeless Arctic landscape. Seen at 01:30 under a partly cloudy night sky, the scene is lit only by moonlight breaking through the cloud — an honest early-October night depiction of the canyon rim a tourist would cross on the Kevo Summer Trail.",
+      "approval_status": "Approved"
     }
   ],
-  "count": 362,
-  "motion_clips": 140
+  "count": 364,
+  "motion_clips": 141
 }
