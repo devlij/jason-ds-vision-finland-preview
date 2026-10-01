@@ -2511,7 +2511,7 @@
       "file_16x9": "assets/fi-01-148-16x9.png",
       "file_4x5": "assets/fi-01-148-4x5.png",
       "file_9x16": "assets/fi-01-148-9x16.png",
-      "motion": null,
+      "motion": "video/fi-01-148-motion-10s-4x5.mp4",
       "scenario": "29 September 2026 · 12:30 Europe/Helsinki",
       "daynight": "day",
       "moods": [],
@@ -5442,8 +5442,42 @@
       "caption": "Jomala Church (St. Olav), Jomala",
       "description": "From the churchyard path beside St. Olav's, the massive red-granite gable of Finland's possibly oldest stone church — raised c. 1260–1280 — rises at center frame under a flat grey October sky, its iron-bound wooden door framed by pale limestone. To the left, the mossy burial ground spreads with tilted gravestones and ancient standing stones, while to the right the church's tall slender tower climbs over the open green fields of the Jomala plain. Diffuse overcast light softens the rough medieval stonework, and a gravel path threads between the old stones toward the church door.",
       "approval_status": "Approved"
+    },
+    {
+      "id": "FI-01-322",
+      "city": "Mariehamn",
+      "site": "Badhusberget Viewpoint",
+      "region": "Åland",
+      "country": "Finland",
+      "file_16x9": "assets/fi-01-322-16x9.png",
+      "file_4x5": "assets/fi-01-322-4x5.png",
+      "file_9x16": "assets/fi-01-322-9x16.png",
+      "motion": null,
+      "scenario": "01 October 2026 · 13:30 Europe/Mariehamn",
+      "daynight": "day",
+      "moods": [],
+      "caption": "Badhusberget Viewpoint, Mariehamn",
+      "description": "From the rocky lookout beside the watertower on Badhusberget, the tall brick tower stands at the left of frame with its copper cupola against a flat grey October sky. The view opens across the center onto Mariehamn's rooftops — red, ochre, and white facades dropping toward the harbor — while to the right the Åland Sea stretches beyond the rooftops, glittering through the overcast. Soft diffuse daylight flattens the shadows on the birch-and-scrub covered slope, and small boats and ferries sit quiet in the grey water.",
+      "approval_status": "Approved"
+    },
+    {
+      "id": "FI-01-323",
+      "city": "Sund",
+      "site": "Vita Björn Prison Museum",
+      "region": "Åland",
+      "country": "Finland",
+      "file_16x9": "assets/fi-01-323-16x9.png",
+      "file_4x5": "assets/fi-01-323-4x5.png",
+      "file_9x16": "assets/fi-01-323-9x16.png",
+      "motion": "video/fi-01-323-motion-10s-4x5.mp4",
+      "scenario": "01 October 2026 · 13:30 Europe/Mariehamn",
+      "daynight": "day",
+      "moods": [],
+      "caption": "Vita Björn Prison Museum, Sund",
+      "description": "A gravel road leads the eye into the Kastelholm parkland, where the white 1784 facade of the Vita Björn prison museum stands at center frame behind its red picket fence, a correctly-spelled Swedish museum sign at the gate. To the left, a meadow of birches, mossy rock, and wildflowers; to the right, Slottsvägen curves toward the pale fortress of Kastelholm Castle in the distance. Broken cloud lets patches of blue through, softening the October daylight over the quiet historic grounds.",
+      "approval_status": "Approved"
     }
   ],
-  "count": 320,
-  "motion_clips": 97
+  "count": 322,
+  "motion_clips": 99
 }
