@@ -2596,7 +2596,7 @@
       "file_16x9": "assets/fi-01-153-16x9.png",
       "file_4x5": "assets/fi-01-153-4x5.png",
       "file_9x16": "assets/fi-01-153-9x16.png",
-      "motion": null,
+      "motion": "video/fi-01-153-motion-10s-4x5.mp4",
       "scenario": "29 September 2026 · 14:00 Europe/Helsinki",
       "daynight": "day",
       "moods": [],
@@ -2766,7 +2766,7 @@
       "file_16x9": "assets/fi-01-163-16x9.png",
       "file_4x5": "assets/fi-01-163-4x5.png",
       "file_9x16": "assets/fi-01-163-9x16.png",
-      "motion": null,
+      "motion": "video/fi-01-163-motion-10s-4x5.mp4",
       "scenario": "29 September 2026 · 18:00 Europe/Helsinki",
       "daynight": "day",
       "moods": [],
@@ -5476,8 +5476,42 @@
       "caption": "Vita Björn Prison Museum, Sund",
       "description": "A gravel road leads the eye into the Kastelholm parkland, where the white 1784 facade of the Vita Björn prison museum stands at center frame behind its red picket fence, a correctly-spelled Swedish museum sign at the gate. To the left, a meadow of birches, mossy rock, and wildflowers; to the right, Slottsvägen curves toward the pale fortress of Kastelholm Castle in the distance. Broken cloud lets patches of blue through, softening the October daylight over the quiet historic grounds.",
       "approval_status": "Approved"
+    },
+    {
+      "id": "FI-01-324",
+      "city": "Hammarland",
+      "site": "Hammarland Church",
+      "region": "Åland",
+      "country": "Finland",
+      "file_16x9": "assets/fi-01-324-16x9.png",
+      "file_4x5": "assets/fi-01-324-4x5.png",
+      "file_9x16": "assets/fi-01-324-9x16.png",
+      "motion": "video/fi-01-324-motion-10s-4x5.mp4",
+      "scenario": "01 October 2026 · 14:00 Europe/Mariehamn",
+      "daynight": "day",
+      "moods": [],
+      "caption": "Hammarland Church, Hammarland",
+      "description": "The red-granite Hammarland Church stands at the center of the frame, its stepped three-level silhouette — pyramidal tower on the nave's south side, tall nave, lower eastern chancel — rising against a broken-cloud October sky. To the left, the moss-covered churchyard wall at Posta carries a wooden sign, gravestones peeking through; to the right, harvested fields with hay bales roll toward distant spruce forest. Soft early-afternoon light under partly cloudy skies, leaves turning at the field edges — a candid, quiet countryside view of one of Åland's medieval mother churches.",
+      "approval_status": "Approved"
+    },
+    {
+      "id": "FI-01-325",
+      "city": "Föglö",
+      "site": "Föglö Church",
+      "region": "Åland",
+      "country": "Finland",
+      "file_16x9": "assets/fi-01-325-16x9.png",
+      "file_4x5": "assets/fi-01-325-4x5.png",
+      "file_9x16": "assets/fi-01-325-9x16.png",
+      "motion": "video/fi-01-325-motion-10s-4x5.mp4",
+      "scenario": "01 October 2026 · 14:00 Europe/Mariehamn",
+      "daynight": "day",
+      "moods": [],
+      "caption": "Föglö Church, Föglö",
+      "description": "The grey-granite Föglö Church fills the center of the frame, its neo-gothic gables and brick porch speaking to the 1860 rebuilding while the older medieval west tower rises behind. Tall churchyard pines crowd the left side above old gravestones; to the right, red boathouses and village houses stretch toward the archipelago water with boats at a wooden pier. Soft diffused light under a thick broken-cloud sky on a still October afternoon — a candid view of the church that once stood at the centre of the Åland archipelago.",
+      "approval_status": "Approved"
     }
   ],
-  "count": 322,
-  "motion_clips": 99
+  "count": 324,
+  "motion_clips": 103
 }
