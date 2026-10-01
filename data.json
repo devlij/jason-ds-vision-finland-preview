@@ -2341,7 +2341,7 @@
       "file_16x9": "assets/fi-01-138-16x9.png",
       "file_4x5": "assets/fi-01-138-4x5.png",
       "file_9x16": "assets/fi-01-138-9x16.png",
-      "motion": null,
+      "motion": "video/fi-01-138-motion-10s-4x5.mp4",
       "scenario": "29 September 2026 · 09:30 Europe/Helsinki",
       "daynight": "day",
       "moods": [],
@@ -2358,7 +2358,7 @@
       "file_16x9": "assets/fi-01-139-16x9.png",
       "file_4x5": "assets/fi-01-139-4x5.png",
       "file_9x16": "assets/fi-01-139-9x16.png",
-      "motion": null,
+      "motion": "video/fi-01-139-motion-10s-4x5.mp4",
       "scenario": "29 September 2026 · 09:30 Europe/Helsinki",
       "daynight": "day",
       "moods": [],
@@ -5272,8 +5272,42 @@
       "caption": "Ikoinniemi Linnavuori, Savonlinna",
       "description": "From the rocky summit of Linnavuori hill at Ikoinniemi, the pine-covered cliff edge drops steeply to Pihlajavesi on the left while the lichen-grey summit rocks hold the center of frame and the broad lake panorama stretches right past small forested islands toward a misty far shore. The 7.7°C mid-morning light under 96% cloud cover is flat and shadowless, muting the early-October palette of dark pines, grey rock and still-grey water with patches of autumn colour in the berry undergrowth. No fortifications are shown — the hillfort name is unconfirmed and only the natural lookout is depicted.",
       "approval_status": "Approved"
+    },
+    {
+      "id": "FI-01-312",
+      "city": "Puumala",
+      "site": "Tollonvuori Steep Cliffs (Saimaa Geopark)",
+      "region": "South Savo",
+      "country": "Finland",
+      "file_16x9": "assets/fi-01-312-16x9.png",
+      "file_4x5": "assets/fi-01-312-4x5.png",
+      "file_9x16": "assets/fi-01-312-9x16.png",
+      "motion": null,
+      "scenario": "01 October 2026 · 11:00 Europe/Helsinki",
+      "daynight": "day",
+      "moods": [],
+      "caption": "Tollonvuori Steep Cliffs (Saimaa Geopark), Puumala",
+      "description": "From a trail-level vantage on the Tollonvuori rocky hillside, the steep lichen- and moss-covered rock faces of the geosite fill the left of frame while the pine-crowned cliff mass of the Saimaa Geopark rises above the water at center and the lake-and-forest mosaic of the Geopark terrain — small forested islands on still grey water — stretches to the right under heavy overcast. The 9.6°C mid-morning light is flat and shadowless beneath 89% cloud cover, picking out early-October colour in the fern and berry undergrowth against the dark fractured bedrock. The scene honestly shows the natural geology — fractured cliffs and boulder-strewn slope — with no structures, signage or people.",
+      "approval_status": "Approved"
+    },
+    {
+      "id": "FI-01-313",
+      "city": "Punkaharju",
+      "site": "Lusto — Finnish Forest Museum",
+      "region": "South Savo",
+      "country": "Finland",
+      "file_16x9": "assets/fi-01-313-16x9.png",
+      "file_4x5": "assets/fi-01-313-4x5.png",
+      "file_9x16": "assets/fi-01-313-9x16.png",
+      "motion": "video/fi-01-313-motion-10s-4x5.mp4",
+      "scenario": "01 October 2026 · 11:00 Europe/Helsinki",
+      "daynight": "day",
+      "moods": [],
+      "caption": "Lusto — Finnish Forest Museum, Punkaharju",
+      "description": "From the museum grounds on Lustontie, the forest-museum outdoor exhibits hold the left of frame — a stacked log pile, timber carts and interpretive boards among mossy stones — while the round, larch-clad main building of Lusto, shaped like a tree ring, stands at center behind its glazed entrance, and the tall Punkaharju pines and birches frame the scene to the right. The 8.6°C late-morning light under 96% cloud cover is flat and shadowless, with autumn colour in the birch tops against the dark conifer green. The museum's own LUSTO sign is shown as the landmark's real building signage; no people pose for the camera.",
+      "approval_status": "Approved"
     }
   ],
-  "count": 310,
-  "motion_clips": 79
+  "count": 312,
+  "motion_clips": 82
 }
