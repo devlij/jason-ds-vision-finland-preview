@@ -2409,7 +2409,7 @@
       "file_16x9": "assets/fi-01-142-16x9.png",
       "file_4x5": "assets/fi-01-142-4x5.png",
       "file_9x16": "assets/fi-01-142-9x16.png",
-      "motion": null,
+      "motion": "video/fi-01-142-motion-10s-4x5.mp4",
       "scenario": "29 September 2026 · 10:30 Europe/Helsinki",
       "daynight": "day",
       "moods": [],
@@ -2426,7 +2426,7 @@
       "file_16x9": "assets/fi-01-143-16x9.png",
       "file_4x5": "assets/fi-01-143-4x5.png",
       "file_9x16": "assets/fi-01-143-9x16.png",
-      "motion": null,
+      "motion": "video/fi-01-143-motion-10s-4x5.mp4",
       "scenario": "29 September 2026 · 11:00 Europe/Helsinki",
       "daynight": "day",
       "moods": [],
@@ -5340,8 +5340,42 @@
       "caption": "Oravi Harbour Village, Savonlinna",
       "description": "From the village waterfront, the shore houses of Oravi hold the left of frame — red and ochre wooden boathouses and homes with moss-flecked roofs, fishing nets and buoys piled on the sandy shore — while the small guest harbour sits at center with moored wooden boats and long timber jetties, and the open waters of the Saimaa archipelago stretch to the right toward low tree-covered islands. The 10.2°C late-morning light is soft and shadowless under the overcast sky, with thin chimney smoke drifting over the trees. A working canal village paused for autumn.",
       "approval_status": "Approved"
+    },
+    {
+      "id": "FI-01-316",
+      "city": "Savonlinna",
+      "site": "Savonranta Church",
+      "region": "South Savo",
+      "country": "Finland",
+      "file_16x9": "assets/fi-01-316-16x9.png",
+      "file_4x5": "assets/fi-01-316-4x5.png",
+      "file_9x16": "assets/fi-01-316-9x16.png",
+      "motion": "video/fi-01-316-motion-10s-4x5.mp4",
+      "scenario": "01 October 2026 · 12:00 Europe/Helsinki",
+      "daynight": "day",
+      "moods": [],
+      "caption": "Savonranta Church, Savonlinna",
+      "description": "From the village street on Kirkkotie in the Savonranta church village, tall churchyard birches fill the left of frame — white trunks against the autumn understory — while the wooden Savonranta Church, August Boman's 1862–1863 long church with its gabled tower, stands at center behind a mossy stone churchyard wall, and the village road runs right past red wooden houses under a \"KIRKKOTIE\" street sign. Flat overcast October daylight softens everything; fallen leaves scatter across the wet gravel. A bicycle leans on the fence by the gate — a candid, unposed moment.",
+      "approval_status": "Approved"
+    },
+    {
+      "id": "FI-01-317",
+      "city": "Kangasniemi",
+      "site": "Kangasniemi Church",
+      "region": "South Savo",
+      "country": "Finland",
+      "file_16x9": "assets/fi-01-317-16x9.png",
+      "file_4x5": "assets/fi-01-317-4x5.png",
+      "file_9x16": "assets/fi-01-317-9x16.png",
+      "motion": "video/fi-01-317-motion-10s-4x5.mp4",
+      "scenario": "01 October 2026 · 12:00 Europe/Helsinki",
+      "daynight": "day",
+      "moods": [],
+      "caption": "Kangasniemi Church, Kangasniemi",
+      "description": "From the churchyard edge in Kirkkoniemi, tall pines hold the left of frame while the large yellow wooden Kangasniemi Church — Matti Salonen's 1811–1814 church with its red-tiled roof, seating about 1,500 — stands at center with its separate belfry tower beside it, and the village landscape with harbour sheds, moored boats and the lake spreads to the right. Mainly-clear October daylight throws long soft shadows across the stone churchyard walls and mossy grounds, with yellowing birches marking the season.",
+      "approval_status": "Approved"
     }
   ],
-  "count": 314,
-  "motion_clips": 86
+  "count": 316,
+  "motion_clips": 90
 }
