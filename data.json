@@ -4881,8 +4881,42 @@
       "caption": "Myllysaari, Lappeenranta",
       "description": "A tourist's night view of Myllysaari from the sandy beach: two wooden piers reaching into the dark water of Lake Saimaa on the left, the lake stretching to a distant tree-lined shore at center, and the log sauna's warm windows glowing on the right beside the park path with its string of lamps. Autumn leaves lie scattered on the path under the overcast 04:00 sky. A candid night look at Lappeenranta's beloved lakeside beach and sauna spot.",
       "approval_status": "Approved"
+    },
+    {
+      "id": "FI-01-289",
+      "city": "Joensuu",
+      "site": "Joensuu Lutheran Church",
+      "region": "North Karelia",
+      "country": "Finland",
+      "file_16x9": "assets/fi-01-289-16x9.png",
+      "file_4x5": "assets/fi-01-289-4x5.png",
+      "file_9x16": "assets/fi-01-289-9x16.png",
+      "motion": null,
+      "scenario": "01 October 2026 · 04:30 Europe/Helsinki",
+      "daynight": "night",
+      "moods": [],
+      "caption": "Joensuu Lutheran Church, Joensuu",
+      "description": "The red-brick Joensuu Church glows against a low overcast sky on its hill above the Pielisjoki, its tall 50-meter bell tower and smaller southwest tower floodlit from the square below. From the riverside promenade, the Gothic Revival facade fills the left of the frame with warm lamplight spilling down the frosted steps, while the lit riverside path and the dark river run off to the right. A still 2.4°C October night, with bare birches and the first frost on the ground marking the turn of the season.",
+      "approval_status": "Approved"
+    },
+    {
+      "id": "FI-01-290",
+      "city": "Joensuu",
+      "site": "Joensuu City Hall",
+      "region": "North Karelia",
+      "country": "Finland",
+      "file_16x9": "assets/fi-01-290-16x9.png",
+      "file_4x5": "assets/fi-01-290-4x5.png",
+      "file_9x16": "assets/fi-01-290-9x16.png",
+      "motion": null,
+      "scenario": "01 October 2026 · 04:30 Europe/Helsinki",
+      "daynight": "night",
+      "moods": [],
+      "caption": "Joensuu City Hall, Joensuu",
+      "description": "Eliel Saarinen's 1914 Joensuu City Hall stands over Rantakatu on a still October night, its brick tower and the facade's stone statues lit warm against a low overcast sky. From the riverbank promenade, the Art Nouveau detailing, arched windows and stone base of the city hall fill the left of the frame while the lamplit Pielinen promenade runs off to the right, wet cobbles reflecting the lamps. A quiet 2.2°C night in North Karelia, with the river lying dark beyond the lamps.",
+      "approval_status": "Approved"
     }
   ],
-  "count": 287,
+  "count": 289,
   "motion_clips": 49
 }
