@@ -726,7 +726,7 @@
       "file_16x9": "assets/fi-01-043-16x9.png",
       "file_4x5": "assets/fi-01-043-4x5.png",
       "file_9x16": "assets/fi-01-043-9x16.png",
-      "motion": null,
+      "motion": "video/fi-01-043-motion-10s-4x5.mp4",
       "scenario": "28 September 2026 · 08:00 Europe/Helsinki",
       "daynight": "day",
       "moods": [],
@@ -743,7 +743,7 @@
       "file_16x9": "assets/fi-01-044-16x9.png",
       "file_4x5": "assets/fi-01-044-4x5.png",
       "file_9x16": "assets/fi-01-044-9x16.png",
-      "motion": null,
+      "motion": "video/fi-01-044-motion-10s-4x5.mp4",
       "scenario": "28 September 2026 · 08:30 Europe/Helsinki",
       "daynight": "day",
       "moods": [],
@@ -4932,8 +4932,42 @@
       "caption": "New Valamo Monastery, Heinävesi",
       "description": "From the forested approach road into the monastery grounds, a tourist's eye-level view of New Valamo Monastery in Heinävesi on an overcast early-October night. Left, the gravel path winds past pines and birch toward a trail sign; center, the white Transfiguration church with its copper onion dome and the tall bell tower glowing from within; right, dark log monastery buildings with lit windows along the lakeshore, a rowboat moored at a small jetty on the still black water. Wet leaves and low cloud complete the autumn night mood.",
       "approval_status": "Approved"
+    },
+    {
+      "id": "FI-01-292",
+      "city": "Kitee",
+      "site": "Kitee Church",
+      "region": "North Karelia",
+      "country": "Finland",
+      "file_16x9": "assets/fi-01-292-16x9.png",
+      "file_4x5": "assets/fi-01-292-4x5.png",
+      "file_9x16": "assets/fi-01-292-9x16.png",
+      "motion": null,
+      "scenario": "01 October 2026 · 05:30 Europe/Helsinki",
+      "daynight": "night",
+      "moods": [],
+      "caption": "Kitee Church, Kitee",
+      "description": "From the churchyard forecourt the grey-granite nave of Kitee Church fills the frame — the 1886 stone facade centered with red-brick arch trim, a warmly lit central window above the arched door, and the tall spire rising on the right against the pre-dawn cloud. Left, the moss-capped granite churchyard wall and dark pines frame the view, a lit lantern hanging from the stonework. An honest cold October night at 05:30 under 98% overcast, interior lamps glowing, pavement wet from recent rain.",
+      "approval_status": "Approved"
+    },
+    {
+      "id": "FI-01-293",
+      "city": "Kontiolahti",
+      "site": "Kolvananuuro Nature Reserve",
+      "region": "North Karelia",
+      "country": "Finland",
+      "file_16x9": "assets/fi-01-293-16x9.png",
+      "file_4x5": "assets/fi-01-293-4x5.png",
+      "file_9x16": "assets/fi-01-293-9x16.png",
+      "motion": null,
+      "scenario": "01 October 2026 · 05:30 Europe/Helsinki",
+      "daynight": "night",
+      "moods": [],
+      "caption": "Kolvananuuro Nature Reserve, Kontiolahti",
+      "description": "Deep inside the Kolvananuuro fault gorge, the steep moss-draped cliff walls rise on the left while the dark valley stream threads between forested cliffs down the center of the frame, boulders and fallen logs scattered along its banks. Old-growth conifers close the canopy overhead on the right, their branches heavy in the damp pre-dawn air. An honest pitch-dark October night at 05:30 under full overcast — mist rising from the water, no moon, only the gorge’s own faint ambient glow.",
+      "approval_status": "Approved"
     }
   ],
-  "count": 290,
-  "motion_clips": 51
+  "count": 292,
+  "motion_clips": 53
 }
