@@ -3735,7 +3735,7 @@
       "file_16x9": "assets/fi-01-220-16x9.png",
       "file_4x5": "assets/fi-01-220-4x5.png",
       "file_9x16": "assets/fi-01-220-9x16.png",
-      "motion": null,
+      "motion": "video/fi-01-220-motion-10s-4x5.mp4",
       "scenario": "30 September 2026 · 08:00 Europe/Helsinki",
       "daynight": "day",
       "moods": [],
@@ -3752,7 +3752,7 @@
       "file_16x9": "assets/fi-01-221-16x9.png",
       "file_4x5": "assets/fi-01-221-4x5.png",
       "file_9x16": "assets/fi-01-221-9x16.png",
-      "motion": null,
+      "motion": "video/fi-01-221-motion-10s-4x5.mp4",
       "scenario": "30 September 2026 · 08:30 Europe/Helsinki",
       "daynight": "day",
       "moods": [],
@@ -5578,8 +5578,42 @@
       "caption": "Snellman Park, Kuopio",
       "description": "From the gravel paths of Snellman Park, the eye moves left along empty benches and autumn flower beds to Kuopio Cathedral's white clock tower rising at center over turning birch trees, while the bronze bust of J. V. Snellman on its tall stone pedestal anchors the right foreground. Diffused partly cloudy October-afternoon light softens the stone and bronze — honest season-true conditions with damp paths and fallen leaves. A quiet city-park scene in the Vahtivuori district, Kuopio's oldest park framed by its cathedral.",
       "approval_status": "Approved"
+    },
+    {
+      "id": "FI-01-330",
+      "city": "Kuopio",
+      "site": "Kuopio Museum",
+      "region": "North Savo",
+      "country": "Finland",
+      "file_16x9": "assets/fi-01-330-16x9.png",
+      "file_4x5": "assets/fi-01-330-4x5.png",
+      "file_9x16": "assets/fi-01-330-9x16.png",
+      "motion": "video/fi-01-330-motion-10s-4x5.mp4",
+      "scenario": "01 October 2026 · 15:30 Europe/Helsinki",
+      "daynight": "day",
+      "moods": [],
+      "caption": "Kuopio Museum, Kuopio",
+      "description": "The castle-inspired Art Nouveau facade of Kuopio Museum fills the frame from street level on Museokatu, its round stone tower and conical roof rising against a partly cloudy October sky while the ornamented 'MUSEO' facade stretches to the right. On the left, autumn birch branches frame the view and bicycles line the cobbled forecourt; a nature-trail sign stands in the foreground. Afternoon light at 15:30 softens across the pale plaster and granite, with fallen leaves scattered on the pavement — a candid daytime portrait of North Savo's landmark museum.",
+      "approval_status": "Approved"
+    },
+    {
+      "id": "FI-01-331",
+      "city": "Kuopio",
+      "site": "RIISA – Orthodox Church Museum of Finland",
+      "region": "North Savo",
+      "country": "Finland",
+      "file_16x9": "assets/fi-01-331-16x9.png",
+      "file_4x5": "assets/fi-01-331-4x5.png",
+      "file_9x16": "assets/fi-01-331-9x16.png",
+      "motion": "video/fi-01-331-motion-10s-4x5.mp4",
+      "scenario": "01 October 2026 · 15:30 Europe/Helsinki",
+      "daynight": "day",
+      "moods": [],
+      "caption": "RIISA – Orthodox Church Museum of Finland, Kuopio",
+      "description": "Copper onion domes and an open-arched bell tower rise above the whitewashed RIISA museum block on Karjalankatu, framed at eye level from the street with a brown museum sign in the left foreground ('RIISA — Suomen ortodoksisen kirkkomuseo · n. 800 ikonia · n. 4000 tekstiiliä'). Fallen October leaves litter the pavement around the entrance planters, and pale autumn light filters through partly cloudy skies. A candid daytime view of Finland's Orthodox Church museum, founded 1957, with its Karjalankatu 1 address sign in frame.",
+      "approval_status": "Approved"
     }
   ],
-  "count": 328,
-  "motion_clips": 110
+  "count": 330,
+  "motion_clips": 114
 }
