@@ -2290,7 +2290,7 @@
       "file_16x9": "assets/fi-01-135-16x9.png",
       "file_4x5": "assets/fi-01-135-4x5.png",
       "file_9x16": "assets/fi-01-135-9x16.png",
-      "motion": null,
+      "motion": "video/fi-01-135-motion-10s-4x5.mp4",
       "scenario": "29 September 2026 · 08:30 Europe/Helsinki",
       "daynight": "day",
       "moods": [],
@@ -2324,7 +2324,7 @@
       "file_16x9": "assets/fi-01-137-16x9.png",
       "file_4x5": "assets/fi-01-137-4x5.png",
       "file_9x16": "assets/fi-01-137-9x16.png",
-      "motion": null,
+      "motion": "video/fi-01-137-motion-10s-4x5.mp4",
       "scenario": "29 September 2026 · 09:00 Europe/Helsinki",
       "daynight": "day",
       "moods": [],
@@ -5238,8 +5238,42 @@
       "caption": "Puumala Bridge, Puumala",
       "description": "From the harborside shore in Puumala, the cable-stayed Puumalansalmi Bridge runs left toward the village, its twin white towers and fanning stays holding the centre of frame while the glass viewing-lift tower — Näköalatorni, 25 metres above the lake — rises at right above a blue \"Puumala • Keskusta 0,8 km\" wayfinding sign. Beyond the strait, the grey-blue waters of Lake Saimaa open out past forested islands under a broken-cloud morning sky; red and white houses line the autumn shore to the left. Shifting patches of sunlight cross the water in the 6.4°C morning light.",
       "approval_status": "Approved"
+    },
+    {
+      "id": "FI-01-310",
+      "city": "Puumala",
+      "site": "Norppapolku Nature Trail",
+      "region": "South Savo",
+      "country": "Finland",
+      "file_16x9": "assets/fi-01-310-16x9.png",
+      "file_4x5": "assets/fi-01-310-4x5.png",
+      "file_9x16": "assets/fi-01-310-9x16.png",
+      "motion": "video/fi-01-310-motion-10s-4x5.mp4",
+      "scenario": "01 October 2026 · 10:30 Europe/Helsinki",
+      "daynight": "day",
+      "moods": [],
+      "caption": "Norppapolku Nature Trail, Puumala",
+      "description": "From the Norppa lean-to shelter at the Norppapolku trailhead on Luukkolantie, the wooden trail sign — \"Norppapolku · Luukkolantie 227 · 13 km\" — marks the path's start beside tall Scots pines carrying the trail's blue dot markers to the left, while the log-built shelter with its firewood store and info board holds the center of frame. To the right, Lake Saimaa's archipelago shoreline opens out: grey water, rocky shores and small forested islands under a flat overcast October sky. The 8.5°C mid-morning light is fully diffused by 92% cloud cover, softening the early-autumn moss, red berries and yellowing birch understory along the trail.",
+      "approval_status": "Approved"
+    },
+    {
+      "id": "FI-01-311",
+      "city": "Savonlinna",
+      "site": "Ikoinniemi Linnavuori",
+      "region": "South Savo",
+      "country": "Finland",
+      "file_16x9": "assets/fi-01-311-16x9.png",
+      "file_4x5": "assets/fi-01-311-4x5.png",
+      "file_9x16": "assets/fi-01-311-9x16.png",
+      "motion": "video/fi-01-311-motion-10s-4x5.mp4",
+      "scenario": "01 October 2026 · 10:30 Europe/Helsinki",
+      "daynight": "day",
+      "moods": [],
+      "caption": "Ikoinniemi Linnavuori, Savonlinna",
+      "description": "From the rocky summit of Linnavuori hill at Ikoinniemi, the pine-covered cliff edge drops steeply to Pihlajavesi on the left while the lichen-grey summit rocks hold the center of frame and the broad lake panorama stretches right past small forested islands toward a misty far shore. The 7.7°C mid-morning light under 96% cloud cover is flat and shadowless, muting the early-October palette of dark pines, grey rock and still-grey water with patches of autumn colour in the berry undergrowth. No fortifications are shown — the hillfort name is unconfirmed and only the natural lookout is depicted.",
+      "approval_status": "Approved"
     }
   ],
-  "count": 308,
-  "motion_clips": 75
+  "count": 310,
+  "motion_clips": 79
 }
