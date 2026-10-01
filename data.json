@@ -777,7 +777,7 @@
       "file_16x9": "assets/fi-01-046-16x9.png",
       "file_4x5": "assets/fi-01-046-4x5.png",
       "file_9x16": "assets/fi-01-046-9x16.png",
-      "motion": null,
+      "motion": "video/fi-01-046-motion-10s-4x5.mp4",
       "scenario": "28 September 2026 · 09:00 Europe/Helsinki",
       "daynight": "day",
       "moods": [],
@@ -845,7 +845,7 @@
       "file_16x9": "assets/fi-01-050-16x9.png",
       "file_4x5": "assets/fi-01-050-4x5.png",
       "file_9x16": "assets/fi-01-050-9x16.png",
-      "motion": null,
+      "motion": "video/fi-01-050-motion-10s-4x5.mp4",
       "scenario": "28 September 2026 · 10:30 Europe/Helsinki",
       "daynight": "day",
       "moods": [],
@@ -4915,8 +4915,25 @@
       "caption": "Joensuu City Hall, Joensuu",
       "description": "Eliel Saarinen's 1914 Joensuu City Hall stands over Rantakatu on a still October night, its brick tower and the facade's stone statues lit warm against a low overcast sky. From the riverbank promenade, the Art Nouveau detailing, arched windows and stone base of the city hall fill the left of the frame while the lamplit Pielinen promenade runs off to the right, wet cobbles reflecting the lamps. A quiet 2.2°C night in North Karelia, with the river lying dark beyond the lamps.",
       "approval_status": "Approved"
+    },
+    {
+      "id": "FI-01-291",
+      "city": "Heinävesi",
+      "site": "New Valamo Monastery",
+      "region": "North Karelia",
+      "country": "Finland",
+      "file_16x9": "assets/fi-01-291-16x9.png",
+      "file_4x5": "assets/fi-01-291-4x5.png",
+      "file_9x16": "assets/fi-01-291-9x16.png",
+      "motion": null,
+      "scenario": "01 October 2026 · 05:00 Europe/Helsinki",
+      "daynight": "night",
+      "moods": [],
+      "caption": "New Valamo Monastery, Heinävesi",
+      "description": "From the forested approach road into the monastery grounds, a tourist's eye-level view of New Valamo Monastery in Heinävesi on an overcast early-October night. Left, the gravel path winds past pines and birch toward a trail sign; center, the white Transfiguration church with its copper onion dome and the tall bell tower glowing from within; right, dark log monastery buildings with lit windows along the lakeshore, a rowboat moored at a small jetty on the still black water. Wet leaves and low cloud complete the autumn night mood.",
+      "approval_status": "Approved"
     }
   ],
-  "count": 289,
-  "motion_clips": 49
+  "count": 290,
+  "motion_clips": 51
 }
