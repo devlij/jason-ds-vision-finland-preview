@@ -3718,7 +3718,7 @@
       "file_16x9": "assets/fi-01-219-16x9.png",
       "file_4x5": "assets/fi-01-219-4x5.png",
       "file_9x16": "assets/fi-01-219-9x16.png",
-      "motion": null,
+      "motion": "video/fi-01-219-motion-10s-4x5.mp4",
       "scenario": "30 September 2026 · 08:00 Europe/Helsinki",
       "daynight": "day",
       "moods": [],
@@ -3786,7 +3786,7 @@
       "file_16x9": "assets/fi-01-223-16x9.png",
       "file_4x5": "assets/fi-01-223-4x5.png",
       "file_9x16": "assets/fi-01-223-9x16.png",
-      "motion": null,
+      "motion": "video/fi-01-223-motion-10s-4x5.mp4",
       "scenario": "30 September 2026 · 09:00 Europe/Helsinki",
       "daynight": "day",
       "moods": [],
@@ -6122,8 +6122,42 @@
       "caption": "Icebreaker Sampo, Kemi",
       "description": "The Icebreaker Sampo rests at her Kemi harbour berth under a cloudy October night, her black hull and coat-of-arms crest floodlit against the dark water while deck lights glow warm in the superstructure windows. Left of frame, a second vessel lies alongside the pier; center, the Sampo's bow and mooring lines; right, the wet pier stretches toward the open Gulf of Bothnia, its lamps reflected on the calm sea. A candid night view of Finland's only publicly cruiseable icebreaker, seen in her October berth outside the December to April cruise season.",
       "approval_status": "Approved"
+    },
+    {
+      "id": "FI-01-362",
+      "city": "Inari",
+      "site": "Kakslauttanen Arctic Resort (Saariselkä)",
+      "region": "Lapland",
+      "country": "Finland",
+      "file_16x9": "assets/fi-01-362-16x9.png",
+      "file_4x5": "assets/fi-01-362-4x5.png",
+      "file_9x16": "assets/fi-01-362-9x16.png",
+      "motion": null,
+      "scenario": "02 October 2026 · 01:00 Europe/Helsinki",
+      "daynight": "night",
+      "moods": [],
+      "caption": "Kakslauttanen Arctic Resort (Saariselkä), Inari",
+      "description": "A row of Kakslauttanen's thermal-glass igloo domes glows warmly against the dark of a fully overcast early-October Lapland night, their faceted panes revealing soft interior light. On the left the nearest dome shows the rounded glass construction with wooden base details; in the center several more domes recede among tall, dark arctic pines; to the right the Saariselkä fell wilderness stretches to a cloud-hidden horizon. Shot from eye level within the East Village grounds, the scene is lit only by the resort itself under a starless sky — no aurora, honestly — with autumn undergrowth and lichen-covered rocks in the foreground.",
+      "approval_status": "Approved"
+    },
+    {
+      "id": "FI-01-363",
+      "city": "Enontekiö",
+      "site": "Hetta Village",
+      "region": "Lapland",
+      "country": "Finland",
+      "file_16x9": "assets/fi-01-363-16x9.png",
+      "file_4x5": "assets/fi-01-363-4x5.png",
+      "file_9x16": "assets/fi-01-363-9x16.png",
+      "motion": null,
+      "scenario": "02 October 2026 · 01:00 Europe/Helsinki",
+      "daynight": "night",
+      "moods": [],
+      "caption": "Hetta Village, Enontekiö",
+      "description": "Enontekiö's modern brick-and-concrete church rises on the left, its slender 30-metre tower crowned by a cross, warm light spilling from the entrance onto wet October pavement. In the center the rooftops of Hetta glow with lit windows along the north bank of Lake Ounasjärvi, where a small harbor with moored boats reflects the town lights. To the right the broad fell peak of Pyhäkero looms under a low overcast sky, its shoulders fading into cloud. The night view — eye-level from the town slope — is lit entirely by the village itself under 98% cloud cover, with no aurora and no snow, honestly an early-October night.",
+      "approval_status": "Approved"
     }
   ],
-  "count": 360,
-  "motion_clips": 138
+  "count": 362,
+  "motion_clips": 140
 }
