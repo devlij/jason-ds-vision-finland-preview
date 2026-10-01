@@ -2375,7 +2375,7 @@
       "file_16x9": "assets/fi-01-140-16x9.png",
       "file_4x5": "assets/fi-01-140-4x5.png",
       "file_9x16": "assets/fi-01-140-9x16.png",
-      "motion": null,
+      "motion": "video/fi-01-140-motion-10s-4x5.mp4",
       "scenario": "29 September 2026 · 10:00 Europe/Helsinki",
       "daynight": "day",
       "moods": [],
@@ -2392,7 +2392,7 @@
       "file_16x9": "assets/fi-01-141-16x9.png",
       "file_4x5": "assets/fi-01-141-4x5.png",
       "file_9x16": "assets/fi-01-141-9x16.png",
-      "motion": null,
+      "motion": "video/fi-01-141-motion-10s-4x5.mp4",
       "scenario": "29 September 2026 · 10:30 Europe/Helsinki",
       "daynight": "day",
       "moods": [],
@@ -5306,8 +5306,42 @@
       "caption": "Lusto — Finnish Forest Museum, Punkaharju",
       "description": "From the museum grounds on Lustontie, the forest-museum outdoor exhibits hold the left of frame — a stacked log pile, timber carts and interpretive boards among mossy stones — while the round, larch-clad main building of Lusto, shaped like a tree ring, stands at center behind its glazed entrance, and the tall Punkaharju pines and birches frame the scene to the right. The 8.6°C late-morning light under 96% cloud cover is flat and shadowless, with autumn colour in the birch tops against the dark conifer green. The museum's own LUSTO sign is shown as the landmark's real building signage; no people pose for the camera.",
       "approval_status": "Approved"
+    },
+    {
+      "id": "FI-01-314",
+      "city": "Savonlinna",
+      "site": "Hytermä Island",
+      "region": "South Savo",
+      "country": "Finland",
+      "file_16x9": "assets/fi-01-314-16x9.png",
+      "file_4x5": "assets/fi-01-314-4x5.png",
+      "file_9x16": "assets/fi-01-314-9x16.png",
+      "motion": "video/fi-01-314-motion-10s-4x5.mp4",
+      "scenario": "01 October 2026 · 11:30 Europe/Helsinki",
+      "daynight": "day",
+      "moods": [],
+      "caption": "Hytermä Island, Savonlinna",
+      "description": "From the island's rocky shore trail, moss-covered glacial rock slopes fill the left of frame — grey slabs streaked with lichen and autumn grasses — while the island's old wooden buildings, moss-roofed log cabins, stand among tall pines at center, and the open water of Hytermänselkä opens to the right with a distant dark treeline. The 9.3°C late-morning light is flat and diffused under near-total cloud cover, silvering the rippled water without shadows. A serene, quiet place — just the pines, the cabins, and the lake.",
+      "approval_status": "Approved"
+    },
+    {
+      "id": "FI-01-315",
+      "city": "Savonlinna",
+      "site": "Oravi Harbour Village",
+      "region": "South Savo",
+      "country": "Finland",
+      "file_16x9": "assets/fi-01-315-16x9.png",
+      "file_4x5": "assets/fi-01-315-4x5.png",
+      "file_9x16": "assets/fi-01-315-9x16.png",
+      "motion": "video/fi-01-315-motion-10s-4x5.mp4",
+      "scenario": "01 October 2026 · 11:30 Europe/Helsinki",
+      "daynight": "day",
+      "moods": [],
+      "caption": "Oravi Harbour Village, Savonlinna",
+      "description": "From the village waterfront, the shore houses of Oravi hold the left of frame — red and ochre wooden boathouses and homes with moss-flecked roofs, fishing nets and buoys piled on the sandy shore — while the small guest harbour sits at center with moored wooden boats and long timber jetties, and the open waters of the Saimaa archipelago stretch to the right toward low tree-covered islands. The 10.2°C late-morning light is soft and shadowless under the overcast sky, with thin chimney smoke drifting over the trees. A working canal village paused for autumn.",
+      "approval_status": "Approved"
     }
   ],
-  "count": 312,
-  "motion_clips": 82
+  "count": 314,
+  "motion_clips": 86
 }
