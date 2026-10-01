@@ -5986,8 +5986,42 @@
       "caption": "Veteli Church, Veteli",
       "description": "From the churchyard at night, the 1839 wooden Veteli Church fills the center frame — ochre timber with white trim, a domed lantern and weathervane rising against the dark overcast sky. On the right, the separate 1859 bell tower stands floodlit beside the church, while on the left a blue bilingual sign reads 'Torpantie 130 / Vetelin kirkko · Parish Church'. Lit windows and facade lights reflect off the wet autumn road, and the 10.5°C October night sits heavy with cloud over the Torppa village churchyard.",
       "approval_status": "Approved"
+    },
+    {
+      "id": "FI-01-354",
+      "city": "Perho",
+      "site": "Salamajärvi National Park",
+      "region": "Central Ostrobothnia",
+      "country": "Finland",
+      "file_16x9": "assets/fi-01-354-16x9.png",
+      "file_4x5": "assets/fi-01-354-4x5.png",
+      "file_9x16": "assets/fi-01-354-9x16.png",
+      "motion": null,
+      "scenario": "01 October 2026 · 23:00 Europe/Helsinki",
+      "daynight": "night",
+      "moods": [],
+      "caption": "Salamajärvi National Park, Perho",
+      "description": "From the lakeside duckboard trail at the park's Perho-side access, the still dark lake fills the center of the frame, its surface mirroring the pine shoreline on the far bank, while a trail signpost and duckboards lead in from the left. The 23:00 night under full cloud cover renders the wilderness in deep blue-grey gloom, and low mist hangs over the water. Mossy rocks and autumn-tinged undergrowth in the foreground speak to the park's uninhabited mire-and-forest character, home to wild forest reindeer.",
+      "approval_status": "Approved"
+    },
+    {
+      "id": "FI-01-355",
+      "city": "Kokkola",
+      "site": "Lohtaja Erratic Boulders (Pesäkivet)",
+      "region": "Central Ostrobothnia",
+      "country": "Finland",
+      "file_16x9": "assets/fi-01-355-16x9.png",
+      "file_4x5": "assets/fi-01-355-4x5.png",
+      "file_9x16": "assets/fi-01-355-9x16.png",
+      "motion": null,
+      "scenario": "01 October 2026 · 23:00 Europe/Helsinki",
+      "daynight": "night",
+      "moods": [],
+      "caption": "Lohtaja Erratic Boulders (Pesäkivet), Kokkola",
+      "description": "From the walking path at the boulders, house-sized erratics dominate the center of the frame, piled and tilted like ruins, their lichen-flecked granite flanks and mossy crevices caught in the dark glow of the cloudy 23:00 night. Tall pines on the sandy ridge frame the scene left and right, and a Finnish trail sign names the boulders on the left. The biggest block looms overhead, true to the site's reputation for stones topping ten metres.",
+      "approval_status": "Approved"
     }
   ],
-  "count": 352,
+  "count": 354,
   "motion_clips": 134
 }
