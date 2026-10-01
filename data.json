@@ -5833,8 +5833,25 @@
       "caption": "Lapinlahti Church, Lapinlahti",
       "description": "From the church path at eye level, Lapinlahti Church glows from within on an October night — the tall gabled west tower rises left of frame while the beige-and-brown board-clad nave fills the center, its rows of lit Gothic windows shining against the dark, cloud-heavy sky. The decorative carpenter-style trim, tin roofs, and a small information sign naming Frans Sjöström's 1877–1880 design read clearly; wet gravel and autumn-sodden ground reflect the lamplight. A bench and pines frame the right edge, and the whole scene breathes a quiet, 10.0°C overcast stillness.",
       "approval_status": "Approved"
+    },
+    {
+      "id": "FI-01-347",
+      "city": "Kuopio",
+      "site": "Karttula Church",
+      "region": "North Savo",
+      "country": "Finland",
+      "file_16x9": "assets/fi-01-347-16x9.png",
+      "file_4x5": "assets/fi-01-347-4x5.png",
+      "file_9x16": "assets/fi-01-347-9x16.png",
+      "motion": null,
+      "scenario": "01 October 2026 · 20:00 Europe/Helsinki",
+      "daynight": "night",
+      "moods": [],
+      "caption": "Karttula Church, Kuopio",
+      "description": "The timber church of Karttula stands in its rural churchyard on Kirkkotie, its tall steeple rising left of frame against a dark overcast night sky. Warm lamplight glows from the tall windows and the tower belfry, while churchyard lamps edge the stone steps and paths. Fallen autumn leaves dot the green lawn around the nave — a candid eye-level view of the 1885 Ehnroth wooden church, captured under overcast skies at 20:00.",
+      "approval_status": "Approved"
     }
   ],
-  "count": 343,
+  "count": 344,
   "motion_clips": 132
 }
