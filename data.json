@@ -4092,7 +4092,7 @@
       "file_16x9": "assets/fi-01-241-16x9.png",
       "file_4x5": "assets/fi-01-241-4x5.png",
       "file_9x16": "assets/fi-01-241-9x16.png",
-      "motion": null,
+      "motion": "video/fi-01-241-motion-10s-4x5.mp4",
       "scenario": "30 September 2026 · 13:30 Europe/Mariehamn",
       "daynight": "day",
       "moods": [],
@@ -4126,7 +4126,7 @@
       "file_16x9": "assets/fi-01-243-16x9.png",
       "file_4x5": "assets/fi-01-243-4x5.png",
       "file_9x16": "assets/fi-01-243-9x16.png",
-      "motion": null,
+      "motion": "video/fi-01-243-motion-10s-4x5.mp4",
       "scenario": "30 September 2026 · 14:00 Europe/Mariehamn",
       "daynight": "day",
       "moods": [],
@@ -4143,7 +4143,7 @@
       "file_16x9": "assets/fi-01-244-16x9.png",
       "file_4x5": "assets/fi-01-244-4x5.png",
       "file_9x16": "assets/fi-01-244-9x16.png",
-      "motion": null,
+      "motion": "video/fi-01-244-motion-10s-4x5.mp4",
       "scenario": "30 September 2026 · 14:30 Europe/Mariehamn",
       "daynight": "day",
       "moods": [],
@@ -4160,7 +4160,7 @@
       "file_16x9": "assets/fi-01-245-16x9.png",
       "file_4x5": "assets/fi-01-245-4x5.png",
       "file_9x16": "assets/fi-01-245-9x16.png",
-      "motion": null,
+      "motion": "video/fi-01-245-motion-10s-4x5.mp4",
       "scenario": "30 September 2026 · 14:30 Europe/Helsinki",
       "daynight": "day",
       "moods": [],
@@ -6193,5 +6193,5 @@
     }
   ],
   "count": 364,
-  "motion_clips": 145
+  "motion_clips": 149
 }
