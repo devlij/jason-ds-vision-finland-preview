@@ -4279,7 +4279,7 @@
       "file_16x9": "assets/fi-01-252-16x9.png",
       "file_4x5": "assets/fi-01-252-4x5.png",
       "file_9x16": "assets/fi-01-252-9x16.png",
-      "motion": null,
+      "motion": "video/fi-01-252-motion-10s-4x5.mp4",
       "scenario": "30 September 2026 · 16:30 Europe/Helsinki",
       "daynight": "day",
       "moods": [],
@@ -5231,7 +5231,7 @@
       "file_16x9": "assets/fi-01-309-16x9.png",
       "file_4x5": "assets/fi-01-309-4x5.png",
       "file_9x16": "assets/fi-01-309-9x16.png",
-      "motion": null,
+      "motion": "video/fi-01-309-motion-10s-4x5.mp4",
       "scenario": "01 October 2026 · 09:30 Europe/Helsinki",
       "daynight": "day",
       "moods": [],
@@ -6193,5 +6193,5 @@
     }
   ],
   "count": 364,
-  "motion_clips": 152
+  "motion_clips": 154
 }
