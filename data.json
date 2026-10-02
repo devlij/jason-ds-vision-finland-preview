@@ -5452,7 +5452,7 @@
       "file_16x9": "assets/fi-01-322-16x9.png",
       "file_4x5": "assets/fi-01-322-4x5.png",
       "file_9x16": "assets/fi-01-322-9x16.png",
-      "motion": null,
+      "motion": "video/fi-01-322-motion-10s-4x5.mp4",
       "scenario": "01 October 2026 · 13:30 Europe/Mariehamn",
       "daynight": "day",
       "moods": [],
@@ -6193,5 +6193,5 @@
     }
   ],
   "count": 364,
-  "motion_clips": 152
+  "motion_clips": 153
 }
