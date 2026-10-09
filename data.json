@@ -1076,7 +1076,7 @@
       "file_16x9": "assets/fi-01-057-16x9.png",
       "file_4x5": "assets/fi-01-057-4x5.png",
       "file_9x16": "assets/fi-01-057-9x16.png",
-      "motion": "video/fi-01-057-motion-10s-4x5.mp4",
+      "motion": null,
       "daylight": false,
       "postcard": true,
       "scenario": "28 September 2026 · 12:00 Europe/Helsinki",
@@ -2463,7 +2463,7 @@
       "file_16x9": "assets/fi-01-130-16x9.png",
       "file_4x5": "assets/fi-01-130-4x5.png",
       "file_9x16": "assets/fi-01-130-9x16.png",
-      "motion": "video/fi-01-130-motion-10s-4x5.mp4",
+      "motion": null,
       "daylight": true,
       "postcard": true,
       "scenario": "29 September 2026 · 07:30 Europe/Helsinki",
@@ -4135,7 +4135,7 @@
       "file_16x9": "assets/fi-01-218-16x9.png",
       "file_4x5": "assets/fi-01-218-4x5.png",
       "file_9x16": "assets/fi-01-218-9x16.png",
-      "motion": "video/fi-01-218-motion-10s-4x5.mp4",
+      "motion": null,
       "daylight": true,
       "postcard": true,
       "scenario": "30 September 2026 · 07:30 Europe/Helsinki",
@@ -7320,5 +7320,5 @@
     }
   ],
   "count": 385,
-  "motion_clips": 195
+  "motion_clips": 192
 }
