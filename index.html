@@ -9380,6 +9380,9 @@ const FI_META = {"FI-01-001": ["Helsinki", "night", "", "assets/fi-01-001-16x9.p
       const link = card.querySelector('a.thumb');
       const img = link && link.querySelector('img');
       const dtab = card.querySelector('.day-tab');
+      /* Toggle-button label rule (Jason 2026-10-09): the daylight button must
+         show what it switches TO — 'Night' while the daylight image is shown. */
+      const DAY_LBL = '&#9728; Daylight', NIGHT_LBL = '&#9790; Night';
       const pctab0 = card.querySelector('.pc-tab');
       tabs.forEach(tab => tab.addEventListener('click', e => {
         e.preventDefault();
@@ -9404,6 +9407,8 @@ const FI_META = {"FI-01-001": ["Helsinki", "night", "", "assets/fi-01-001-16x9.p
         dtab.classList.toggle('is-active', isDay);
         dtab.setAttribute('aria-pressed', isDay ? 'true' : 'false');
         dtab.setAttribute('data-daynight', isDay ? 'day' : 'night');
+        dtab.innerHTML = isDay ? NIGHT_LBL : DAY_LBL;
+        dtab.setAttribute('title', isDay ? 'Show the night version' : 'Show the daylight version');
         const pctab = card.querySelector('.pc-tab');
         if (pctab && isDay) { pctab.classList.remove('is-active'); pctab.setAttribute('aria-pressed', 'false'); }
         const ftab = card.querySelector('.fmt-tab.is-active');
@@ -9430,7 +9435,7 @@ const FI_META = {"FI-01-001": ["Helsinki", "night", "", "assets/fi-01-001-16x9.p
         const isPc = !pctab.classList.contains('is-active');
         pctab.classList.toggle('is-active', isPc);
         pctab.setAttribute('aria-pressed', isPc ? 'true' : 'false');
-        if (isPc && dtab) { dtab.classList.remove('is-active'); dtab.setAttribute('aria-pressed', 'false'); dtab.setAttribute('data-daynight', 'night'); }
+        if (isPc && dtab) { dtab.classList.remove('is-active'); dtab.setAttribute('aria-pressed', 'false'); dtab.setAttribute('data-daynight', 'night'); dtab.innerHTML = DAY_LBL; dtab.setAttribute('title', 'Show the daylight version'); }
         const ftab = card.querySelector('.fmt-tab.is-active');
         const pfmt = ftab ? ftab.getAttribute('data-format') : '16x9';
         if (img && link) {
